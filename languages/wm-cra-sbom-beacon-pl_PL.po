@@ -1,0 +1,894 @@
+# Translation of wm-cra-sbom-beacon in pl_PL
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-cra-sbom-beacon 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-cra-sbom-"
+"beacon\n"
+"POT-Creation-Date: 2026-11-21T12:58:25+00:00\n"
+"PO-Revision-Date: 2026-11-21 13:58+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-cra-sbom-"
+"beacon/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-cra-sbom-"
+"beacon/issues>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-cra-sbom-beacon\n"
+
+#. Plugin Name of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "WM CRA SBOM & Vulnerability Beacon"
+msgstr "WM CRA SBOM & Vulnerability Beacon"
+
+#. Plugin URI of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+
+#. Description of the plugin
+#: wm-cra-sbom-beacon.php
+msgid ""
+"CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/"
+"security.txt (RFC 9116) from admin settings, and advisories stored as CSAF "
+"2.0 base documents. It does not assess whether the Cyber Resilience Act "
+"applies."
+msgstr ""
+"Inwentarz CycloneDX 1.6 kodu ładowanego przez WordPress, plik /.well-known/"
+"security.txt (RFC 9116) z ustawień panelu oraz komunikaty bezpieczeństwa "
+"zapisane jako dokumenty bazowe CSAF 2.0. Nie ocenia, czy Cyber Resilience "
+"Act ma zastosowanie."
+
+#. Author of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#. translators: %s: Expires date of security.txt (UTC)
+#: includes/Admin/AdminDashboard.php:67
+#, php-format
+msgid "Gültig bis %s"
+msgstr "Ważny do %s"
+
+#. translators: 1: number of days, 2: Expires date of security.txt (UTC)
+#: includes/Admin/AdminDashboard.php:70
+#, php-format
+msgid "Läuft in %1$d Tagen ab (%2$s)"
+msgstr "Wygasa za %1$d dni (%2$s)"
+
+#. translators: %s: Expires date of security.txt (UTC)
+#: includes/Admin/AdminDashboard.php:73
+#, php-format
+msgid "Abgelaufen am %s"
+msgstr "Wygasł %s"
+
+#: includes/Admin/AdminDashboard.php:75
+msgid "Kontakt oder Ablaufdatum ungültig"
+msgstr "Nieprawidłowy kontakt lub data ważności"
+
+#: includes/Admin/AdminDashboard.php:77
+msgid ""
+"Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht "
+"gespeichert"
+msgstr ""
+"Niedostępny: bezpośrednie odnośniki są ustawione na „Proste” lub reguła nie "
+"została zapisana"
+
+#: includes/Admin/AdminDashboard.php:79
+msgid "Kein Kontakt hinterlegt"
+msgstr "Brak skonfigurowanego kontaktu"
+
+#: includes/Admin/AdminDashboard.php:102
+msgid "CRA Beacon: security.txt und SBOM"
+msgstr "CRA Beacon: security.txt i SBOM"
+
+#. translators: %s: state of security.txt, e.g. "Gültig bis 2027-08-01"
+#. translators: %s: state of security.txt
+#: includes/Admin/AdminDashboard.php:119 includes/Admin/AdminDashboard.php:414
+#, php-format
+msgid "security.txt: %s"
+msgstr "security.txt: %s"
+
+#: includes/Admin/AdminDashboard.php:123
+msgid "Kontakt noch nicht bestätigt: Einstellungen einmal speichern."
+msgstr "Kontakt nie został jeszcze potwierdzony: zapisz ustawienia jeden raz."
+
+#: includes/Admin/AdminDashboard.php:131
+msgid "Komponenten (letzte Momentaufnahme)"
+msgstr "Komponenty (ostatnia migawka)"
+
+#: includes/Admin/AdminDashboard.php:135 includes/Admin/AdminDashboard.php:523
+msgid "Sicherheitshinweise"
+msgstr "Komunikaty bezpieczeństwa"
+
+#: includes/Admin/AdminDashboard.php:141
+msgid "CRA Beacon öffnen"
+msgstr "Otwórz CRA Beacon"
+
+#: includes/Admin/AdminDashboard.php:144 includes/Admin/AdminDashboard.php:432
+msgid "SBOM als JSON"
+msgstr "SBOM jako JSON"
+
+#: includes/Admin/AdminDashboard.php:167
+msgid "CRA Beacon"
+msgstr "CRA Beacon"
+
+#: includes/Admin/AdminDashboard.php:168
+msgid "CRA Beacon (SBOM)"
+msgstr "CRA Beacon (SBOM)"
+
+#: includes/Admin/AdminDashboard.php:381
+msgid "Übersicht"
+msgstr "Przegląd"
+
+#: includes/Admin/AdminDashboard.php:382
+msgid "Software-Liste (SBOM)"
+msgstr "Lista oprogramowania (SBOM)"
+
+#: includes/Admin/AdminDashboard.php:383
+msgid "Schwachstellen"
+msgstr "Podatności"
+
+#: includes/Admin/AdminDashboard.php:384 includes/Admin/AdminDashboard.php:513
+msgid "security.txt"
+msgstr "security.txt"
+
+#: includes/Admin/AdminDashboard.php:385 includes/Admin/AdminDashboard.php:856
+msgid "Begriffe"
+msgstr "Słownik pojęć"
+
+#: includes/Admin/AdminDashboard.php:401
+msgid "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise"
+msgstr ""
+"CRA Beacon: security.txt, lista oprogramowania i komunikaty bezpieczeństwa"
+
+#: includes/Admin/AdminDashboard.php:402
+msgid "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)"
+msgstr "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (profil bazowy)"
+
+#: includes/Admin/AdminDashboard.php:406
+msgid "Part of the WM Suite plugin family"
+msgstr "Część rodziny wtyczek WM Suite"
+
+#: includes/Admin/AdminDashboard.php:408
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:409
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:409
+msgid "Standalone"
+msgstr "Samodzielny"
+
+#: includes/Admin/AdminDashboard.php:421
+msgid "Was dieses Plugin tut"
+msgstr "Co robi ta wtyczka"
+
+#: includes/Admin/AdminDashboard.php:423
+msgid ""
+"Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX "
+"1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser "
+"Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht "
+"wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder "
+"ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der "
+"Verordnung."
+msgstr ""
+"Tworzy zestawienie w formacie CycloneDX 1.6 kodu ładowanego przez WordPress, "
+"udostępnia plik /.well-known/security.txt na podstawie danych z tej strony "
+"oraz wyświetla komunikaty bezpieczeństwa opublikowane przez WP-CLI. Nie "
+"ocenia, czy akt o cyberodporności (CRA) dotyczy tej witryny lub jej "
+"operatora, ani nie zastępuje zgłoszenia z art. 14 rozporządzenia."
+
+#: includes/Admin/AdminDashboard.php:429
+msgid "Momentaufnahme der SBOM speichern"
+msgstr "Zapisz migawkę SBOM"
+
+#: includes/Admin/AdminDashboard.php:431
+msgid "security.txt öffnen"
+msgstr "Otwórz security.txt"
+
+#: includes/Admin/AdminDashboard.php:437
+msgid ""
+"security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben."
+msgstr "Zapisano security.txt. Udostępniany plik korzysta już z nowych danych."
+
+#: includes/Admin/AdminDashboard.php:439
+msgid ""
+"Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste "
+"(SBOM)“."
+msgstr ""
+"Migawka zapisana; znajduje się na liście w zakładce „Lista oprogramowania "
+"(SBOM)”."
+
+#: includes/Admin/AdminDashboard.php:441
+msgid ""
+"Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das "
+"Plugin einmal deaktivieren und wieder aktivieren."
+msgstr ""
+"Nie udało się zapisać migawki. Jeśli brakuje tabeli, wyłącz i włącz wtyczkę "
+"ponownie."
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):"
+msgstr "Wygenerowano nowy token Bearer (wyświetlany tylko raz):"
+
+#: includes/Admin/AdminDashboard.php:459
+msgid "Bearer-Token widerrufen."
+msgstr "Unieważniono token Bearer."
+
+#: includes/Admin/AdminDashboard.php:461
+msgid "Deinstallations-Einstellung gespeichert."
+msgstr "Zapisano ustawienie deinstalacji."
+
+#: includes/Admin/AdminDashboard.php:464
+msgid "Nichts gespeichert. Bitte diese Felder prüfen:"
+msgstr "Nic nie zapisano. Sprawdź następujące pola:"
+
+#: includes/Admin/AdminDashboard.php:467
+msgid "Bereiche"
+msgstr "Sekcje"
+
+#: includes/Admin/AdminDashboard.php:494
+msgid "Kontakt"
+msgstr "Kontakt"
+
+#: includes/Admin/AdminDashboard.php:495
+msgid "Ablaufdatum"
+msgstr "Data ważności"
+
+#: includes/Admin/AdminDashboard.php:496
+msgid "Sprachen"
+msgstr "Języki"
+
+#: includes/Admin/AdminDashboard.php:497
+msgid "Richtlinie"
+msgstr "Polityka"
+
+#: includes/Admin/AdminDashboard.php:498
+msgid "Schlüssel"
+msgstr "Klucz"
+
+#: includes/Admin/AdminDashboard.php:508
+msgid "Komponenten jetzt"
+msgstr "Komponenty teraz"
+
+#: includes/Admin/AdminDashboard.php:510
+msgid "WordPress, aktive Plugins, Must-Use-Plugins, Themes"
+msgstr "WordPress, aktywne wtyczki, wtyczki must-use, motywy"
+
+#: includes/Admin/AdminDashboard.php:515
+msgid "Kontakt bestätigt"
+msgstr "Kontakt potwierdzony"
+
+#: includes/Admin/AdminDashboard.php:515
+msgid "Kontakt nicht bestätigt"
+msgstr "Kontakt niepotwierdzony"
+
+#: includes/Admin/AdminDashboard.php:518
+msgid "Momentaufnahmen"
+msgstr "Migawki"
+
+#: includes/Admin/AdminDashboard.php:520
+msgid "gespeicherte SBOMs"
+msgstr "zapisane SBOM-y"
+
+#: includes/Admin/AdminDashboard.php:525
+msgid "veröffentlicht mit wp cra csaf-publish"
+msgstr "opublikowane przez wp cra csaf-publish"
+
+#. translators: %s: contact written on activation, e.g. mailto:security@example.com
+#: includes/Admin/AdminDashboard.php:534
+#, php-format
+msgid ""
+"Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht "
+"bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie "
+"einmal."
+msgstr ""
+"Kontakt został wyznaczony przy aktywacji (%s) i nie jest jeszcze "
+"potwierdzony. Sprawdź adres w zakładce „security.txt” i zapisz go raz."
+
+#: includes/Admin/AdminDashboard.php:543
+msgid "Ausgelieferte security.txt"
+msgstr "Udostępniany security.txt"
+
+#. translators: %s: URL of security.txt
+#: includes/Admin/AdminDashboard.php:547
+#, php-format
+msgid "Genau dieser Inhalt wird unter %s ausgeliefert:"
+msgstr "Dokładnie ta treść jest serwowana pod adresem %s:"
+
+#: includes/Admin/AdminDashboard.php:571
+msgid "geprüft"
+msgstr "sprawdzono"
+
+#: includes/Admin/AdminDashboard.php:572
+msgid "noch nie geprüft"
+msgstr "jeszcze nie sprawdzono"
+
+#: includes/Admin/AdminDashboard.php:573
+msgid "Version unbekannt"
+msgstr "wersja nieznana"
+
+#: includes/Admin/AdminDashboard.php:574
+msgid "Quelle nicht erreichbar"
+msgstr "źródło nieosiągalne"
+
+#: includes/Admin/AdminDashboard.php:582
+msgid "Abgleich gegen Schwachstellen-Datenbanken"
+msgstr "Weryfikacja w bazach podatności"
+
+#: includes/Admin/AdminDashboard.php:583
+msgid ""
+"Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. "
+"Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine "
+"Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins "
+"auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund "
+"liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, "
+"deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen "
+"geblieben ist."
+msgstr ""
+"Pakiety Composer i npm trafiają do OSV, natomiast komponenty WordPress do "
+"NVD. Każde źródło jest pytane wyłącznie o zasoby, które prowadzi: NVD nie "
+"indeksuje pakietów Composer pod tymi nazwami, a OSV dla każdej wtyczki "
+"WordPress zwraca pustą odpowiedź, co wyglądałoby jak brak zagrożeń. Bez "
+"klucza NVD pozwala na pięć zapytań na 30 sekund, dlatego jeden przebieg "
+"sprawdza część listy i zapamiętuje kursor."
+
+#: includes/Admin/AdminDashboard.php:584
+msgid "Eine nicht geprüfte Komponente ist keine unauffällige Komponente."
+msgstr "Niesprawdzony komponent nie oznacza komponentu wolnego od podatności."
+
+#: includes/Admin/AdminDashboard.php:587
+msgid "Noch kein Abgleich gelaufen."
+msgstr "Nie wykonano jeszcze żadnego sprawdzenia."
+
+#: includes/Admin/AdminDashboard.php:593 includes/Admin/AdminDashboard.php:729
+msgid "Komponente"
+msgstr "Komponent"
+
+#: includes/Admin/AdminDashboard.php:594 includes/Admin/AdminDashboard.php:731
+msgid "Version"
+msgstr "Wersja"
+
+#: includes/Admin/AdminDashboard.php:595
+msgid "Stand"
+msgstr "Stan"
+
+#: includes/Admin/AdminDashboard.php:596
+msgid "Quelle"
+msgstr "Źródło"
+
+#: includes/Admin/AdminDashboard.php:597
+msgid "Geprüft (UTC)"
+msgstr "Sprawdzono (UTC)"
+
+#: includes/Admin/AdminDashboard.php:598
+msgid "Treffer"
+msgstr "Trafienia"
+
+#: includes/Admin/AdminDashboard.php:634
+msgid "Einstellungen des Abgleichs"
+msgstr "Ustawienia weryfikacji"
+
+#: includes/Admin/AdminDashboard.php:640
+msgid "Täglicher Abgleich"
+msgstr "Codzienna weryfikacja"
+
+#: includes/Admin/AdminDashboard.php:644
+msgid "Die Software-Liste täglich gegen OSV und die NVD abgleichen"
+msgstr "Codziennie porównuj listę oprogramowania z OSV i NVD"
+
+#: includes/Admin/AdminDashboard.php:649
+msgid "NVD-API-Schlüssel (optional)"
+msgstr "Klucz API NVD (opcjonalny)"
+
+#: includes/Admin/AdminDashboard.php:651
+msgid "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern"
+msgstr "zapisany — wpisz nowy, aby zmienić, lub zapisz puste pole, aby usunąć"
+
+#: includes/Admin/AdminDashboard.php:651
+msgid "kein Schlüssel hinterlegt"
+msgstr "brak zapisanego klucza"
+
+#. translators: 1: components per run without a key, 2: components per run with a key
+#: includes/Admin/AdminDashboard.php:655
+#, php-format
+msgid ""
+"Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d "
+"Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten "
+"pro Lauf."
+msgstr ""
+"Bez klucza NVD zezwala na pięć zapytań na 30 sekund (%1$d komponentów na "
+"przebieg); z kluczem 50 na 30 sekund i %2$d komponentów na przebieg."
+
+#: includes/Admin/AdminDashboard.php:661 includes/Admin/AdminDashboard.php:709
+msgid "Übernehmen"
+msgstr "Zastosuj"
+
+#: includes/Admin/AdminDashboard.php:668
+msgid "Jetzt einen Durchgang ausführen"
+msgstr "Uruchom przebieg teraz"
+
+#: includes/Admin/AdminDashboard.php:671
+msgid "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten."
+msgstr ""
+"Zaplanowana weryfikacja jest wyłączona; działa tylko uruchomienie ręczne "
+"tutaj."
+
+#. translators: %s: timestamp in UTC
+#: includes/Admin/AdminDashboard.php:675
+#, php-format
+msgid "Nächster geplanter Lauf: %s UTC."
+msgstr "Następny zaplanowany przebieg: %s UTC."
+
+#: includes/Admin/AdminDashboard.php:678
+msgid ""
+"Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal "
+"speichern legt den Termin an."
+msgstr ""
+"Weryfikacja jest włączona, ale nie zaplanowano zadania. Jednokrotne "
+"zapisanie utworzy harmonogram."
+
+#: includes/Admin/AdminDashboard.php:690
+msgid "nicht angegeben"
+msgstr "nie podano"
+
+#: includes/Admin/AdminDashboard.php:693
+msgid "Aktiver Code"
+msgstr "Aktywny kod"
+
+#: includes/Admin/AdminDashboard.php:694
+msgid ""
+"WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das "
+"aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; "
+"dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes "
+"mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, "
+"Datenbankserver). Inaktive Plugins sind nicht enthalten."
+msgstr ""
+"WordPress, aktywne wtyczki (witryna i sieć), wtyczki must-use, aktywny motyw "
+"i motyw nadrzędny według nagłówków plików; ponadto dołączone biblioteki "
+"Composer i npm oraz środowisko uruchomieniowe (PHP, wersjonowane "
+"rozszerzenia, serwer bazy danych). Nieaktywne wtyczki nie są ujęte."
+
+#: includes/Admin/AdminDashboard.php:701
+msgid "Kryptografische Verfahren mitaufnehmen (CBOM)"
+msgstr "Uwzględnij algorytmy kryptograficzne (CBOM)"
+
+#: includes/Admin/AdminDashboard.php:703
+msgid ""
+"Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server "
+"anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. "
+"Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche "
+"Einträge, deshalb ist die Aufnahme standardmäßig aus."
+msgstr ""
+"Wypisuje funkcje skrótu, szyfry i wersje TLS oferowane przez ten serwer — "
+"również przestarzałe, bo właśnie do tego służy inwentarz kryptograficzny. Na "
+"typowym PHP 8.3 z OpenSSL 3.5 dodaje to około 186 pozycji, dlatego domyślnie "
+"opcja jest wyłączona."
+
+#: includes/Admin/AdminDashboard.php:706
+msgid ""
+"REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich "
+"freigeben"
+msgstr ""
+"Udostępnij publicznie bez logowania punkty końcowe REST (/sbom, /spdx, /"
+"vex, /csaf)"
+
+#: includes/Admin/AdminDashboard.php:708
+msgid ""
+"Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder "
+"Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde "
+"Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute."
+msgstr ""
+"Domyślnie punkty końcowe są chronione (sesja administratora lub "
+"Authorization: Bearer <Token>). Po upublicznieniu obowiązuje 1-godzinny "
+"cache oraz limit 60 żądań na minutę."
+
+#: includes/Admin/AdminDashboard.php:715
+msgid "Bearer-Token neu erzeugen"
+msgstr "Wygeneruj ponownie token Bearer"
+
+#: includes/Admin/AdminDashboard.php:715
+msgid "Bearer-Token erzeugen"
+msgstr "Wygeneruj token Bearer"
+
+#: includes/Admin/AdminDashboard.php:721
+msgid "Bearer-Token widerrufen"
+msgstr "Unieważnij token Bearer"
+
+#: includes/Admin/AdminDashboard.php:730
+msgid "Typ"
+msgstr "Typ"
+
+#: includes/Admin/AdminDashboard.php:732
+msgid "Paket-URL (purl)"
+msgstr "URL pakietu (purl)"
+
+#: includes/Admin/AdminDashboard.php:733
+msgid "Lizenz laut Dateikopf"
+msgstr "Licencja z nagłówka pliku"
+
+#: includes/Admin/AdminDashboard.php:753
+msgid "Gespeicherte Momentaufnahmen (neueste 10)"
+msgstr "Zapisane migawki (10 najnowszych)"
+
+#: includes/Admin/AdminDashboard.php:755
+msgid "Noch keine Momentaufnahme gespeichert."
+msgstr "Nie zapisano jeszcze żadnej migawki."
+
+#: includes/Admin/AdminDashboard.php:761
+msgid "Gespeichert (UTC)"
+msgstr "Zapisano (UTC)"
+
+#: includes/Admin/AdminDashboard.php:762
+msgid "Komponenten"
+msgstr "Komponenty"
+
+#: includes/Admin/AdminDashboard.php:763
+msgid "SHA-256 des JSON"
+msgstr "SHA-256 pliku JSON"
+
+#: includes/Admin/AdminDashboard.php:789
+msgid "Angaben für /.well-known/security.txt"
+msgstr "Dane dla /.well-known/security.txt"
+
+#: includes/Admin/AdminDashboard.php:795
+msgid "Kontakt (Pflichtfeld)"
+msgstr "Kontakt (pole wymagane)"
+
+#: includes/Admin/AdminDashboard.php:796
+msgid ""
+"E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines "
+"Kontaktformulars."
+msgstr ""
+"Adres e-mail (udostępniany jako mailto:) lub adres https formularza "
+"kontaktowego."
+
+#: includes/Admin/AdminDashboard.php:801
+msgid "Ablaufdatum (Pflichtfeld)"
+msgstr "Data ważności (pole wymagane)"
+
+#: includes/Admin/AdminDashboard.php:802
+msgid ""
+"Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als "
+"ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt."
+msgstr ""
+"Po tym dniu plik uznaje się za przestarzały. RFC 9116 zaleca mniej niż rok; "
+"daty dalsze w przyszłości są odrzucane."
+
+#: includes/Admin/AdminDashboard.php:807
+msgid "Bevorzugte Sprachen"
+msgstr "Preferowane języki"
+
+#: includes/Admin/AdminDashboard.php:808
+msgid "Sprachkürzel, durch Komma getrennt, z. B. de, en."
+msgstr "Kody języków oddzielone przecinkami, np. pl, de, en."
+
+#: includes/Admin/AdminDashboard.php:813
+msgid "Richtlinie für Meldungen"
+msgstr "Polityka zgłoszeń"
+
+#: includes/Admin/AdminDashboard.php:814
+msgid ""
+"https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. "
+"Leer lassen, wenn es keine gibt."
+msgstr ""
+"Adres https strony opisującej sposób obsługi zgłoszeń. Pozostaw puste, jeśli "
+"brak."
+
+#: includes/Admin/AdminDashboard.php:819
+msgid "Öffentlicher Schlüssel"
+msgstr "Klucz publiczny"
+
+#: includes/Admin/AdminDashboard.php:820
+msgid ""
+"https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer "
+"lassen, wenn es keinen gibt."
+msgstr ""
+"Adres https klucza OpenPGP do szyfrowanych zgłoszeń. Pozostaw puste, jeśli "
+"brak."
+
+#: includes/Admin/AdminDashboard.php:824
+msgid "security.txt speichern"
+msgstr "Zapisz security.txt"
+
+#: includes/Admin/AdminDashboard.php:829
+msgid "Datenaufbewahrung bei Deinstallation"
+msgstr "Przechowywanie danych przy deinstalacji"
+
+#: includes/Admin/AdminDashboard.php:836
+msgid ""
+"Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-"
+"Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-"
+"Stellungnahmen endgültig löschen"
+msgstr ""
+"Podczas odinstalowywania wtyczki trwale usuń wszystkie opcje oraz zapisane "
+"migawki SBOM, komunikaty CSAF, wykryte podatności i oświadczenia VEX"
+
+#: includes/Admin/AdminDashboard.php:839
+msgid ""
+"Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei "
+"einer Plugin-Deinstallation erhalten."
+msgstr ""
+"Domyślnie opcje, tabele dowodowe oraz oświadczenia VEX są zachowywane po "
+"odinstalowaniu wtyczki."
+
+#: includes/Admin/AdminDashboard.php:840
+msgid "Einstellung speichern"
+msgstr "Zapisz ustawienie"
+
+#: includes/Admin/AdminDashboard.php:848
+msgid "Cyber Resilience Act (CRA)"
+msgstr "Cyber Resilience Act (CRA)"
+
+#: includes/Admin/AdminDashboard.php:848
+msgid ""
+"Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für "
+"Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die "
+"Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). "
+"Dieses Plugin prüft nicht, ob sie für eine Website gilt."
+msgstr ""
+"Rozporządzenie (UE) 2024/2847 w sprawie horyzontalnych wymogów "
+"cyberbezpieczeństwa dla produktów z elementami cyfrowymi. Stosuje się od 11 "
+"grudnia 2027 r., a obowiązki zgłoszeniowe z art. 14 od 11 września 2026 r. "
+"(art. 71). Wtyczka nie ocenia, czy rozporządzenie dotyczy danej witryny."
+
+#: includes/Admin/AdminDashboard.php:849
+msgid "SBOM (Software Bill of Materials)"
+msgstr "SBOM (Software Bill of Materials)"
+
+#: includes/Admin/AdminDashboard.php:849
+msgid ""
+"Eine formale Aufzeichnung der Komponenten einer Software und ihrer "
+"Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen "
+"sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten "
+"Ebene erstellen; veröffentlichen müssen sie sie nicht."
+msgstr ""
+"Formalny wykaz komponentów oprogramowania i ich relacji w łańcuchu dostaw "
+"(art. 3 pkt 39 CRA). Zgodnie z załącznikiem I część II producenci muszą "
+"sporządzać go co najmniej dla zależności najwyższego poziomu; publikacja nie "
+"jest wymagana."
+
+#: includes/Admin/AdminDashboard.php:850
+msgid "CycloneDX"
+msgstr "CycloneDX"
+
+#: includes/Admin/AdminDashboard.php:850
+msgid ""
+"Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie "
+"BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und "
+"SPDX; sie ist nach Angabe des BSI nicht verbindlich."
+msgstr ""
+"Format zestawień komponentów oprogramowania przeznaczony do odczytu "
+"maszynowego. Wytyczna techniczna BSI TR-03183-2 opisuje odwzorowanie pól "
+"danych na CycloneDX i SPDX i według BSI ma charakter niewiążący."
+
+#: includes/Admin/AdminDashboard.php:851 includes/Frontend/PsirtPortal.php:175
+msgid "security.txt (RFC 9116)"
+msgstr "security.txt (RFC 9116)"
+
+#: includes/Admin/AdminDashboard.php:851
+msgid ""
+"Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit "
+"Sicherheitsmeldungen die richtige Stelle erreichen."
+msgstr ""
+"Plik tekstowy pod adresem /.well-known/security.txt zawierający kontakt i "
+"datę ważności, aby zgłoszenia bezpieczeństwa trafiały we właściwe miejsce."
+
+#: includes/Admin/AdminDashboard.php:852
+msgid "CSAF 2.0"
+msgstr "CSAF 2.0"
+
+#: includes/Admin/AdminDashboard.php:852
+msgid ""
+"Common Security Advisory Framework (OASIS): maschinenlesbares Format für "
+"Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des "
+"Basisprofils und veröffentlicht keine provider-metadata.json."
+msgstr ""
+"Common Security Advisory Framework (OASIS): format komunikatów "
+"bezpieczeństwa do odczytu maszynowego. Wtyczka zapisuje komunikaty w profilu "
+"bazowym i nie publikuje provider-metadata.json."
+
+#: includes/API/RestController.php:141
+msgid "Ungültiges Bearer-Token."
+msgstr "Nieprawidłowy token Bearer."
+
+#: includes/API/RestController.php:149
+msgid "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich."
+msgstr "Odmowa dostępu: wymagane logowanie lub token Bearer."
+
+#: includes/API/RestController.php:157
+msgid "Zu viele Anfragen. Bitte später erneut versuchen."
+msgstr "Zbyt wiele żądań. Spróbuj ponownie później."
+
+#: includes/Frontend/PsirtPortal.php:86 includes/Frontend/PsirtPortal.php:96
+msgid "CRA Beacon Status"
+msgstr "Status CRA Beacon"
+
+#: includes/Frontend/PsirtPortal.php:100
+msgid "Berechneter Status der ausgelieferten security.txt (RFC 9116)."
+msgstr "Obliczony stan udostępnianego pliku security.txt (RFC 9116)."
+
+#: includes/Frontend/PsirtPortal.php:178
+msgid "Sicherheitshinweise und Meldung von Schwachstellen"
+msgstr "Komunikaty bezpieczeństwa i zgłaszanie podatności"
+
+#: includes/Frontend/PsirtPortal.php:181
+msgid ""
+"Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. "
+"Die Liste der eingesetzten Software und die veröffentlichten "
+"Sicherheitshinweise stehen als JSON bereit."
+msgstr ""
+"Podatności w tej witrynie prosimy zgłaszać na poniższy adres. Wykaz "
+"używanego oprogramowania i opublikowane komunikaty bezpieczeństwa są "
+"dostępne jako JSON."
+
+#: includes/Frontend/PsirtPortal.php:187
+msgid "Kontakt für Sicherheitsmeldungen"
+msgstr "Kontakt do zgłoszeń bezpieczeństwa"
+
+#: includes/Frontend/PsirtPortal.php:189
+msgid "Nicht hinterlegt"
+msgstr "Nie skonfigurowano"
+
+#: includes/Frontend/PsirtPortal.php:194
+msgid "Software-Liste (CycloneDX 1.6)"
+msgstr "Lista oprogramowania (CycloneDX 1.6)"
+
+#: includes/Frontend/PsirtPortal.php:198
+msgid "Sicherheitshinweise (JSON)"
+msgstr "Komunikaty bezpieczeństwa (JSON)"
+
+#: includes/Frontend/PsirtPortal.php:206
+msgid "Veröffentlichte Sicherheitshinweise"
+msgstr "Opublikowane komunikaty bezpieczeństwa"
+
+#: includes/Frontend/PsirtPortal.php:211
+msgid "Derzeit sind keine Sicherheitshinweise veröffentlicht."
+msgstr "Obecnie nie ma opublikowanych komunikatów bezpieczeństwa."
+
+#. translators: %s: severity of the advisory as stated by the publisher (low, medium, high, critical)
+#: includes/Frontend/PsirtPortal.php:235
+#, php-format
+msgid "Schweregrad: %s"
+msgstr "Poziom istotności: %s"
+
+#: includes/Vuln/NvdClient.php:85
+msgid "Kein Produktname für die Abfrage."
+msgstr "Brak nazwy produktu do zapytania."
+
+#: includes/Vuln/NvdClient.php:131
+msgid ""
+"Die Version dieser Komponente ist unbekannt; ein Abgleich gegen "
+"Versionsbereiche war nicht möglich."
+msgstr ""
+"Wersja tego komponentu jest nieznana; porównanie z zakresami wersji nie było "
+"możliwe."
+
+#: includes/Vuln/OpenVexEngine.php:67
+msgid "Produkt und Schwachstelle müssen benannt sein."
+msgstr "Należy wskazać zarówno produkt, jak i podatność."
+
+#: includes/Vuln/OpenVexEngine.php:70
+msgid "Unbekannter VEX-Status."
+msgstr "Nieznany status VEX."
+
+#: includes/Vuln/OpenVexEngine.php:79
+msgid "Die Begründung ist keine der fünf im VEX-Katalog definierten."
+msgstr ""
+"Uzasadnienie nie należy do pięciu wartości zdefiniowanych w katalogu VEX."
+
+#: includes/Vuln/OpenVexEngine.php:84
+msgid ""
+"„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine "
+"Erklärung im Klartext."
+msgstr ""
+"Status „nie dotyczy” wymaga uzasadnienia z katalogu lub opisu tekstowego."
+
+#: includes/Vuln/OpenVexEngine.php:89
+msgid "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist."
+msgstr "Status „dotyczy” wymaga wskazania zalecanych działań."
+
+#. translators: %s: name of the vulnerability database
+#: includes/Vuln/OsvClient.php:223
+#, php-format
+msgid "%s war nicht erreichbar."
+msgstr "Nie udało się połączyć z %s."
+
+#. translators: 1: name of the vulnerability database, 2: HTTP status code
+#: includes/Vuln/OsvClient.php:231
+#, php-format
+msgid "%1$s antwortete mit HTTP %2$d."
+msgstr "%1$s odpowiedział kodem HTTP %2$d."
+
+#. translators: %s: name of the vulnerability database
+#: includes/Vuln/OsvClient.php:238
+#, php-format
+msgid "Die Antwort von %s war kein JSON."
+msgstr "Odpowiedź z %s nie była prawidłowym JSON-em."
+
+#: includes/Vuln/VulnerabilityAudit.php:150
+msgid ""
+"Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde "
+"die erste Seite."
+msgstr ""
+"Baza danych zgłosiła więcej wyników niż mieści jedna strona; sprawdzono "
+"pierwszą stronę."
+
+#: blocks-src/index.js:17 blocks-src/index.js:76
+msgid "CRA Beacon: PSIRT & Sicherheitshinweise"
+msgstr "CRA Beacon: PSIRT i komunikaty bezpieczeństwa"
+
+#: blocks-src/index.js:18
+msgid ""
+"Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index "
+"sowie veröffentlichte Sicherheitshinweise."
+msgstr ""
+"Wyświetla kontakt bezpieczeństwa zgodny z RFC 9116, odnośniki do SBOM i "
+"indeksu CSAF oraz opublikowane komunikaty bezpieczeństwa."
+
+#: blocks-src/index.js:49
+msgid "Darstellung"
+msgstr "Wygląd"
+
+#: blocks-src/index.js:53
+msgid "JSON-Verweise anzeigen (SBOM & CSAF)"
+msgstr "Pokaż odnośniki JSON (SBOM i CSAF)"
+
+#: blocks-src/index.js:60
+msgid "Veröffentlichte Sicherheitshinweise anzeigen"
+msgstr "Pokaż opublikowane komunikaty bezpieczeństwa"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block title"
+msgid "CRA Beacon: PSIRT & Sicherheitshinweise"
+msgstr "CRA Beacon: PSIRT i komunikaty bezpieczeństwa"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block description"
+msgid ""
+"Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index "
+"sowie veröffentlichte Sicherheitshinweise."
+msgstr ""
+"Wyświetla kontakt bezpieczeństwa zgodny z RFC 9116, odnośniki do SBOM i "
+"indeksu CSAF oraz opublikowane komunikaty bezpieczeństwa."
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "security"
+msgstr "bezpieczeństwo"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "sbom"
+msgstr "sbom"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "csaf"
+msgstr "csaf"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "psirt"
+msgstr "psirt"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "cra"
+msgstr "cra"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

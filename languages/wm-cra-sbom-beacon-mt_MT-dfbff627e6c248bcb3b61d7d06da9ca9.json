@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "mt_MT",
+        "plural-forms": "nplurals=4; plural=(n==1 ? 0 : n==0 || (n%100>1 && n%100<11) ? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "Inventarju CycloneDX 1.6 tal-kodiċi li jgħabbi WordPress, /.well-known/security.txt (RFC 9116) mis-settings tal-amministrazzjoni u avviżi ta’ sigurtà maħżuna bħala dokumenti bażi CSAF 2.0. Ma jevalwax jekk japplikax is-Cyber Resilience Act."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Validu sa %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Jiskadi fi %1$d ijiem (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Skada nhar %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Kuntatt jew data ta’ skadenza mhux validi"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Mhux aċċessibbli: il-permalinks qegħdin fuq “Sempliċi” jew ir-regola mhijiex maħżuna"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "L-ebda kuntatt ma ġie ssettjat"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt u SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Il-kuntatt għadu mhux ikkonfermat: issejvja s-settings darba."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponenti (l-aħħar ritratt tal-istat)"
+      ],
+      "Sicherheitshinweise": [
+        "Avviżi ta’ sigurtà"
+      ],
+      "CRA Beacon öffnen": [
+        "Iftaħ CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM bħala JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Ħarsa ġenerali"
+      ],
+      "Software-Liste (SBOM)": [
+        "Lista tas-Software (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Vulnerabbiltajiet"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Termini"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, lista tas-software u avviżi ta’ sigurtà"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (profil bażi)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parti mill-familja ta’ plugins ta’ WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Awtonomu"
+      ],
+      "Was dieses Plugin tut": [
+        "X’jagħmel dan il-plugin"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Jiġġenera lista fil-format CycloneDX 1.6 tal-kodiċi li jgħabbi WordPress, iservi l-fajl /.well-known/security.txt mid-dettalji f’din il-paġna u jelenka l-avviżi ta’ sigurtà ppubblikati permezz ta’ WP-CLI. Ma jivverifikax jekk ir-Regolament dwar ir-Reżiljenza Ċibernetika (CRA) japplikax għal dan is-sit jew għall-operatur tiegħu, u ma jissostitwixxix ir-rappurtar skont l-Artikolu 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Issejvja ritratt tal-SBOM"
+      ],
+      "security.txt öffnen": [
+        "Iftaħ security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt ġie ssejvjat. Il-fajl servut issa juża d-dettalji l-ġodda."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Ir-ritratt tal-istat ġie ssejvjat; jinsab fil-lista taħt “Lista tas-Software (SBOM)”."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Ir-ritratt tal-istat ma setax jiġi ssejvjat. Jekk it-tabella hija nieqsa, iddiżattiva u erġa’ attiva l-plugin darba."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Inħoloq token Bearer ġdid (jintwera darba biss):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "It-token Bearer ġie revokat."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Is-setting tad-diżinstallazzjoni ġie ssejvjat."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Xejn ma ġie ssejvjat. Jekk jogħġbok iċċekkja dawn l-oqsma:"
+      ],
+      "Bereiche": [
+        "Taqsimiet"
+      ],
+      "Kontakt": [
+        "Kuntatt"
+      ],
+      "Ablaufdatum": [
+        "Data ta’ skadenza"
+      ],
+      "Sprachen": [
+        "Lingwi"
+      ],
+      "Richtlinie": [
+        "Politika"
+      ],
+      "Schlüssel": [
+        "Ċavetta"
+      ],
+      "Komponenten jetzt": [
+        "Komponenti bħalissa"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, plugins attivi, plugins obbligatorji (MU), temi"
+      ],
+      "Kontakt bestätigt": [
+        "Kuntatt ikkonfermat"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kuntatt mhux ikkonfermat"
+      ],
+      "Momentaufnahmen": [
+        "Ritratti tal-istat"
+      ],
+      "gespeicherte SBOMs": [
+        "SBOMs maħżuna"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "ippubblikati bi wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Il-kuntatt ġie stmat waqt l-attivazzjoni (%s) u għadu mhux ikkonfermat. Iċċekkja l-indirizz taħt “security.txt” u issejvja darba."
+      ],
+      "Ausgelieferte security.txt": [
+        "security.txt servut"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Eżattament dan il-kontenut jiġi servut fuq %s:"
+      ],
+      "geprüft": [
+        "ivverifikat"
+      ],
+      "noch nie geprüft": [
+        "qatt ma ġie vverifikat"
+      ],
+      "Version unbekannt": [
+        "verżjoni mhux magħrufa"
+      ],
+      "Quelle nicht erreichbar": [
+        "sors mhux aċċessibbli"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Verifika ma’ databases tal-vulnerabbiltajiet"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Il-pakketti Composer u npm jintbagħtu lil OSV, filwaqt li l-komponenti ta’ WordPress jintbagħtu lin-NVD. Kull sors jiġi mistoqsi biss dwar dak li jżomm: in-NVD ma tafx bil-pakketti Composer taħt dawn l-ismijiet, u OSV jirritorna tweġiba vojta għal kull plugin ta’ WordPress, li tkun tidher qisha riżultat nadif. Mingħajr ċavetta n-NVD tippermetti ħames talbiet kull 30 sekonda, għalhekk kull eżekuzzjoni tiċċekkja parti mil-lista u tiftakar fejn waqfet."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Komponent mhux ivverifikat ma jfissirx komponent ħieles mill-vulnerabbiltajiet."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Għadha ma saret l-ebda verifika."
+      ],
+      "Komponente": [
+        "Komponent"
+      ],
+      "Version": [
+        "Verżjoni"
+      ],
+      "Stand": [
+        "Stat"
+      ],
+      "Quelle": [
+        "Sors"
+      ],
+      "Geprüft (UTC)": [
+        "Ivverifikat (UTC)"
+      ],
+      "Treffer": [
+        "Sejbiet"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Settings tal-verifika"
+      ],
+      "Täglicher Abgleich": [
+        "Verifika ta’ kuljum"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Qabbel il-lista tas-software kuljum ma’ OSV u n-NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "Ċavetta API tan-NVD (mhux obbligatorja)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "maħżuna — daħħal waħda ġdida biex tibdilha jew issejvja vojt biex tħassarha"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "l-ebda ċavetta maħżuna"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Mingħajr ċavetta n-NVD tippermetti ħames talbiet kull 30 sekonda (%1$d komponenti kull darba); b’ċavetta 50 kull 30 sekonda u %2$d komponenti kull darba."
+      ],
+      "Übernehmen": [
+        "Applika"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Ħaddem verifika issa"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Il-verifika skedata hija mitfija; jaħdem biss dak li tibda minn hawn."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "L-eżekuzzjoni skedata li jmiss: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Il-verifika hija mixgħula, iżda l-ebda ħin mhu skedat. Issejvja darba biex toħloq l-iskeda."
+      ],
+      "nicht angegeben": [
+        "mhux speċifikat"
+      ],
+      "Aktiver Code": [
+        "Kodiċi Attiv"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, plugins attivi (sit u netwerk), plugins MU, it-tema attiva u t-tema ġenitur bid-dettalji mill-headers tal-fajls; flimkien mal-libreriji Composer u npm inklużi u r-runtime ta’ taħthom (PHP, estensjonijiet bil-verżjoni, server tad-database). Il-plugins inattivi mhumiex inklużi."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Inkludi l-algoritmi kriptografiċi (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Jelenka l-funzjonijiet hash, iċ-ċifri u l-verżjonijiet TLS offruti minn dan is-server — inklużi dawk skaduti, għax dak hu proprju l-iskop ta’ inventarju kriptografiku. Fuq PHP 8.3 komuni b’OpenSSL 3.5 dan iżid madwar 186 entrata, għalhekk huwa mitfi b’mod awtomatiku."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Agħmel l-endpoints REST (/sbom, /spdx, /vex, /csaf) pubbliċi mingħajr login"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "B’mod awtomatiku l-endpoints huma protetti (sessjoni ta’ amministratur jew Authorization: Bearer <Token>). Meta jinfetħu għall-pubbliku japplikaw cache temporanja ta’ siegħa u limitu ta’ 60 talba fil-minuta."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Erġa’ oħloq token Bearer"
+      ],
+      "Bearer-Token erzeugen": [
+        "Oħloq token Bearer"
+      ],
+      "Bearer-Token widerrufen": [
+        "Irrevoka t-token Bearer"
+      ],
+      "Typ": [
+        "Tip"
+      ],
+      "Paket-URL (purl)": [
+        "URL tal-pakkett (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Liċenzja skont il-header"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Ritratti tal-istat maħżuna (l-aktar 10 riċenti)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Għadu ma ġie ssejvjat l-ebda ritratt tal-istat."
+      ],
+      "Gespeichert (UTC)": [
+        "Maħżun (UTC)"
+      ],
+      "Komponenten": [
+        "Komponenti"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 tal-JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Dettalji għal /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kuntatt (qasam obbligatorju)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "Indirizz tal-email (servut bħala mailto:) jew indirizz https ta’ formola ta’ kuntatt."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Data ta’ skadenza (qasam obbligatorju)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Wara din il-ġurnata l-fajl jitqies skadut. RFC 9116 jirrakkomanda inqas minn sena; dati aktar ’il bogħod fil-futur jiġu rrifjutati."
+      ],
+      "Bevorzugte Sprachen": [
+        "Lingwi preferuti"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Kodiċijiet tal-lingwa separati b’virgola, eż. mt, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Politika dwar ir-rappurtar"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "Indirizz https ta’ paġna li tiddeskrivi kif jiġu trattati r-rapporti. Ħalli vojt jekk ma teżistix."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Ċavetta pubblika"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "Indirizz https ta’ ċavetta OpenPGP għal rapporti kriptati. Ħalli vojt jekk ma teżistix."
+      ],
+      "security.txt speichern": [
+        "Issejvja security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Żamma tad-data waqt id-diżinstallazzjoni"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Waqt id-diżinstallazzjoni tal-plugin ħassar b’mod permanenti l-għażliet kollha kif ukoll ir-ritratti SBOM maħżuna, l-avviżi CSAF, is-sejbiet ta’ vulnerabbiltà u d-dikjarazzjonijiet VEX"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "B’mod awtomatiku l-għażliet, it-tabelli tal-evidenza u d-dikjarazzjonijiet VEX jinżammu meta l-plugin jiġi diżinstallat."
+      ],
+      "Einstellung speichern": [
+        "Issejvja s-setting"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Ir-Regolament (UE) 2024/2847 dwar rekwiżiti orizzontali taċ-ċibersigurtà għal prodotti b’elementi diġitali. Japplika mill-11 ta’ Diċembru 2027 u l-obbligi ta’ rappurtar tal-Artikolu 14 mill-11 ta’ Settembru 2026 (Artikolu 71). Dan il-plugin ma jevalwax jekk ir-regolament japplikax għal sit."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Rekord formali tal-komponenti ta’ software u r-relazzjonijiet tagħhom fil-katina tal-provvista (Artikolu 3 punt 39 tas-CRA). Skont l-Anness I Parti II il-manifatturi għandhom iħejjuh mill-inqas għad-dipendenzi tal-ogħla livell; mhumiex obbligati jippubblikawh."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Format li jinqara mill-magni għal listi ta’ komponenti tas-software. Il-linja gwida teknika BSI TR-03183-2 tiddeskrivi l-immappjar tal-oqsma tad-data għal CycloneDX u SPDX u skont il-BSI mhijiex vinkolanti."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Fajl ta’ test fuq /.well-known/security.txt b’kuntatt u data ta’ skadenza sabiex ir-rapporti ta’ sigurtà jaslu fil-post it-tajjeb."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): format li jinqara mill-magni għal avviżi ta’ sigurtà. Dan il-plugin jaħżen l-avviżi fil-profil bażi u ma jippubblikax provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Token Bearer mhux validu."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Aċċess miċħud: huwa meħtieġ login jew token Bearer."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Wisq talbiet. Erġa’ pprova aktar tard."
+      ],
+      "CRA Beacon Status": [
+        "Stat ta’ CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "L-istat ikkalkulat tal-fajl security.txt servut (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Avviżi ta’ Sigurtà u Rappurtar ta’ Vulnerabbiltajiet"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Irrapporta vulnerabbiltajiet f’dan is-sit fl-indirizz t’hawn taħt. Il-lista tas-software użat u l-avviżi ta’ sigurtà ppubblikati huma disponibbli bħala JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kuntatt għal rapporti ta’ sigurtà"
+      ],
+      "Nicht hinterlegt": [
+        "Mhux issettjat"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Lista tas-Software (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Avviżi ta’ Sigurtà (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Avviżi ta’ Sigurtà Ppubblikati"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Bħalissa m’hemm l-ebda avviż ta’ sigurtà ppubblikat."
+      ],
+      "Schweregrad: %s": [
+        "Severità: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "M’hemm l-ebda isem ta’ prodott għat-tfittxija."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Il-verżjoni ta’ dan il-komponent mhijiex magħrufa; it-tqabbil ma’ meded ta’ verżjonijiet ma kienx possibbli."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Iridu jissemmew kemm il-prodott kif ukoll il-vulnerabbiltà."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Stat VEX mhux magħruf."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Il-ġustifikazzjoni mhijiex waħda mill-ħamsa definiti fil-katalgu VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "“mhux affettwat” jirrikjedi ġustifikazzjoni mill-katalgu jew spjegazzjoni f’test ċar."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "“affettwat” jirrikjedi indikazzjoni ta’ x’għandu jsir."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s ma setax jintlaħaq."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s wieġeb b’HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "It-tweġiba mingħand %s ma kinitx JSON validu."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Id-database rrappurtat aktar riżultati milli jesa’ f’paġna waħda; ġiet ivverifikata l-ewwel paġna."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT u Avviżi ta’ Sigurtà"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Juri l-kuntatt ta’ sigurtà skont RFC 9116, ħoloq għall-SBOM u l-indiċi CSAF u l-avviżi ta’ sigurtà ppubblikati."
+      ],
+      "Darstellung": [
+        "Dehra"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Uri l-ħoloq JSON (SBOM u CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Uri l-avviżi ta’ sigurtà ppubblikati"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT u Avviżi ta’ Sigurtà"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Juri l-kuntatt ta’ sigurtà skont RFC 9116, ħoloq għall-SBOM u l-indiċi CSAF u l-avviżi ta’ sigurtà ppubblikati."
+      ],
+      "block keyword\u0004security": [
+        "sigurtà"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

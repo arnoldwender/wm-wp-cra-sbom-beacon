@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "el",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "Κατάλογος CycloneDX 1.6 του κώδικα που φορτώνει το WordPress, /.well-known/security.txt (RFC 9116) από τις ρυθμίσεις διαχείρισης και ανακοινώσεις ασφαλείας αποθηκευμένες ως βασικά έγγραφα CSAF 2.0. Δεν αξιολογεί αν εφαρμόζεται η Πράξη για την Κυβερνοανθεκτικότητα."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Έγκυρο έως %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Λήγει σε %1$d ημέρες (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Έληξε στις %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Μη έγκυρη επαφή ή ημερομηνία λήξης"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Μη προσβάσιμο: οι μόνιμοι σύνδεσμοι είναι σε «Απλό» ή ο κανόνας δεν έχει αποθηκευτεί"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Δεν έχει οριστεί επαφή"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt και SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Η επαφή δεν έχει επιβεβαιωθεί ακόμη: αποθηκεύστε τις ρυθμίσεις μία φορά."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Στοιχεία (τελευταίο στιγμιότυπο)"
+      ],
+      "Sicherheitshinweise": [
+        "Ανακοινώσεις ασφαλείας"
+      ],
+      "CRA Beacon öffnen": [
+        "Άνοιγμα CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM ως JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Επισκόπηση"
+      ],
+      "Software-Liste (SBOM)": [
+        "Λίστα λογισμικού (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Ευπάθειες"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Ορολογία"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, λίστα λογισμικού και ανακοινώσεις ασφαλείας"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (βασικό προφίλ)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Μέλος της οικογένειας προσθέτων της WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Αυτόνομο"
+      ],
+      "Was dieses Plugin tut": [
+        "Τι κάνει αυτό το πρόσθετο"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Δημιουργεί λίστα σε μορφή CycloneDX 1.6 του κώδικα που φορτώνει το WordPress, διαθέτει το αρχείο /.well-known/security.txt από τα στοιχεία αυτής της σελίδας και εμφανίζει ανακοινώσεις ασφαλείας που δημοσιεύτηκαν μέσω WP-CLI. Δεν εξετάζει αν ο Κανονισμός Κυβερνοανθεκτικότητας (CRA) ισχύει για αυτόν τον ιστότοπο ή τον φορέα του και δεν υποκαθιστά τη γνωστοποίηση του άρθρου 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Αποθήκευση στιγμιοτύπου SBOM"
+      ],
+      "security.txt öffnen": [
+        "Άνοιγμα security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "Το security.txt αποθηκεύτηκε. Το παρεχόμενο αρχείο χρησιμοποιεί πλέον τα νέα στοιχεία."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Το στιγμιότυπο αποθηκεύτηκε· βρίσκεται στη λίστα «Λίστα λογισμικού (SBOM)»."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Δεν ήταν δυνατή η αποθήκευση του στιγμιοτύπου. Αν λείπει ο πίνακας, απενεργοποιήστε και ενεργοποιήστε ξανά το πρόσθετο μία φορά."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Δημιουργήθηκε νέο διακριτικό Bearer (εμφανίζεται μόνο μία φορά):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Το διακριτικό Bearer ανακλήθηκε."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Η ρύθμιση απεγκατάστασης αποθηκεύτηκε."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Δεν αποθηκεύτηκε τίποτα. Ελέγξτε αυτά τα πεδία:"
+      ],
+      "Bereiche": [
+        "Ενότητες"
+      ],
+      "Kontakt": [
+        "Επαφή"
+      ],
+      "Ablaufdatum": [
+        "Ημερομηνία λήξης"
+      ],
+      "Sprachen": [
+        "Γλώσσες"
+      ],
+      "Richtlinie": [
+        "Πολιτική"
+      ],
+      "Schlüssel": [
+        "Κλειδί"
+      ],
+      "Komponenten jetzt": [
+        "Τρέχοντα στοιχεία"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, ενεργά πρόσθετα, υποχρεωτικά πρόσθετα (MU), θέματα"
+      ],
+      "Kontakt bestätigt": [
+        "Επαφή επιβεβαιωμένη"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Επαφή μη επιβεβαιωμένη"
+      ],
+      "Momentaufnahmen": [
+        "Στιγμιότυπα"
+      ],
+      "gespeicherte SBOMs": [
+        "αποθηκευμένα SBOM"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "δημοσιευμένα με wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Η επαφή εκτιμήθηκε κατά την ενεργοποίηση (%s) και δεν έχει επιβεβαιωθεί ακόμη. Ελέγξτε τη διεύθυνση στην καρτέλα «security.txt» και αποθηκεύστε μία φορά."
+      ],
+      "Ausgelieferte security.txt": [
+        "Παρεχόμενο security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Ακριβώς αυτό το περιεχόμενο παρέχεται στη διεύθυνση %s:"
+      ],
+      "geprüft": [
+        "ελέγχθηκε"
+      ],
+      "noch nie geprüft": [
+        "δεν ελέγχθηκε ποτέ"
+      ],
+      "Version unbekannt": [
+        "άγνωστη έκδοση"
+      ],
+      "Quelle nicht erreichbar": [
+        "πηγή μη προσβάσιμη"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Έλεγχος έναντι βάσεων δεδομένων ευπαθειών"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Τα πακέτα Composer και npm ελέγχονται στο OSV, ενώ τα στοιχεία του WordPress στη NVD. Κάθε πηγή ερωτάται μόνο για ό,τι τηρεί: η NVD δεν γνωρίζει πακέτα Composer με αυτά τα ονόματα και το OSV επιστρέφει κενή απάντηση για κάθε πρόσθετο WordPress, κάτι που θα έμοιαζε ψευδώς με καθαρό εύρημα. Χωρίς κλειδί API η NVD επιτρέπει πέντε αιτήματα ανά 30 δευτερόλεπτα, οπότε κάθε εκτέλεση ελέγχει μέρος της λίστας και απομνημονεύει πού σταμάτησε."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Ένα μη ελεγμένο στοιχείο δεν είναι ασφαλές στοιχείο."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Δεν έχει εκτελεστεί ακόμη έλεγχος."
+      ],
+      "Komponente": [
+        "Στοιχείο"
+      ],
+      "Version": [
+        "Έκδοση"
+      ],
+      "Stand": [
+        "Κατάσταση"
+      ],
+      "Quelle": [
+        "Πηγή"
+      ],
+      "Geprüft (UTC)": [
+        "Ελέγχθηκε (UTC)"
+      ],
+      "Treffer": [
+        "Ευρήματα"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Ρυθμίσεις ελέγχου"
+      ],
+      "Täglicher Abgleich": [
+        "Ημερήσιος έλεγχος"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Καθημερινός έλεγχος της λίστας λογισμικού έναντι OSV και NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "Κλειδί API NVD (προαιρετικό)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "αποθηκευμένο — εισαγάγετε νέο για αλλαγή ή αποθηκεύστε κενό για διαγραφή"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "δεν έχει αποθηκευτεί κλειδί"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Χωρίς κλειδί η NVD επιτρέπει πέντε αιτήματα ανά 30 δευτερόλεπτα (%1$d στοιχεία ανά εκτέλεση)· με κλειδί 50 ανά 30 δευτερόλεπτα και %2$d στοιχεία ανά εκτέλεση."
+      ],
+      "Übernehmen": [
+        "Εφαρμογή"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Εκτέλεση ενός κύκλου τώρα"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Ο προγραμματισμένος έλεγχος είναι ανενεργός· εκτελείται μόνο ό,τι ξεκινάτε εδώ."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Επόμενη προγραμματισμένη εκτέλεση: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Ο έλεγχος είναι ενεργός, αλλά δεν έχει προγραμματιστεί εκτέλεση. Αποθηκεύστε μία φορά για να οριστεί."
+      ],
+      "nicht angegeben": [
+        "δεν δηλώθηκε"
+      ],
+      "Aktiver Code": [
+        "Ενεργός κώδικας"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, ενεργά πρόσθετα (ιστότοπου και δικτύου), πρόσθετα MU, ενεργό θέμα και γονικό θέμα με τα στοιχεία των κεφαλίδων τους· επιπλέον οι ενσωματωμένες βιβλιοθήκες Composer και npm και το περιβάλλον εκτέλεσης από κάτω (PHP, επεκτάσεις με έκδοση, διακομιστής βάσης δεδομένων). Τα ανενεργά πρόσθετα δεν περιλαμβάνονται."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Συμπερίληψη κρυπτογραφικών μεθόδων (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Καταγράφει τις συναρτήσεις κατακερματισμού, τους αλγορίθμους κρυπτογράφησης και τις εκδόσεις TLS που προσφέρει αυτός ο διακομιστής — συμπεριλαμβανομένων των παρωχημένων, καθώς αυτός είναι ο σκοπός μιας λίστας κρυπτογραφίας. Σε τυπική PHP 8.3 με OpenSSL 3.5 προσθέτει περίπου 186 εγγραφές, γι’ αυτό είναι ανενεργό από προεπιλογή."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Δημόσια διάθεση των σημείων REST (/sbom, /spdx, /vex, /csaf) χωρίς σύνδεση"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Από προεπιλογή τα σημεία προστατεύονται (συνεδρία διαχειριστή ή Authorization: Bearer <Token>). Σε δημόσια διάθεση ισχύουν προσωρινή μνήμη 1 ώρας και όριο 60 αιτημάτων ανά λεπτό."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Αναδημιουργία διακριτικού Bearer"
+      ],
+      "Bearer-Token erzeugen": [
+        "Δημιουργία διακριτικού Bearer"
+      ],
+      "Bearer-Token widerrufen": [
+        "Ανάκληση διακριτικού Bearer"
+      ],
+      "Typ": [
+        "Τύπος"
+      ],
+      "Paket-URL (purl)": [
+        "URL πακέτου (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Άδεια βάσει κεφαλίδας"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Αποθηκευμένα στιγμιότυπα (10 πιο πρόσφατα)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Δεν έχει αποθηκευτεί ακόμη στιγμιότυπο."
+      ],
+      "Gespeichert (UTC)": [
+        "Αποθηκεύτηκε (UTC)"
+      ],
+      "Komponenten": [
+        "Στοιχεία"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 του JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Στοιχεία για το /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Επαφή (υποχρεωτικό πεδίο)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "Διεύθυνση e-mail (παρέχεται ως mailto:) ή διεύθυνση https φόρμας επικοινωνίας."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Ημερομηνία λήξης (υποχρεωτικό πεδίο)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Μετά την ημέρα αυτή το αρχείο θεωρείται παρωχημένο. Το RFC 9116 συνιστά λιγότερο από ένα έτος· μεταγενέστερες ημερομηνίες απορρίπτονται."
+      ],
+      "Bevorzugte Sprachen": [
+        "Προτιμώμενες γλώσσες"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Κωδικοί γλωσσών χωρισμένοι με κόμμα, π.χ. el, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Πολιτική αναφορών"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "Διεύθυνση https σελίδας που περιγράφει τη διαχείριση των αναφορών. Αφήστε κενό αν δεν υπάρχει."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Δημόσιο κλειδί"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "Διεύθυνση https κλειδιού OpenPGP για κρυπτογραφημένες αναφορές. Αφήστε κενό αν δεν υπάρχει."
+      ],
+      "security.txt speichern": [
+        "Αποθήκευση security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Διατήρηση δεδομένων κατά την απεγκατάσταση"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Κατά την απεγκατάσταση του προσθέτου να διαγραφούν οριστικά όλες οι επιλογές καθώς και τα αποθηκευμένα στιγμιότυπα SBOM, οι ανακοινώσεις CSAF, τα ευρήματα ευπαθειών και οι δηλώσεις VEX"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Από προεπιλογή οι επιλογές, οι πίνακες τεκμηρίωσης και οι δηλώσεις VEX διατηρούνται κατά την απεγκατάσταση του προσθέτου."
+      ],
+      "Einstellung speichern": [
+        "Αποθήκευση ρύθμισης"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Κανονισμός (ΕΕ) 2024/2847 σχετικά με οριζόντιες απαιτήσεις κυβερνοασφάλειας για προϊόντα με ψηφιακά στοιχεία. Εφαρμόζεται από τις 11 Δεκεμβρίου 2027 και οι υποχρεώσεις αναφοράς του άρθρου 14 από τις 11 Σεπτεμβρίου 2026 (άρθρο 71). Αυτό το πρόσθετο δεν αξιολογεί αν ο κανονισμός ισχύει για έναν ιστότοπο."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Επίσημη καταγραφή των στοιχείων ενός λογισμικού και των σχέσεών τους στην αλυσίδα εφοδιασμού (άρθρο 3 σημείο 39 CRA). Σύμφωνα με το Παράρτημα I Μέρος II οι κατασκευαστές οφείλουν να την καταρτίζουν τουλάχιστον για τις εξαρτήσεις ανώτατου επιπέδου· δεν υποχρεούνται να τη δημοσιεύουν."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Μηχαναγνώσιμη μορφή για καταλόγους στοιχείων λογισμικού. Η τεχνική οδηγία BSI TR-03183-2 περιγράφει την αντιστοίχιση πεδίων σε CycloneDX και SPDX και σύμφωνα με την BSI δεν είναι δεσμευτική."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Αρχείο κειμένου στη διαδρομή /.well-known/security.txt με στοιχεία επικοινωνίας και ημερομηνία λήξης ώστε οι αναφορές ασφαλείας να φτάνουν στον σωστό παραλήπτη."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): μηχαναγνώσιμη μορφή για ανακοινώσεις ασφαλείας. Αυτό το πρόσθετο αποθηκεύει ανακοινώσεις στο βασικό προφίλ και δεν δημοσιεύει provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Μη έγκυρο διακριτικό Bearer."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Δεν επιτρέπεται η πρόσβαση: απαιτείται σύνδεση ή διακριτικό Bearer."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Πάρα πολλά αιτήματα. Δοκιμάστε ξανά αργότερα."
+      ],
+      "CRA Beacon Status": [
+        "Κατάσταση CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Υπολογισμένη κατάσταση του παρεχόμενου αρχείου security.txt (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Ανακοινώσεις ασφαλείας και αναφορά ευπαθειών"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Αναφέρετε ευπάθειες αυτού του ιστοτόπου στην παρακάτω διεύθυνση. Η λίστα του χρησιμοποιούμενου λογισμικού και οι δημοσιευμένες ανακοινώσεις ασφαλείας διατίθενται σε JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Επαφή για αναφορές ασφαλείας"
+      ],
+      "Nicht hinterlegt": [
+        "Δεν έχει οριστεί"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Λίστα λογισμικού (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Ανακοινώσεις ασφαλείας (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Δημοσιευμένες ανακοινώσεις ασφαλείας"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Προς το παρόν δεν υπάρχουν δημοσιευμένες ανακοινώσεις ασφαλείας."
+      ],
+      "Schweregrad: %s": [
+        "Σοβαρότητα: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Δεν υπάρχει όνομα προϊόντος για το ερώτημα."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Η έκδοση αυτού του στοιχείου είναι άγνωστη· δεν ήταν δυνατή η σύγκριση με εύρη εκδόσεων."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Πρέπει να δηλωθούν τόσο το προϊόν όσο και η ευπάθεια."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Άγνωστη κατάσταση VEX."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Η αιτιολόγηση δεν ανήκει στις πέντε που ορίζονται στον κατάλογο VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Η κατάσταση «δεν επηρεάζεται» απαιτεί αιτιολόγηση από τον κατάλογο ή επεξήγηση σε ελεύθερο κείμενο."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Η κατάσταση «επηρεάζεται» απαιτεί αναφορά των απαιτούμενων ενεργειών."
+      ],
+      "%s war nicht erreichbar.": [
+        "Το %s δεν ήταν προσβάσιμο."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "Το %1$s απάντησε με HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Η απάντηση από το %s δεν ήταν έγκυρο JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Η βάση δεδομένων ανέφερε περισσότερα αποτελέσματα από όσα χωρά μία σελίδα· ελέγχθηκε η πρώτη σελίδα."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT και ανακοινώσεις ασφαλείας"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Εμφανίζει την επαφή ασφαλείας κατά RFC 9116, συνδέσμους προς το SBOM και το ευρετήριο CSAF καθώς και δημοσιευμένες ανακοινώσεις ασφαλείας."
+      ],
+      "Darstellung": [
+        "Εμφάνιση"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Εμφάνιση συνδέσμων JSON (SBOM & CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Εμφάνιση δημοσιευμένων ανακοινώσεων ασφαλείας"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT και ανακοινώσεις ασφαλείας"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Εμφανίζει την επαφή ασφαλείας κατά RFC 9116, συνδέσμους προς το SBOM και το ευρετήριο CSAF καθώς και δημοσιευμένες ανακοινώσεις ασφαλείας."
+      ],
+      "block keyword\u0004security": [
+        "ασφάλεια"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

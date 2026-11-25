@@ -1,0 +1,22 @@
+/* TEAM */
+    Arnold Wender
+
+/* THANKS */
+    To My Family -- For unconditional love, strength & inspiration
+    Open Source Community -- For making the web better
+    Our Clients -- For trusting us with their digital presence
+
+/* SITE */
+    Last update: 2026/11/16
+    Language: German (admin and public box), English (WP-CLI), 28 UI translation locales
+    Software: WordPress plugin, PHP 8.2+, local Gutenberg block editor script
+    Formats: CycloneDX 1.6 JSON, security.txt (RFC 9116), CSAF 2.0 base profile
+    Security: local assets only; no legal or conformity assessment
+
+/* CONTACT */
+    Personal Website: https://arnoldwender.com
+    Website: https://arnoldwender.com
+    Phone: +49-151-4193-2856
+
+/* DEDICATION */
+    Dedicated to my family with eternal love and gratitude.

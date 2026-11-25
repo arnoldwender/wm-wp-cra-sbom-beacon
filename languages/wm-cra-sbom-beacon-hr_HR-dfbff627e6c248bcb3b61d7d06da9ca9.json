@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "hr_HR",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "CycloneDX 1.6 popis koda koji WordPress učitava, /.well-known/security.txt (RFC 9116) iz administracijskih postavki te sigurnosne obavijesti pohranjene kao osnovni CSAF 2.0 dokumenti. Ne procjenjuje primjenjuje li se Akt o kibernetičkoj otpornosti."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Vrijedi do %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Istječe za %1$d dana (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Isteklo %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Kontakt ili datum isteka nije valjan"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Nedostupno: stalne veze postavljene su na „Obično” ili pravilo nije spremljeno"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Kontakt nije postavljen"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt i SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Kontakt još nije potvrđen: spremite postavke barem jednom."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponente (posljednja snimka)"
+      ],
+      "Sicherheitshinweise": [
+        "Sigurnosne obavijesti"
+      ],
+      "CRA Beacon öffnen": [
+        "Otvori CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM kao JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Pregled"
+      ],
+      "Software-Liste (SBOM)": [
+        "Popis softvera (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Ranjivosti"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Pojmovnik"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, popis softvera i sigurnosne obavijesti"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (osnovni profil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Dio obitelji dodataka WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Samostalno"
+      ],
+      "Was dieses Plugin tut": [
+        "Što ovaj dodatak radi"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Stvara popis koda koji WordPress učitava u formatu CycloneDX 1.6, poslužuje datoteku /.well-known/security.txt prema podacima na ovoj stranici i prikazuje sigurnosne obavijesti objavljene putem WP-CLI-ja. Ne provjerava primjenjuje li se Akt o kibernetičkoj otpornosti (CRA) na ovu web-stranicu ili njezina operatora te ne zamjenjuje prijavu prema članku 14. Uredbe."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Spremi snimku SBOM-a"
+      ],
+      "security.txt öffnen": [
+        "Otvori security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt spremljen. Isporučena datoteka sada koristi nove podatke."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Snimka spremljena; nalazi se na popisu pod „Popis softvera (SBOM)”."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Snimku nije bilo moguće spremiti. Ako tablica nedostaje, jednom deaktivirajte i ponovno aktivirajte dodatak."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Generiran je novi Bearer token (prikazuje se samo jednom):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Bearer token je opozvan."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Postavka deinstalacije spremljena."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Ništa nije spremljeno. Provjerite ova polja:"
+      ],
+      "Bereiche": [
+        "Odjeljci"
+      ],
+      "Kontakt": [
+        "Kontakt"
+      ],
+      "Ablaufdatum": [
+        "Datum isteka"
+      ],
+      "Sprachen": [
+        "Jezici"
+      ],
+      "Richtlinie": [
+        "Pravila"
+      ],
+      "Schlüssel": [
+        "Ključ"
+      ],
+      "Komponenten jetzt": [
+        "Komponente sada"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktivni dodaci, obvezni (MU) dodaci, teme"
+      ],
+      "Kontakt bestätigt": [
+        "Kontakt potvrđen"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kontakt nije potvrđen"
+      ],
+      "Momentaufnahmen": [
+        "Snimke"
+      ],
+      "gespeicherte SBOMs": [
+        "spremljeni SBOM-ovi"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "objavljeno pomoću wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Kontakt je procijenjen pri aktivaciji (%s) i još nije potvrđen. Provjerite adresu pod „security.txt” i spremite jednom."
+      ],
+      "Ausgelieferte security.txt": [
+        "Isporučeni security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Točno se ovaj sadržaj isporučuje na %s:"
+      ],
+      "geprüft": [
+        "provjereno"
+      ],
+      "noch nie geprüft": [
+        "nikada provjereno"
+      ],
+      "Version unbekannt": [
+        "nepoznata verzija"
+      ],
+      "Quelle nicht erreichbar": [
+        "izvor nedostupan"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Provjera prema bazama ranjivosti"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Composer i npm paketi šalju se u OSV, a WordPress komponente u NVD. Svaki se izvor pita samo za ono što vodi: NVD ne poznaje Composer pakete pod tim nazivima, a OSV za svaki WordPress dodatak vraća prazan odgovor koji bi izgledao kao uredan nalaz. Bez ključa NVD dopušta pet upita u 30 sekundi, pa jedno pokretanje provjerava dio popisa i pamti gdje je stalo."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Neprovjerena komponenta nije sigurna komponenta."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Još nije provedena nijedna provjera."
+      ],
+      "Komponente": [
+        "Komponenta"
+      ],
+      "Version": [
+        "Verzija"
+      ],
+      "Stand": [
+        "Stanje"
+      ],
+      "Quelle": [
+        "Izvor"
+      ],
+      "Geprüft (UTC)": [
+        "Provjereno (UTC)"
+      ],
+      "Treffer": [
+        "Pogoci"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Postavke provjere"
+      ],
+      "Täglicher Abgleich": [
+        "Dnevna provjera"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Svakodnevno uspoređuj popis softvera s OSV-om i NVD-om"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API ključ (neobavezno)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "spremljen — unesite novi za promjenu ili spremite prazno za brisanje"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "ključ nije spremljen"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Bez ključa NVD dopušta pet upita u 30 sekundi (%1$d komponenti po pokretanju); s ključem 50 u 30 sekundi i %2$d komponenti po pokretanju."
+      ],
+      "Übernehmen": [
+        "Primijeni"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Pokreni jedan prolaz sada"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Zakazana provjera je isključena; izvršava se samo ono što ovdje pokrenete."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Sljedeće zakazano pokretanje: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Provjera je uključena, ali nijedan termin nije zakazan. Jedno spremanje stvara raspored."
+      ],
+      "nicht angegeben": [
+        "nije navedeno"
+      ],
+      "Aktiver Code": [
+        "Aktivni kod"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktivni dodaci (web-stranica i mreža), MU dodaci, aktivna tema i njezina matična tema s podacima iz zaglavlja datoteka; uz to priložene Composer i npm biblioteke te izvršno okruženje ispod njih (PHP, verzionirana proširenja, poslužitelj baze podataka). Neaktivni dodaci nisu uključeni."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Uključi kriptografske postupke (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Navodi hash funkcije, šifre i TLS verzije koje ovaj poslužitelj nudi — uključujući zastarjele, jer tome kriptografski popis i služi. Na uobičajenom PHP-u 8.3 s OpenSSL-om 3.5 to dodaje oko 186 stavki, pa je prema zadanim postavkama isključeno."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Javno otvori REST krajnje točke (/sbom, /spdx, /vex, /csaf) bez prijave"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Prema zadanim postavkama krajnje su točke zaštićene (administratorska sesija ili Authorization: Bearer <Token>). Kod javnog pristupa primjenjuju se 1-satna privremena predmemorija i ograničenje od 60 zahtjeva u minuti."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Ponovno generiraj Bearer token"
+      ],
+      "Bearer-Token erzeugen": [
+        "Generiraj Bearer token"
+      ],
+      "Bearer-Token widerrufen": [
+        "Opozovi Bearer token"
+      ],
+      "Typ": [
+        "Vrsta"
+      ],
+      "Paket-URL (purl)": [
+        "URL paketa (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licenca prema zaglavlju"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Spremljene snimke (najnovijih 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Još nema spremljenih snimki."
+      ],
+      "Gespeichert (UTC)": [
+        "Spremljeno (UTC)"
+      ],
+      "Komponenten": [
+        "Komponente"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 JSON-a"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Podaci za /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kontakt (obavezno polje)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "Adresa e-pošte (isporučuje se kao mailto:) ili https adresa obrasca za kontakt."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Datum isteka (obavezno polje)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Nakon tog dana datoteka se smatra zastarjelom. RFC 9116 preporučuje manje od godinu dana; dalji datumi se odbijaju."
+      ],
+      "Bevorzugte Sprachen": [
+        "Željeni jezici"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Oznake jezika odvojene zarezom, npr. hr, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Pravila prijavljivanja"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "https adresa stranice koja opisuje kako se obrađuju prijave. Ostavite prazno ako ne postoji."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Javni ključ"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "https adresa OpenPGP ključa za šifrirane prijave. Ostavite prazno ako ne postoji."
+      ],
+      "security.txt speichern": [
+        "Spremi security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Zadržavanje podataka pri deinstalaciji"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Pri deinstalaciji dodatka trajno izbriši sve opcije kao i spremljene SBOM snimke, CSAF sigurnosne obavijesti, nalaze ranjivosti i VEX izjave"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Prema zadanim postavkama opcije, tablice dokaza i VEX izjave ostaju sačuvane pri deinstalaciji dodatka."
+      ],
+      "Einstellung speichern": [
+        "Spremi postavku"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Uredba (EU) 2024/2847 o horizontalnim zahtjevima za kibernetičku sigurnost proizvoda s digitalnim elementima. Primjenjuje se od 11. prosinca 2027., a obveze izvješćivanja iz članka 14. od 11. rujna 2026. (članak 71.). Ovaj dodatak ne procjenjuje primjenjuje li se uredba na pojedinu web-stranicu."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Formalni zapis komponenti softvera i njihovih odnosa u opskrbnom lancu (članak 3. točka 39. CRA-a). Prema Prilogu I. dijelu II. proizvođači ga moraju izraditi barem za ovisnosti najviše razine; nisu ga dužni javno objaviti."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Strojno čitljiv format za popise softverskih komponenti. Tehnička smjernica BSI TR-03183-2 opisuje mapiranje podatkovnih polja u CycloneDX i SPDX te prema navodima BSI-ja nije obvezujuća."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Tekstualna datoteka na /.well-known/security.txt s kontaktom i datumom isteka kako bi sigurnosne prijave stigle na pravo mjesto."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): strojno čitljiv format za sigurnosne obavijesti. Ovaj dodatak sprema obavijesti u osnovnom profilu i ne objavljuje provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Nevaljan Bearer token."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Pristup odbijen: potrebna je prijava ili Bearer token."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Previše zahtjeva. Pokušajte ponovno kasnije."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beacon status"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Izračunato stanje isporučene datoteke security.txt (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Sigurnosne obavijesti i prijava ranjivosti"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Ranjivosti na ovoj web-stranici prijavite na dolje navedenu adresu. Popis korištenog softvera i objavljene sigurnosne obavijesti dostupni su kao JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kontakt za sigurnosne prijave"
+      ],
+      "Nicht hinterlegt": [
+        "Nije postavljeno"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Popis softvera (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Sigurnosne obavijesti (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Objavljene sigurnosne obavijesti"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Trenutačno nema objavljenih sigurnosnih obavijesti."
+      ],
+      "Schweregrad: %s": [
+        "Ozbiljnost: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Nema naziva proizvoda za upit."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Verzija ove komponente je nepoznata; usporedba s rasponima verzija nije bila moguća."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Moraju biti navedeni i proizvod i ranjivost."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Nepoznat VEX status."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Obrazloženje nije jedno od pet definiranih u VEX katalogu."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Status „nije pogođeno” zahtijeva obrazloženje iz kataloga ili objašnjenje u slobodnom tekstu."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Status „pogođeno” zahtijeva navođenje potrebnih mjera."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s nije bio dostupan."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s je odgovorio s HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Odgovor poslužitelja %s nije bio valjan JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Baza podataka prijavila je više rezultata nego što stane na jednu stranicu; provjerena je prva stranica."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT i sigurnosne obavijesti"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Prikazuje sigurnosni kontakt prema RFC 9116, poveznice na SBOM i CSAF indeks te objavljene sigurnosne obavijesti."
+      ],
+      "Darstellung": [
+        "Prikaz"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Prikaži JSON poveznice (SBOM i CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Prikaži objavljene sigurnosne obavijesti"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT i sigurnosne obavijesti"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Prikazuje sigurnosni kontakt prema RFC 9116, poveznice na SBOM i CSAF indeks te objavljene sigurnosne obavijesti."
+      ],
+      "block keyword\u0004security": [
+        "sigurnost"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

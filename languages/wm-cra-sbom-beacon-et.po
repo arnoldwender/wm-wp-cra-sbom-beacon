@@ -1,0 +1,889 @@
+# Translation of wm-cra-sbom-beacon in et
+# Copyright (C) 2026 Arnold Wender
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wm-cra-sbom-beacon 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wm-cra-sbom-"
+"beacon\n"
+"POT-Creation-Date: 2026-11-21T12:58:25+00:00\n"
+"PO-Revision-Date: 2026-11-21 13:58+0100\n"
+"Last-Translator: WM Suite <https://github.com/arnoldwender/wm-wp-cra-sbom-"
+"beacon/issues>\n"
+"Language-Team: WM Suite <https://github.com/arnoldwender/wm-wp-cra-sbom-"
+"beacon/issues>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WM Suite i18n Compiler 2026\n"
+"X-Domain: wm-cra-sbom-beacon\n"
+
+#. Plugin Name of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "WM CRA SBOM & Vulnerability Beacon"
+msgstr "WM CRA SBOM & Vulnerability Beacon"
+
+#. Plugin URI of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+msgstr "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+
+#. Description of the plugin
+#: wm-cra-sbom-beacon.php
+msgid ""
+"CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/"
+"security.txt (RFC 9116) from admin settings, and advisories stored as CSAF "
+"2.0 base documents. It does not assess whether the Cyber Resilience Act "
+"applies."
+msgstr ""
+"WordPressi laaditava koodi CycloneDX 1.6 inventuur, haldussätetest "
+"serveeritav /.well-known/security.txt (RFC 9116) ja CSAF 2.0 "
+"baasdokumentidena talletatud turvateated. Ei hinda küberkerksuse määruse "
+"kohaldumist."
+
+#. Author of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "Arnold Wender"
+msgstr "Arnold Wender"
+
+#. Author URI of the plugin
+#: wm-cra-sbom-beacon.php
+msgid "https://arnoldwender.com"
+msgstr "https://arnoldwender.com"
+
+#. translators: %s: Expires date of security.txt (UTC)
+#: includes/Admin/AdminDashboard.php:67
+#, php-format
+msgid "Gültig bis %s"
+msgstr "Kehtib kuni %s"
+
+#. translators: 1: number of days, 2: Expires date of security.txt (UTC)
+#: includes/Admin/AdminDashboard.php:70
+#, php-format
+msgid "Läuft in %1$d Tagen ab (%2$s)"
+msgstr "Aegub %1$d päeva pärast (%2$s)"
+
+#. translators: %s: Expires date of security.txt (UTC)
+#: includes/Admin/AdminDashboard.php:73
+#, php-format
+msgid "Abgelaufen am %s"
+msgstr "Aegus %s"
+
+#: includes/Admin/AdminDashboard.php:75
+msgid "Kontakt oder Ablaufdatum ungültig"
+msgstr "Kontakt või aegumiskuupäev on vigane"
+
+#: includes/Admin/AdminDashboard.php:77
+msgid ""
+"Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht "
+"gespeichert"
+msgstr ""
+"Pole kättesaadav: püsiviited on valikul „Lihtne” või reeglit pole salvestatud"
+
+#: includes/Admin/AdminDashboard.php:79
+msgid "Kein Kontakt hinterlegt"
+msgstr "Kontakti pole määratud"
+
+#: includes/Admin/AdminDashboard.php:102
+msgid "CRA Beacon: security.txt und SBOM"
+msgstr "CRA Beacon: security.txt ja SBOM"
+
+#. translators: %s: state of security.txt, e.g. "Gültig bis 2027-08-01"
+#. translators: %s: state of security.txt
+#: includes/Admin/AdminDashboard.php:119 includes/Admin/AdminDashboard.php:414
+#, php-format
+msgid "security.txt: %s"
+msgstr "security.txt: %s"
+
+#: includes/Admin/AdminDashboard.php:123
+msgid "Kontakt noch nicht bestätigt: Einstellungen einmal speichern."
+msgstr "Kontakt pole veel kinnitatud: salvestage sätted üks kord."
+
+#: includes/Admin/AdminDashboard.php:131
+msgid "Komponenten (letzte Momentaufnahme)"
+msgstr "Komponendid (viimane hetktõmmis)"
+
+#: includes/Admin/AdminDashboard.php:135 includes/Admin/AdminDashboard.php:523
+msgid "Sicherheitshinweise"
+msgstr "Turvateated"
+
+#: includes/Admin/AdminDashboard.php:141
+msgid "CRA Beacon öffnen"
+msgstr "Ava CRA Beacon"
+
+#: includes/Admin/AdminDashboard.php:144 includes/Admin/AdminDashboard.php:432
+msgid "SBOM als JSON"
+msgstr "SBOM JSON-vormingus"
+
+#: includes/Admin/AdminDashboard.php:167
+msgid "CRA Beacon"
+msgstr "CRA Beacon"
+
+#: includes/Admin/AdminDashboard.php:168
+msgid "CRA Beacon (SBOM)"
+msgstr "CRA Beacon (SBOM)"
+
+#: includes/Admin/AdminDashboard.php:381
+msgid "Übersicht"
+msgstr "Ülevaade"
+
+#: includes/Admin/AdminDashboard.php:382
+msgid "Software-Liste (SBOM)"
+msgstr "Tarkvaraloend (SBOM)"
+
+#: includes/Admin/AdminDashboard.php:383
+msgid "Schwachstellen"
+msgstr "Haavatavused"
+
+#: includes/Admin/AdminDashboard.php:384 includes/Admin/AdminDashboard.php:513
+msgid "security.txt"
+msgstr "security.txt"
+
+#: includes/Admin/AdminDashboard.php:385 includes/Admin/AdminDashboard.php:856
+msgid "Begriffe"
+msgstr "Mõisted"
+
+#: includes/Admin/AdminDashboard.php:401
+msgid "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise"
+msgstr "CRA Beacon: security.txt, tarkvaraloend ja turvateated"
+
+#: includes/Admin/AdminDashboard.php:402
+msgid "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)"
+msgstr "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (baasprofiil)"
+
+#: includes/Admin/AdminDashboard.php:406
+msgid "Part of the WM Suite plugin family"
+msgstr "Osa WM Suite pistikprogrammide perekonnast"
+
+#: includes/Admin/AdminDashboard.php:408
+msgid "WM Suite"
+msgstr "WM Suite"
+
+#: includes/Admin/AdminDashboard.php:409
+msgid "Hub"
+msgstr "Hub"
+
+#: includes/Admin/AdminDashboard.php:409
+msgid "Standalone"
+msgstr "Iseseisev"
+
+#: includes/Admin/AdminDashboard.php:421
+msgid "Was dieses Plugin tut"
+msgstr "Mida see pistikprogramm teeb"
+
+#: includes/Admin/AdminDashboard.php:423
+msgid ""
+"Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX "
+"1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser "
+"Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht "
+"wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder "
+"ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der "
+"Verordnung."
+msgstr ""
+"Koostab CycloneDX 1.6 vormingus loendi koodist, mille WordPress laadib, "
+"serveerib selle lehe andmete põhjal faili /.well-known/security.txt ja kuvab "
+"WP-CLI kaudu avaldatud turvateated. See ei hinda, kas küberkerksuse määrus "
+"(CRA) kehtib sellele veebisaidile või selle haldajale, ega asenda artikli 14 "
+"kohast teavitust."
+
+#: includes/Admin/AdminDashboard.php:429
+msgid "Momentaufnahme der SBOM speichern"
+msgstr "Salvesta SBOM-i hetktõmmis"
+
+#: includes/Admin/AdminDashboard.php:431
+msgid "security.txt öffnen"
+msgstr "Ava security.txt"
+
+#: includes/Admin/AdminDashboard.php:437
+msgid ""
+"security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben."
+msgstr "security.txt salvestatud. Serveeritav fail kasutab nüüd uusi andmeid."
+
+#: includes/Admin/AdminDashboard.php:439
+msgid ""
+"Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste "
+"(SBOM)“."
+msgstr "Hetktõmmis salvestatud; see asub jaotises „Tarkvaraloend (SBOM)”."
+
+#: includes/Admin/AdminDashboard.php:441
+msgid ""
+"Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das "
+"Plugin einmal deaktivieren und wieder aktivieren."
+msgstr ""
+"Hetktõmmist ei õnnestunud salvestada. Kui tabel puudub, lülitage "
+"pistikprogramm korraks välja ja uuesti sisse."
+
+#: includes/Admin/AdminDashboard.php:452
+msgid "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):"
+msgstr "Loodi uus Bearer-luba (kuvatakse ainult üks kord):"
+
+#: includes/Admin/AdminDashboard.php:459
+msgid "Bearer-Token widerrufen."
+msgstr "Bearer-luba tühistati."
+
+#: includes/Admin/AdminDashboard.php:461
+msgid "Deinstallations-Einstellung gespeichert."
+msgstr "Eemaldamise säte salvestatud."
+
+#: includes/Admin/AdminDashboard.php:464
+msgid "Nichts gespeichert. Bitte diese Felder prüfen:"
+msgstr "Midagi ei salvestatud. Kontrollige neid välju:"
+
+#: includes/Admin/AdminDashboard.php:467
+msgid "Bereiche"
+msgstr "Jaotised"
+
+#: includes/Admin/AdminDashboard.php:494
+msgid "Kontakt"
+msgstr "Kontakt"
+
+#: includes/Admin/AdminDashboard.php:495
+msgid "Ablaufdatum"
+msgstr "Aegumiskuupäev"
+
+#: includes/Admin/AdminDashboard.php:496
+msgid "Sprachen"
+msgstr "Keeled"
+
+#: includes/Admin/AdminDashboard.php:497
+msgid "Richtlinie"
+msgstr "Eeskiri"
+
+#: includes/Admin/AdminDashboard.php:498
+msgid "Schlüssel"
+msgstr "Võti"
+
+#: includes/Admin/AdminDashboard.php:508
+msgid "Komponenten jetzt"
+msgstr "Komponendid praegu"
+
+#: includes/Admin/AdminDashboard.php:510
+msgid "WordPress, aktive Plugins, Must-Use-Plugins, Themes"
+msgstr ""
+"WordPress, aktiivsed pistikprogrammid, kohustuslikud (MU) pistikprogrammid, "
+"teemad"
+
+#: includes/Admin/AdminDashboard.php:515
+msgid "Kontakt bestätigt"
+msgstr "Kontakt kinnitatud"
+
+#: includes/Admin/AdminDashboard.php:515
+msgid "Kontakt nicht bestätigt"
+msgstr "Kontakt kinnitamata"
+
+#: includes/Admin/AdminDashboard.php:518
+msgid "Momentaufnahmen"
+msgstr "Hetktõmmised"
+
+#: includes/Admin/AdminDashboard.php:520
+msgid "gespeicherte SBOMs"
+msgstr "salvestatud SBOM-id"
+
+#: includes/Admin/AdminDashboard.php:525
+msgid "veröffentlicht mit wp cra csaf-publish"
+msgstr "avaldatud käsuga wp cra csaf-publish"
+
+#. translators: %s: contact written on activation, e.g. mailto:security@example.com
+#: includes/Admin/AdminDashboard.php:534
+#, php-format
+msgid ""
+"Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht "
+"bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie "
+"einmal."
+msgstr ""
+"Kontakt tuletati aktiveerimisel (%s) ega ole veel kinnitatud. Kontrollige "
+"aadressi vahekaardil „security.txt” ja salvestage üks kord."
+
+#: includes/Admin/AdminDashboard.php:543
+msgid "Ausgelieferte security.txt"
+msgstr "Serveeritav security.txt"
+
+#. translators: %s: URL of security.txt
+#: includes/Admin/AdminDashboard.php:547
+#, php-format
+msgid "Genau dieser Inhalt wird unter %s ausgeliefert:"
+msgstr "Täpselt see sisu serveeritakse aadressil %s:"
+
+#: includes/Admin/AdminDashboard.php:571
+msgid "geprüft"
+msgstr "kontrollitud"
+
+#: includes/Admin/AdminDashboard.php:572
+msgid "noch nie geprüft"
+msgstr "pole kunagi kontrollitud"
+
+#: includes/Admin/AdminDashboard.php:573
+msgid "Version unbekannt"
+msgstr "versioon teadmata"
+
+#: includes/Admin/AdminDashboard.php:574
+msgid "Quelle nicht erreichbar"
+msgstr "allikas pole kättesaadav"
+
+#: includes/Admin/AdminDashboard.php:582
+msgid "Abgleich gegen Schwachstellen-Datenbanken"
+msgstr "Kontroll haavatavuste andmebaaside vastu"
+
+#: includes/Admin/AdminDashboard.php:583
+msgid ""
+"Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. "
+"Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine "
+"Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins "
+"auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund "
+"liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, "
+"deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen "
+"geblieben ist."
+msgstr ""
+"Composeri ja npm-i paketid saadetakse OSV-sse, WordPressi komponendid NVD-"
+"sse. Igalt allikalt küsitakse ainult seda, mida see haldab: NVD ei tunne "
+"neid Composeri pakette nende nimede järgi ja OSV tagastab iga WordPressi "
+"pistikprogrammi kohta tühja vastuse, mis paistaks puhta leiuna. Ilma võtmeta "
+"lubab NVD viis päringut 30 sekundi jooksul, mistõttu iga käivitus kontrollib "
+"osa loendist ja jätab järje meelde."
+
+#: includes/Admin/AdminDashboard.php:584
+msgid "Eine nicht geprüfte Komponente ist keine unauffällige Komponente."
+msgstr "Kontrollimata komponent ei tähenda turvalist komponenti."
+
+#: includes/Admin/AdminDashboard.php:587
+msgid "Noch kein Abgleich gelaufen."
+msgstr "Ühtegi kontrolli pole veel käivitatud."
+
+#: includes/Admin/AdminDashboard.php:593 includes/Admin/AdminDashboard.php:729
+msgid "Komponente"
+msgstr "Komponent"
+
+#: includes/Admin/AdminDashboard.php:594 includes/Admin/AdminDashboard.php:731
+msgid "Version"
+msgstr "Versioon"
+
+#: includes/Admin/AdminDashboard.php:595
+msgid "Stand"
+msgstr "Olek"
+
+#: includes/Admin/AdminDashboard.php:596
+msgid "Quelle"
+msgstr "Allikas"
+
+#: includes/Admin/AdminDashboard.php:597
+msgid "Geprüft (UTC)"
+msgstr "Kontrollitud (UTC)"
+
+#: includes/Admin/AdminDashboard.php:598
+msgid "Treffer"
+msgstr "Tabamused"
+
+#: includes/Admin/AdminDashboard.php:634
+msgid "Einstellungen des Abgleichs"
+msgstr "Kontrolli sätted"
+
+#: includes/Admin/AdminDashboard.php:640
+msgid "Täglicher Abgleich"
+msgstr "Igapäevane kontroll"
+
+#: includes/Admin/AdminDashboard.php:644
+msgid "Die Software-Liste täglich gegen OSV und die NVD abgleichen"
+msgstr "Võrdle tarkvaraloendit iga päev OSV ja NVD andmebaasidega"
+
+#: includes/Admin/AdminDashboard.php:649
+msgid "NVD-API-Schlüssel (optional)"
+msgstr "NVD API-võti (valikuline)"
+
+#: includes/Admin/AdminDashboard.php:651
+msgid "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern"
+msgstr ""
+"salvestatud — muutmiseks sisestage uus, kustutamiseks salvestage tühjana"
+
+#: includes/Admin/AdminDashboard.php:651
+msgid "kein Schlüssel hinterlegt"
+msgstr "võtit pole salvestatud"
+
+#. translators: 1: components per run without a key, 2: components per run with a key
+#: includes/Admin/AdminDashboard.php:655
+#, php-format
+msgid ""
+"Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d "
+"Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten "
+"pro Lauf."
+msgstr ""
+"Ilma võtmeta lubab NVD viis päringut 30 sekundi kohta (%1$d komponenti "
+"käivituse kohta); võtmega 50 päringut 30 sekundi kohta ja %2$d komponenti "
+"käivituse kohta."
+
+#: includes/Admin/AdminDashboard.php:661 includes/Admin/AdminDashboard.php:709
+msgid "Übernehmen"
+msgstr "Rakenda"
+
+#: includes/Admin/AdminDashboard.php:668
+msgid "Jetzt einen Durchgang ausführen"
+msgstr "Käivita üks kontroll kohe"
+
+#: includes/Admin/AdminDashboard.php:671
+msgid "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten."
+msgstr "Ajastatud kontroll on väljas; töötab ainult siit käsitsi käivitatu."
+
+#. translators: %s: timestamp in UTC
+#: includes/Admin/AdminDashboard.php:675
+#, php-format
+msgid "Nächster geplanter Lauf: %s UTC."
+msgstr "Järgmine ajastatud käivitus: %s UTC."
+
+#: includes/Admin/AdminDashboard.php:678
+msgid ""
+"Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal "
+"speichern legt den Termin an."
+msgstr ""
+"Kontroll on sisse lülitatud, kuid ajastust pole loodud. Ühekordne "
+"salvestamine lisab ajakava."
+
+#: includes/Admin/AdminDashboard.php:690
+msgid "nicht angegeben"
+msgstr "pole märgitud"
+
+#: includes/Admin/AdminDashboard.php:693
+msgid "Aktiver Code"
+msgstr "Aktiivne kood"
+
+#: includes/Admin/AdminDashboard.php:694
+msgid ""
+"WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das "
+"aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; "
+"dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes "
+"mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, "
+"Datenbankserver). Inaktive Plugins sind nicht enthalten."
+msgstr ""
+"WordPress, aktiivsed pistikprogrammid (sait ja võrk), MU-pistikprogrammid, "
+"aktiivne teema ja selle vanemteema failipäiste andmetega; lisaks kaasatud "
+"Composeri ja npm-i teegid ning alumine käituskeskkond (PHP, versiooniga "
+"laiendused, andmebaasiserver). Mitteaktiivsed pistikprogrammid ei kuulu siia."
+
+#: includes/Admin/AdminDashboard.php:701
+msgid "Kryptografische Verfahren mitaufnehmen (CBOM)"
+msgstr "Kaasa krüptograafilised algoritmid (CBOM)"
+
+#: includes/Admin/AdminDashboard.php:703
+msgid ""
+"Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server "
+"anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. "
+"Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche "
+"Einträge, deshalb ist die Aufnahme standardmäßig aus."
+msgstr ""
+"Loetleb räsimisfunktsioonid, šifrid ja TLS-versioonid, mida see server pakub "
+"— sealhulgas vananenud, sest just selleks krüptoloend mõeldud ongi. "
+"Tavalises PHP 8.3 ja OpenSSL 3.5 keskkonnas lisab see umbes 186 kirjet, "
+"mistõttu on see vaikimisi väljas."
+
+#: includes/Admin/AdminDashboard.php:706
+msgid ""
+"REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich "
+"freigeben"
+msgstr ""
+"Tee REST-lõpp-punktid (/sbom, /spdx, /vex, /csaf) ilma sisselogimiseta "
+"avalikuks"
+
+#: includes/Admin/AdminDashboard.php:708
+msgid ""
+"Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder "
+"Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde "
+"Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute."
+msgstr ""
+"Vaikimisi on lõpp-punktid kaitstud (halduri seanss või Authorization: Bearer "
+"<Token>). Avaliku ligipääsu korral rakenduvad 1-tunnine vahemälu ja piirang "
+"60 päringut minutis."
+
+#: includes/Admin/AdminDashboard.php:715
+msgid "Bearer-Token neu erzeugen"
+msgstr "Genereeri Bearer-luba uuesti"
+
+#: includes/Admin/AdminDashboard.php:715
+msgid "Bearer-Token erzeugen"
+msgstr "Genereeri Bearer-luba"
+
+#: includes/Admin/AdminDashboard.php:721
+msgid "Bearer-Token widerrufen"
+msgstr "Tühista Bearer-luba"
+
+#: includes/Admin/AdminDashboard.php:730
+msgid "Typ"
+msgstr "Tüüp"
+
+#: includes/Admin/AdminDashboard.php:732
+msgid "Paket-URL (purl)"
+msgstr "Paketi URL (purl)"
+
+#: includes/Admin/AdminDashboard.php:733
+msgid "Lizenz laut Dateikopf"
+msgstr "Litsents failipäise järgi"
+
+#: includes/Admin/AdminDashboard.php:753
+msgid "Gespeicherte Momentaufnahmen (neueste 10)"
+msgstr "Salvestatud hetktõmmised (10 uusimat)"
+
+#: includes/Admin/AdminDashboard.php:755
+msgid "Noch keine Momentaufnahme gespeichert."
+msgstr "Ühtegi hetktõmmist pole veel salvestatud."
+
+#: includes/Admin/AdminDashboard.php:761
+msgid "Gespeichert (UTC)"
+msgstr "Salvestatud (UTC)"
+
+#: includes/Admin/AdminDashboard.php:762
+msgid "Komponenten"
+msgstr "Komponendid"
+
+#: includes/Admin/AdminDashboard.php:763
+msgid "SHA-256 des JSON"
+msgstr "JSON-i SHA-256"
+
+#: includes/Admin/AdminDashboard.php:789
+msgid "Angaben für /.well-known/security.txt"
+msgstr "Andmed faili /.well-known/security.txt jaoks"
+
+#: includes/Admin/AdminDashboard.php:795
+msgid "Kontakt (Pflichtfeld)"
+msgstr "Kontakt (kohustuslik väli)"
+
+#: includes/Admin/AdminDashboard.php:796
+msgid ""
+"E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines "
+"Kontaktformulars."
+msgstr ""
+"E-posti aadress (serveeritakse kujul mailto:) või kontaktivormi https-"
+"aadress."
+
+#: includes/Admin/AdminDashboard.php:801
+msgid "Ablaufdatum (Pflichtfeld)"
+msgstr "Aegumiskuupäev (kohustuslik väli)"
+
+#: includes/Admin/AdminDashboard.php:802
+msgid ""
+"Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als "
+"ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt."
+msgstr ""
+"Pärast seda kuupäeva loetakse fail aegunuks. RFC 9116 soovitab alla ühe "
+"aasta; kaugemad kuupäevad lükatakse tagasi."
+
+#: includes/Admin/AdminDashboard.php:807
+msgid "Bevorzugte Sprachen"
+msgstr "Eelistatud keeled"
+
+#: includes/Admin/AdminDashboard.php:808
+msgid "Sprachkürzel, durch Komma getrennt, z. B. de, en."
+msgstr "Komadega eraldatud keelekoodid, nt et, de, en."
+
+#: includes/Admin/AdminDashboard.php:813
+msgid "Richtlinie für Meldungen"
+msgstr "Teavitamise eeskiri"
+
+#: includes/Admin/AdminDashboard.php:814
+msgid ""
+"https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. "
+"Leer lassen, wenn es keine gibt."
+msgstr ""
+"https-aadress lehele, mis kirjeldab teadete käsitlemist. Jätke tühjaks, kui "
+"seda pole."
+
+#: includes/Admin/AdminDashboard.php:819
+msgid "Öffentlicher Schlüssel"
+msgstr "Avalik võti"
+
+#: includes/Admin/AdminDashboard.php:820
+msgid ""
+"https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer "
+"lassen, wenn es keinen gibt."
+msgstr ""
+"OpenPGP-võtme https-aadress krüpteeritud teadete jaoks. Jätke tühjaks, kui "
+"seda pole."
+
+#: includes/Admin/AdminDashboard.php:824
+msgid "security.txt speichern"
+msgstr "Salvesta security.txt"
+
+#: includes/Admin/AdminDashboard.php:829
+msgid "Datenaufbewahrung bei Deinstallation"
+msgstr "Andmete säilitamine eemaldamisel"
+
+#: includes/Admin/AdminDashboard.php:836
+msgid ""
+"Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-"
+"Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-"
+"Stellungnahmen endgültig löschen"
+msgstr ""
+"Kustuta pistikprogrammi eemaldamisel jäädavalt kõik valikud ning salvestatud "
+"SBOM-i hetktõmmised, CSAF-i turvateated, haavatavuste leiud ja VEX-seisukohad"
+
+#: includes/Admin/AdminDashboard.php:839
+msgid ""
+"Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei "
+"einer Plugin-Deinstallation erhalten."
+msgstr ""
+"Vaikimisi säilitatakse valikud, tõendustabelid ja VEX-seisukohad "
+"pistikprogrammi eemaldamisel."
+
+#: includes/Admin/AdminDashboard.php:840
+msgid "Einstellung speichern"
+msgstr "Salvesta säte"
+
+#: includes/Admin/AdminDashboard.php:848
+msgid "Cyber Resilience Act (CRA)"
+msgstr "Cyber Resilience Act (CRA)"
+
+#: includes/Admin/AdminDashboard.php:848
+msgid ""
+"Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für "
+"Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die "
+"Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). "
+"Dieses Plugin prüft nicht, ob sie für eine Website gilt."
+msgstr ""
+"Määrus (EL) 2024/2847 digielementidega toodete horisontaalsete "
+"küberturvalisuse nõuete kohta. Kohaldatakse alates 11. detsembrist 2027 ja "
+"artikli 14 teavitamiskohustusi alates 11. septembrist 2026 (artikkel 71). "
+"See pistikprogramm ei hinda, kas määrus kehtib konkreetsele veebisaidile."
+
+#: includes/Admin/AdminDashboard.php:849
+msgid "SBOM (Software Bill of Materials)"
+msgstr "SBOM (Software Bill of Materials)"
+
+#: includes/Admin/AdminDashboard.php:849
+msgid ""
+"Eine formale Aufzeichnung der Komponenten einer Software und ihrer "
+"Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen "
+"sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten "
+"Ebene erstellen; veröffentlichen müssen sie sie nicht."
+msgstr ""
+"Tarkvara komponentide ja nende tarneahela seoste ametlik loend (CRA artikkel "
+"3 punkt 39). I lisa II osa kohaselt peavad tootjad selle koostama vähemalt "
+"ülemise taseme sõltuvuste kohta; avaldamine pole kohustuslik."
+
+#: includes/Admin/AdminDashboard.php:850
+msgid "CycloneDX"
+msgstr "CycloneDX"
+
+#: includes/Admin/AdminDashboard.php:850
+msgid ""
+"Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie "
+"BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und "
+"SPDX; sie ist nach Angabe des BSI nicht verbindlich."
+msgstr ""
+"Masinloetav vorming tarkvara koostisosade loenditele. Tehniline suunis BSI "
+"TR-03183-2 kirjeldab andmeväljade vastavust CycloneDX-ile ja SPDX-ile ning "
+"ei ole BSI kinnitusel siduv."
+
+#: includes/Admin/AdminDashboard.php:851 includes/Frontend/PsirtPortal.php:175
+msgid "security.txt (RFC 9116)"
+msgstr "security.txt (RFC 9116)"
+
+#: includes/Admin/AdminDashboard.php:851
+msgid ""
+"Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit "
+"Sicherheitsmeldungen die richtige Stelle erreichen."
+msgstr ""
+"Tekstifail asukohas /.well-known/security.txt koos kontakti ja aegumisajaga, "
+"et turvateated jõuaksid õigesse kohta."
+
+#: includes/Admin/AdminDashboard.php:852
+msgid "CSAF 2.0"
+msgstr "CSAF 2.0"
+
+#: includes/Admin/AdminDashboard.php:852
+msgid ""
+"Common Security Advisory Framework (OASIS): maschinenlesbares Format für "
+"Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des "
+"Basisprofils und veröffentlicht keine provider-metadata.json."
+msgstr ""
+"Common Security Advisory Framework (OASIS): masinloetav vorming "
+"turvateadetele. See pistikprogramm talletab teated baasprofiilina ega avalda "
+"faili provider-metadata.json."
+
+#: includes/API/RestController.php:141
+msgid "Ungültiges Bearer-Token."
+msgstr "Vigane Bearer-luba."
+
+#: includes/API/RestController.php:149
+msgid "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich."
+msgstr "Juurdepääs keelatud: vajalik on sisselogimine või Bearer-luba."
+
+#: includes/API/RestController.php:157
+msgid "Zu viele Anfragen. Bitte später erneut versuchen."
+msgstr "Liiga palju päringuid. Proovige hiljem uuesti."
+
+#: includes/Frontend/PsirtPortal.php:86 includes/Frontend/PsirtPortal.php:96
+msgid "CRA Beacon Status"
+msgstr "CRA Beaconi olek"
+
+#: includes/Frontend/PsirtPortal.php:100
+msgid "Berechneter Status der ausgelieferten security.txt (RFC 9116)."
+msgstr "Serveeritava faili security.txt arvutatud olek (RFC 9116)."
+
+#: includes/Frontend/PsirtPortal.php:178
+msgid "Sicherheitshinweise und Meldung von Schwachstellen"
+msgstr "Turvateated ja haavatavustest teavitamine"
+
+#: includes/Frontend/PsirtPortal.php:181
+msgid ""
+"Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. "
+"Die Liste der eingesetzten Software und die veröffentlichten "
+"Sicherheitshinweise stehen als JSON bereit."
+msgstr ""
+"Teatage selle veebisaidi haavatavustest alltoodud aadressil. Kasutatava "
+"tarkvara loend ja avaldatud turvateated on saadaval JSON-vormingus."
+
+#: includes/Frontend/PsirtPortal.php:187
+msgid "Kontakt für Sicherheitsmeldungen"
+msgstr "Turvateadete kontakt"
+
+#: includes/Frontend/PsirtPortal.php:189
+msgid "Nicht hinterlegt"
+msgstr "Pole määratud"
+
+#: includes/Frontend/PsirtPortal.php:194
+msgid "Software-Liste (CycloneDX 1.6)"
+msgstr "Tarkvaraloend (CycloneDX 1.6)"
+
+#: includes/Frontend/PsirtPortal.php:198
+msgid "Sicherheitshinweise (JSON)"
+msgstr "Turvateated (JSON)"
+
+#: includes/Frontend/PsirtPortal.php:206
+msgid "Veröffentlichte Sicherheitshinweise"
+msgstr "Avaldatud turvateated"
+
+#: includes/Frontend/PsirtPortal.php:211
+msgid "Derzeit sind keine Sicherheitshinweise veröffentlicht."
+msgstr "Praegu pole ühtegi turvateadet avaldatud."
+
+#. translators: %s: severity of the advisory as stated by the publisher (low, medium, high, critical)
+#: includes/Frontend/PsirtPortal.php:235
+#, php-format
+msgid "Schweregrad: %s"
+msgstr "Tõsidus: %s"
+
+#: includes/Vuln/NvdClient.php:85
+msgid "Kein Produktname für die Abfrage."
+msgstr "Päringu jaoks puudub toote nimi."
+
+#: includes/Vuln/NvdClient.php:131
+msgid ""
+"Die Version dieser Komponente ist unbekannt; ein Abgleich gegen "
+"Versionsbereiche war nicht möglich."
+msgstr ""
+"Selle komponendi versioon on teadmata; võrdlus versioonivahemikega polnud "
+"võimalik."
+
+#: includes/Vuln/OpenVexEngine.php:67
+msgid "Produkt und Schwachstelle müssen benannt sein."
+msgstr "Nimetada tuleb nii toode kui ka haavatavus."
+
+#: includes/Vuln/OpenVexEngine.php:70
+msgid "Unbekannter VEX-Status."
+msgstr "Tundmatu VEX-olek."
+
+#: includes/Vuln/OpenVexEngine.php:79
+msgid "Die Begründung ist keine der fünf im VEX-Katalog definierten."
+msgstr "Põhjendus ei kuulu viie VEX-kataloogis määratletud väärtuse hulka."
+
+#: includes/Vuln/OpenVexEngine.php:84
+msgid ""
+"„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine "
+"Erklärung im Klartext."
+msgstr ""
+"Olek „ei ole mõjutatud” nõuab kataloogi põhjendust või selgitust vabas "
+"tekstis."
+
+#: includes/Vuln/OpenVexEngine.php:89
+msgid "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist."
+msgstr "Olek „mõjutatud” nõuab tegevusjuhise märkimist."
+
+#. translators: %s: name of the vulnerability database
+#: includes/Vuln/OsvClient.php:223
+#, php-format
+msgid "%s war nicht erreichbar."
+msgstr "%s ei olnud kättesaadav."
+
+#. translators: 1: name of the vulnerability database, 2: HTTP status code
+#: includes/Vuln/OsvClient.php:231
+#, php-format
+msgid "%1$s antwortete mit HTTP %2$d."
+msgstr "%1$s vastas koodiga HTTP %2$d."
+
+#. translators: %s: name of the vulnerability database
+#: includes/Vuln/OsvClient.php:238
+#, php-format
+msgid "Die Antwort von %s war kein JSON."
+msgstr "Allika %s vastus ei olnud kehtiv JSON."
+
+#: includes/Vuln/VulnerabilityAudit.php:150
+msgid ""
+"Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde "
+"die erste Seite."
+msgstr ""
+"Andmebaas teatas rohkematest vastetest, kui üks lehekülg tagastab; "
+"kontrolliti esimest lehekülge."
+
+#: blocks-src/index.js:17 blocks-src/index.js:76
+msgid "CRA Beacon: PSIRT & Sicherheitshinweise"
+msgstr "CRA Beacon: PSIRT ja turvateated"
+
+#: blocks-src/index.js:18
+msgid ""
+"Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index "
+"sowie veröffentlichte Sicherheitshinweise."
+msgstr ""
+"Kuvab RFC 9116 turvakontakti, viited SBOM-ile ja CSAF-indeksile ning "
+"avaldatud turvateated."
+
+#: blocks-src/index.js:49
+msgid "Darstellung"
+msgstr "Kuvamine"
+
+#: blocks-src/index.js:53
+msgid "JSON-Verweise anzeigen (SBOM & CSAF)"
+msgstr "Kuva JSON-viited (SBOM ja CSAF)"
+
+#: blocks-src/index.js:60
+msgid "Veröffentlichte Sicherheitshinweise anzeigen"
+msgstr "Kuva avaldatud turvateated"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block title"
+msgid "CRA Beacon: PSIRT & Sicherheitshinweise"
+msgstr "CRA Beacon: PSIRT ja turvateated"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block description"
+msgid ""
+"Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index "
+"sowie veröffentlichte Sicherheitshinweise."
+msgstr ""
+"Kuvab RFC 9116 turvakontakti, viited SBOM-ile ja CSAF-indeksile ning "
+"avaldatud turvateated."
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "security"
+msgstr "turvalisus"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "sbom"
+msgstr "sbom"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "csaf"
+msgstr "csaf"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "psirt"
+msgstr "psirt"
+
+#: blocks/cra-psirt/block.json
+msgctxt "block keyword"
+msgid "cra"
+msgstr "cra"
+
+#~ msgid "https://www.arnoldwender.com"
+#~ msgstr "https://www.arnoldwender.com"

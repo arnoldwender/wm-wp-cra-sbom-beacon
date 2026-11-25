@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "bg_BG",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "Инвентар CycloneDX 1.6 на кода, който WordPress зарежда, /.well-known/security.txt (RFC 9116) от административните настройки и бюлетини за сигурност, съхранявани като базови документи CSAF 2.0. Не оценява приложимостта на Cyber Resilience Act."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Валиден до %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Изтича след %1$d дни (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Изтекъл на %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Невалиден контакт или дата на изтичане"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Недостъпен: постоянните връзки са на „Обикновени“ или правилото не е записано"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Няма въведен контакт"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt и SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Контактът още не е потвърден: запазете настройките веднъж."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Компоненти (последна снимка)"
+      ],
+      "Sicherheitshinweise": [
+        "Бюлетини за сигурност"
+      ],
+      "CRA Beacon öffnen": [
+        "Отвори CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM като JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Преглед"
+      ],
+      "Software-Liste (SBOM)": [
+        "Списък на софтуера (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Уязвимости"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Понятия"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, списък на софтуера и бюлетини за сигурност"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (базов профил)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Част от семейството разширения на WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Самостоятелен"
+      ],
+      "Was dieses Plugin tut": [
+        "Какво прави това разширение"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Създава списък във формат CycloneDX 1.6 на кода, зареждан от WordPress, предоставя файла /.well-known/security.txt по данните от тази страница и изброява бюлетини за сигурност, публикувани с WP-CLI. Не проверява дали Актът за киберустойчивост (CRA) важи за този уебсайт или оператора му и не замества уведомяването по член 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Запази моментна снимка на SBOM"
+      ],
+      "security.txt öffnen": [
+        "Отвори security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt е запазен. Предоставяният файл вече използва новите данни."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Моментната снимка е запазена; намира се в списъка в „Списък на софтуера (SBOM)“."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Моментната снимка не можа да бъде запазена. Ако таблицата липсва, деактивирайте и активирайте разширението веднъж."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Създаден е нов Bearer токен (показва се само веднъж):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Bearer токенът е отменен."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Настройката за деинсталиране е запазена."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Нищо не беше запазено. Проверете следните полета:"
+      ],
+      "Bereiche": [
+        "Раздели"
+      ],
+      "Kontakt": [
+        "Контакт"
+      ],
+      "Ablaufdatum": [
+        "Дата на изтичане"
+      ],
+      "Sprachen": [
+        "Езици"
+      ],
+      "Richtlinie": [
+        "Политика"
+      ],
+      "Schlüssel": [
+        "Ключ"
+      ],
+      "Komponenten jetzt": [
+        "Компоненти сега"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, активни разширения, задължителни (MU) разширения, теми"
+      ],
+      "Kontakt bestätigt": [
+        "Контактът е потвърден"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Контактът не е потвърден"
+      ],
+      "Momentaufnahmen": [
+        "Моментни снимки"
+      ],
+      "gespeicherte SBOMs": [
+        "запазени SBOM"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "публикувани с wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Контактът е определен автоматично при активиране (%s) и още не е потвърден. Проверете адреса в „security.txt“ и запазете веднъж."
+      ],
+      "Ausgelieferte security.txt": [
+        "Предоставян security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Точно това съдържание се предоставя на адрес %s:"
+      ],
+      "geprüft": [
+        "проверен"
+      ],
+      "noch nie geprüft": [
+        "още непроверен"
+      ],
+      "Version unbekannt": [
+        "неизвестна версия"
+      ],
+      "Quelle nicht erreichbar": [
+        "източникът е недостъпен"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Сверка с бази данни за уязвимости"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Пакетите на Composer и npm се проверяват в OSV, а компонентите на WordPress — в NVD. Всеки източник се пита само за онова, което поддържа: NVD не познава Composer пакети под тези имена, а OSV връща празен отговор за всяко разширение на WordPress, което би изглеждало като липса на проблем. Без ключ NVD позволява пет заявки за 30 секунди, затова един цикъл проверява част от списъка и запомня докъде е стигнал."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Непровереният компонент не е проверено чист компонент."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Все още не е извършвана проверка."
+      ],
+      "Komponente": [
+        "Компонент"
+      ],
+      "Version": [
+        "Версия"
+      ],
+      "Stand": [
+        "Състояние"
+      ],
+      "Quelle": [
+        "Източник"
+      ],
+      "Geprüft (UTC)": [
+        "Проверено (UTC)"
+      ],
+      "Treffer": [
+        "Съвпадения"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Настройки на проверката"
+      ],
+      "Täglicher Abgleich": [
+        "Ежедневна проверка"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Ежедневно сверяване на списъка със софтуер с OSV и NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API ключ (по избор)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "запазен — въведете нов за промяна или запазете празно за изтриване"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "няма запазен ключ"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Без ключ NVD позволява пет заявки на 30 секунди (%1$d компонента на цикъл); с ключ — 50 на 30 секунди и %2$d компонента на цикъл."
+      ],
+      "Übernehmen": [
+        "Приложи"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Изпълни един цикъл сега"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Планираната проверка е изключена; изпълнява се само стартираното оттук."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Следващо планирано изпълнение: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Проверката е включена, но няма планирана задача. Запазете веднъж, за да се създаде график."
+      ],
+      "nicht angegeben": [
+        "не е посочено"
+      ],
+      "Aktiver Code": [
+        "Активен код"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, активни разширения (сайт и мрежа), MU разширения, активната тема и родителската ѝ тема с данните от заглавките на файловете; заедно с включените библиотеки на Composer и npm и средата на изпълнение отдолу (PHP, разширения с версии, сървър за бази данни). Неактивните разширения не са включени."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Включване на криптографски алгоритми (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Изброява хеш-функциите, шифрите и версиите на TLS, които този сървър поддържа — включително остарелите, защото точно това е целта на криптографския опис. При стандартен PHP 8.3 с OpenSSL 3.5 това добавя около 186 записа, затова по подразбиране е изключено."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Публичен достъп без вход до REST крайните точки (/sbom, /spdx, /vex, /csaf)"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "По подразбиране крайните точки са защитени (администраторска сесия или Authorization: Bearer <Token>). При публичен достъп действат 1 час кеш и ограничение от 60 заявки в минута."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Генерирай нов Bearer токен"
+      ],
+      "Bearer-Token erzeugen": [
+        "Генерирай Bearer токен"
+      ],
+      "Bearer-Token widerrufen": [
+        "Отмени Bearer токена"
+      ],
+      "Typ": [
+        "Тип"
+      ],
+      "Paket-URL (purl)": [
+        "URL на пакета (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Лиценз според заглавката"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Запазени моментни снимки (последните 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Все още няма запазена моментна снимка."
+      ],
+      "Gespeichert (UTC)": [
+        "Запазено (UTC)"
+      ],
+      "Komponenten": [
+        "Компоненти"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 на JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Данни за /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Контакт (задължително поле)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "Имейл адрес (предоставя се като mailto:) или https адрес на формуляр за връзка."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Дата на изтичане (задължително поле)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "След тази дата файлът се счита за остарял. RFC 9116 препоръчва по-малко от една година; по-далечни дати се отхвърлят."
+      ],
+      "Bevorzugte Sprachen": [
+        "Предпочитани езици"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Езикови кодове, разделени със запетая, напр. bg, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Политика за докладване"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "https адрес на страница, описваща обработката на сигналите. Оставете празно, ако няма такава."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Публичен ключ"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "https адрес на OpenPGP ключ за криптирани сигнали. Оставете празно, ако няма такъв."
+      ],
+      "security.txt speichern": [
+        "Запази security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Запазване на данни при деинсталиране"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "При деинсталиране на разширението изтрий окончателно всички настройки, както и запазените моментни снимки на SBOM, CSAF бюлетини, открити уязвимости и VEX становища"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "По подразбиране настройките, таблиците с доказателства и VEX становищата се запазват при деинсталиране на разширението."
+      ],
+      "Einstellung speichern": [
+        "Запази настройката"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Регламент (ЕС) 2024/2847 относно хоризонталните изисквания за киберсигурност за продукти с цифрови елементи. Прилага се от 11 декември 2027 г., а задълженията за докладване по член 14 — от 11 септември 2026 г. (член 71). Това разширение не преценява дали регламентът важи за даден сайт."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Официален запис на компонентите на софтуера и връзките им във веригата на доставки (член 3, точка 39 от CRA). Съгласно приложение I, част II производителите го изготвят поне за зависимостите от най-високо ниво; публикуването му не е задължително."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Машинночетим формат за списъци на софтуерни компоненти. Техническото ръководство BSI TR-03183-2 описва съпоставянето на полетата към CycloneDX и SPDX и според BSI не е задължително."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Текстов файл на адрес /.well-known/security.txt с контакт и срок на валидност, за да стигат сигналите за сигурност до правилното място."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): машинночетим формат за бюлетини за сигурност. Това разширение съхранява бюлетините в базовия профил и не публикува provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Невалиден Bearer токен."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Достъпът е отказан: изисква се влизане или Bearer токен."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Твърде много заявки. Опитайте отново по-късно."
+      ],
+      "CRA Beacon Status": [
+        "Състояние на CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Изчислено състояние на предоставяния файл security.txt (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Бюлетини за сигурност и подаване на сигнали за уязвимости"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Съобщавайте за уязвимости в този уебсайт на посочения по-долу адрес. Списъкът на използвания софтуер и публикуваните бюлетини за сигурност са достъпни като JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Контакт за сигнали за сигурност"
+      ],
+      "Nicht hinterlegt": [
+        "Не е въведен"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Списък на софтуера (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Бюлетини за сигурност (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Публикувани бюлетини за сигурност"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "В момента няма публикувани бюлетини за сигурност."
+      ],
+      "Schweregrad: %s": [
+        "Тежест: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Липсва име на продукт за заявката."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Версията на този компонент е неизвестна; сравняване с диапазони от версии не беше възможно."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Трябва да бъдат посочени както продуктът, така и уязвимостта."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Неизвестен VEX статус."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Обосновката не е сред петте, определени в каталога на VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Статусът „не е засегнат“ изисква обосновка от каталога или обяснение в свободен текст."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Статусът „засегнат“ изисква посочване на необходимите действия."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s беше недостъпен."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s отговори с HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Отговорът от %s не беше валиден JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Базата данни отчете повече съвпадения, отколкото връща една страница; проверена беше първата страница."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT и бюлетини за сигурност"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Показва контакта за сигурност по RFC 9116, връзки към SBOM и индекса CSAF, както и публикуваните бюлетини за сигурност."
+      ],
+      "Darstellung": [
+        "Изглед"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Показване на JSON връзки (SBOM и CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Показване на публикуваните бюлетини за сигурност"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT и бюлетини за сигурност"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Показва контакта за сигурност по RFC 9116, връзки към SBOM и индекса CSAF, както и публикуваните бюлетини за сигурност."
+      ],
+      "block keyword\u0004security": [
+        "сигурност"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

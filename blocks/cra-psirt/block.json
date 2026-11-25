@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "wm/cra-psirt",
+	"version": "1.2.2",
+	"title": "CRA Beacon: PSIRT & Sicherheitshinweise",
+	"category": "widgets",
+	"icon": "shield",
+	"description": "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.",
+	"keywords": [ "security", "sbom", "csaf", "psirt", "cra" ],
+	"textdomain": "wm-cra-sbom-beacon",
+	"editorScript": "wm-cra-beacon-blocks-editor",
+	"attributes": {
+		"showJsonLinks": {
+			"type": "boolean",
+			"default": true
+		},
+		"showAdvisories": {
+			"type": "boolean",
+			"default": true
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ]
+	}
+}

@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "ro_RO",
+        "plural-forms": "nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "Inventar CycloneDX 1.6 al codului încărcat de WordPress, /.well-known/security.txt (RFC 9116) din setările de administrare și buletine de securitate stocate ca documente de bază CSAF 2.0. Nu evaluează aplicabilitatea Cyber Resilience Act."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Valabil până la %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Expiră în %1$d zile (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Expirat la %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Contact sau dată de expirare nevalidă"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Inaccesibil: legăturile permanente sunt setate pe „Simplu” sau regula nu este salvată"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Niciun contact configurat"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt și SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Contactul nu este încă confirmat: salvați setările o dată."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Componente (ultimul instantaneu)"
+      ],
+      "Sicherheitshinweise": [
+        "Buletine de securitate"
+      ],
+      "CRA Beacon öffnen": [
+        "Deschide CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM ca JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Prezentare generală"
+      ],
+      "Software-Liste (SBOM)": [
+        "Lista de software (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Vulnerabilități"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Glosar"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, lista de software și buletine de securitate"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (profil de bază)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte din familia de module WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Independent"
+      ],
+      "Was dieses Plugin tut": [
+        "Ce face acest modul"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Generează o listă în format CycloneDX 1.6 a codului încărcat de WordPress, furnizează fișierul /.well-known/security.txt din datele configurate în această pagină și afișează buletinele de securitate publicate prin WP-CLI. Nu verifică dacă Regulamentul privind reziliența cibernetică (CRA) se aplică acestui site sau operatorului său și nu înlocuiește raportarea conform articolului 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Salvează instantaneu SBOM"
+      ],
+      "security.txt öffnen": [
+        "Deschide security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt a fost salvat. Fișierul livrat folosește acum noile date."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Instantaneul a fost salvat; apare în listă sub „Lista de software (SBOM)”."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Instantaneul nu a putut fi salvat. Dacă lipsește tabelul, dezactivați și reactivați modulul o dată."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Token Bearer nou generat (afișat o singură dată):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Tokenul Bearer a fost revocat."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Setarea pentru dezinstalare a fost salvată."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Nimic nu a fost salvat. Verificați aceste câmpuri:"
+      ],
+      "Bereiche": [
+        "Secțiuni"
+      ],
+      "Kontakt": [
+        "Contact"
+      ],
+      "Ablaufdatum": [
+        "Data expirării"
+      ],
+      "Sprachen": [
+        "Limbi"
+      ],
+      "Richtlinie": [
+        "Politică"
+      ],
+      "Schlüssel": [
+        "Cheie"
+      ],
+      "Komponenten jetzt": [
+        "Componente actuale"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, module active, module obligatorii (MU), teme"
+      ],
+      "Kontakt bestätigt": [
+        "Contact confirmat"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Contact neconfirmat"
+      ],
+      "Momentaufnahmen": [
+        "Instantanee"
+      ],
+      "gespeicherte SBOMs": [
+        "SBOM-uri salvate"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "publicate cu wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Contactul a fost dedus la activare (%s) și nu este încă confirmat. Verificați adresa în fila „security.txt” și salvați o dată."
+      ],
+      "Ausgelieferte security.txt": [
+        "security.txt livrat"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Exact acest conținut este livrat la adresa %s:"
+      ],
+      "geprüft": [
+        "verificat"
+      ],
+      "noch nie geprüft": [
+        "niciodată verificat"
+      ],
+      "Version unbekannt": [
+        "versiune necunoscută"
+      ],
+      "Quelle nicht erreichbar": [
+        "sursă inaccesibilă"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Verificare în bazele de date de vulnerabilități"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Pachetele Composer și npm sunt interogate în OSV, iar componentele WordPress în NVD. Fiecare sursă este întrebată doar despre ceea ce indexează: NVD nu cunoaște pachete Composer sub aceste nume, iar OSV returnează răspuns gol pentru orice modul WordPress, ceea ce ar părea în mod fals un rezultat curat. Fără cheie API, NVD permite cinci cereri la 30 de secunde, astfel încât o rulare verifică o parte din listă și reține poziția."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "O componentă neverificată nu este o componentă fără vulnerabilități."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Nu a rulat încă nicio verificare."
+      ],
+      "Komponente": [
+        "Componentă"
+      ],
+      "Version": [
+        "Versiune"
+      ],
+      "Stand": [
+        "Stare"
+      ],
+      "Quelle": [
+        "Sursă"
+      ],
+      "Geprüft (UTC)": [
+        "Verificat (UTC)"
+      ],
+      "Treffer": [
+        "Rezultate"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Setări verificare"
+      ],
+      "Täglicher Abgleich": [
+        "Verificare zilnică"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Compară zilnic lista de software cu OSV și NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "Cheie API NVD (opțională)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "stocată — introduceți una nouă pentru modificare sau salvați gol pentru ștergere"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "nicio cheie stocată"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Fără cheie, NVD permite cinci cereri la 30 de secunde (%1$d componente per rulare); cu cheie, 50 la 30 de secunde și %2$d componente per rulare."
+      ],
+      "Übernehmen": [
+        "Aplică"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Rulează o trecere acum"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Verificarea programată este oprită; rulează doar ceea ce porniți manual aici."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Următoarea rulare programată: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Verificarea este activată, dar nu există nicio rulare programată. Salvați o dată pentru a crea programarea."
+      ],
+      "nicht angegeben": [
+        "nespecificat"
+      ],
+      "Aktiver Code": [
+        "Cod activ"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, module active (site și rețea), module MU, tema activă și tema părinte cu datele din antetele fișierelor; plus bibliotecile Composer și npm incluse și mediul de execuție de dedesubt (PHP, extensii cu versiune, serverul bazei de date). Modulele inactive nu sunt incluse."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Include algoritmii criptografici (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Enumera funcțiile hash, cifrurile și versiunile TLS oferite de acest server — inclusiv pe cele învechite, deoarece acesta este rolul unui inventar criptografic. Pe un PHP 8.3 uzual cu OpenSSL 3.5 adaugă circa 186 de intrări, motiv pentru care este dezactivat implicit."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Expune public fără autentificare rutele REST (/sbom, /spdx, /vex, /csaf)"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Implicit, rutele sunt protejate (sesiune administrator sau Authorization: Bearer <Token>). În modul public se aplică cache temporar de 1 oră și o limită de 60 de cereri pe minut."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Regenerează tokenul Bearer"
+      ],
+      "Bearer-Token erzeugen": [
+        "Generează token Bearer"
+      ],
+      "Bearer-Token widerrufen": [
+        "Revocă tokenul Bearer"
+      ],
+      "Typ": [
+        "Tip"
+      ],
+      "Paket-URL (purl)": [
+        "URL pachet (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licență conform antetului"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Instantanee salvate (ultimele 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Niciun instantaneu salvat încă."
+      ],
+      "Gespeichert (UTC)": [
+        "Salvat (UTC)"
+      ],
+      "Komponenten": [
+        "Componente"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 al JSON-ului"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Date pentru /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Contact (câmp obligatoriu)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "Adresă de e-mail (livrată ca mailto:) sau adresă https a unui formular de contact."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Data expirării (câmp obligatoriu)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "După această zi fișierul este considerat expirat. RFC 9116 recomandă mai puțin de un an; datele mai îndepărtate sunt respinse."
+      ],
+      "Bevorzugte Sprachen": [
+        "Limbi preferate"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Coduri de limbă separate prin virgulă, de ex. ro, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Politică de raportare"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "Adresa https a unei pagini care descrie modul de tratare a raportărilor. Lăsați gol dacă nu există."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Cheie publică"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "Adresa https a unei chei OpenPGP pentru raportări criptate. Lăsați gol dacă nu există."
+      ],
+      "security.txt speichern": [
+        "Salvează security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Păstrarea datelor la dezinstalare"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "La dezinstalarea modulului, șterge definitiv toate opțiunile, precum și instantaneele SBOM salvate, buletinele CSAF, vulnerabilitățile identificate și declarațiile VEX"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Implicit, opțiunile, tabelele justificative și declarațiile VEX sunt păstrate la dezinstalarea modulului."
+      ],
+      "Einstellung speichern": [
+        "Salvează setarea"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Regulamentul (UE) 2024/2847 privind cerințele orizontale de securitate cibernetică pentru produsele cu elemente digitale. Se aplică de la 11 decembrie 2027, iar obligațiile de raportare din articolul 14 de la 11 septembrie 2026 (articolul 71). Acest modul nu evaluează dacă regulamentul se aplică unui site."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "O evidență formală a componentelor unui software și a relațiilor lor din lanțul de aprovizionare (articolul 3 punctul 39 din CRA). Potrivit anexei I partea II, producătorii trebuie să o întocmească cel puțin pentru dependențele de nivel superior; publicarea nu este obligatorie."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Format lizibil automat pentru listele de componente software. Ghidul tehnic BSI TR-03183-2 descrie corespondența câmpurilor către CycloneDX și SPDX și, potrivit BSI, nu are caracter obligatoriu."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Fișier text la /.well-known/security.txt cu date de contact și termen de valabilitate, astfel încât raportările de securitate să ajungă la destinatarul potrivit."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): format lizibil automat pentru buletine de securitate. Acest modul stochează buletinele în profilul de bază și nu publică provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Token Bearer nevalid."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Acces refuzat: este necesară autentificarea sau un token Bearer."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Prea multe cereri. Încercați din nou mai târziu."
+      ],
+      "CRA Beacon Status": [
+        "Stare CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Starea calculată a fișierului security.txt livrat (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Buletine de securitate și raportarea vulnerabilităților"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Raportați vulnerabilitățile acestui site la adresa menționată mai jos. Lista software-ului utilizat și buletinele de securitate publicate sunt disponibile în format JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Contact pentru raportări de securitate"
+      ],
+      "Nicht hinterlegt": [
+        "Neconfigurat"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Lista de software (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Buletine de securitate (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Buletine de securitate publicate"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "În prezent nu există buletine de securitate publicate."
+      ],
+      "Schweregrad: %s": [
+        "Severitate: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Niciun nume de produs pentru interogare."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Versiunea acestei componente este necunoscută; compararea cu intervalele de versiuni nu a fost posibilă."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Trebuie specificate atât produsul, cât și vulnerabilitatea."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Stare VEX necunoscută."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Justificarea nu se numără printre cele cinci definite în catalogul VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Starea „neafectat” necesită o justificare din catalog sau o explicație în text liber."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Starea „afectat” necesită indicarea măsurilor de remediere."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s nu a putut fi contactat."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s a răspuns cu HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Răspunsul de la %s nu a fost JSON valid."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Baza de date a raportat mai multe rezultate decât încap pe o pagină; a fost verificată prima pagină."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT și buletine de securitate"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Afișează contactul de securitate conform RFC 9116, legăturile către SBOM și indexul CSAF, precum și buletinele de securitate publicate."
+      ],
+      "Darstellung": [
+        "Afișare"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Afișează legăturile JSON (SBOM și CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Afișează buletinele de securitate publicate"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT și buletine de securitate"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Afișează contactul de securitate conform RFC 9116, legăturile către SBOM și indexul CSAF, precum și buletinele de securitate publicate."
+      ],
+      "block keyword\u0004security": [
+        "securitate"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

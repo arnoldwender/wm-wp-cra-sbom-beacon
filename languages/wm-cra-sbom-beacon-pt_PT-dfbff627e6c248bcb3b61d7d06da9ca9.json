@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "pt_PT",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "Inventário CycloneDX 1.6 do código carregado pelo WordPress, /.well-known/security.txt (RFC 9116) a partir das definições de administração e avisos de segurança guardados como documentos base CSAF 2.0. Não avalia a aplicabilidade do Cyber Resilience Act."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Válido até %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Expira em %1$d dias (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Expirou em %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Contacto ou data de expiração inválidos"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Inacessível: as ligações permanentes estão em «Simples» ou a regra não foi guardada"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Nenhum contacto configurado"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt e SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Contacto ainda não confirmado: guarde as definições uma vez."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Componentes (último instantâneo)"
+      ],
+      "Sicherheitshinweise": [
+        "Avisos de segurança"
+      ],
+      "CRA Beacon öffnen": [
+        "Abrir CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM em JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Visão geral"
+      ],
+      "Software-Liste (SBOM)": [
+        "Lista de software (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Vulnerabilidades"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Glossário"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, lista de software e avisos de segurança"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (perfil base)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Parte da família de plugins WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Autónomo"
+      ],
+      "Was dieses Plugin tut": [
+        "O que faz este plugin"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Gera uma lista em formato CycloneDX 1.6 do código carregado pelo WordPress, disponibiliza o ficheiro /.well-known/security.txt com base nos dados desta página e lista avisos de segurança publicados via WP-CLI. Não avalia se o Cyber Resilience Act se aplica a este site ou ao seu operador, nem substitui notificações ao abrigo do artigo 14.º."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Guardar instantâneo da SBOM"
+      ],
+      "security.txt öffnen": [
+        "Abrir security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt guardado. O ficheiro disponibilizado já utiliza os novos dados."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Instantâneo guardado; encontra-se listado em «Lista de software (SBOM)»."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Não foi possível guardar o instantâneo. Se faltar a tabela, desative e volte a ativar o plugin uma vez."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Novo token Bearer gerado (apresentado apenas uma vez):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Token Bearer revogado."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Definição de desinstalação guardada."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Nada foi guardado. Verifique estes campos:"
+      ],
+      "Bereiche": [
+        "Secções"
+      ],
+      "Kontakt": [
+        "Contacto"
+      ],
+      "Ablaufdatum": [
+        "Data de expiração"
+      ],
+      "Sprachen": [
+        "Idiomas"
+      ],
+      "Richtlinie": [
+        "Política"
+      ],
+      "Schlüssel": [
+        "Chave"
+      ],
+      "Komponenten jetzt": [
+        "Componentes atuais"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, plugins ativos, plugins obrigatórios (MU), temas"
+      ],
+      "Kontakt bestätigt": [
+        "Contacto confirmado"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Contacto não confirmado"
+      ],
+      "Momentaufnahmen": [
+        "Instantâneos"
+      ],
+      "gespeicherte SBOMs": [
+        "SBOM guardadas"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "publicados com wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "O contacto foi estimado na ativação (%s) e ainda não foi confirmado. Verifique o endereço em «security.txt» e guarde uma vez."
+      ],
+      "Ausgelieferte security.txt": [
+        "security.txt disponibilizado"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Exatamente este conteúdo é disponibilizado em %s:"
+      ],
+      "geprüft": [
+        "verificado"
+      ],
+      "noch nie geprüft": [
+        "nunca verificado"
+      ],
+      "Version unbekannt": [
+        "versão desconhecida"
+      ],
+      "Quelle nicht erreichbar": [
+        "fonte inacessível"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Verificação nas bases de dados de vulnerabilidades"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Os pacotes Composer e npm são consultados no OSV e os componentes WordPress na NVD. Cada fonte apenas responde pelo que indexa: a NVD não conhece pacotes Composer por estes nomes e o OSV devolve uma resposta vazia para qualquer plugin WordPress, o que pareceria ausência de falhas. Sem chave de API, a NVD limita a cinco pedidos por cada 30 segundos, pelo que cada execução verifica uma parte da lista e memoriza a posição."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Um componente não verificado não é um componente sem vulnerabilidades."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Ainda não foi executada nenhuma verificação."
+      ],
+      "Komponente": [
+        "Componente"
+      ],
+      "Version": [
+        "Versão"
+      ],
+      "Stand": [
+        "Estado"
+      ],
+      "Quelle": [
+        "Fonte"
+      ],
+      "Geprüft (UTC)": [
+        "Verificado (UTC)"
+      ],
+      "Treffer": [
+        "Resultados"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Definições da verificação"
+      ],
+      "Täglicher Abgleich": [
+        "Verificação diária"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Comparar diariamente a lista de software com o OSV e a NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "Chave de API da NVD (opcional)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "guardada — introduza uma nova para alterar ou guarde em branco para limpar"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "nenhuma chave guardada"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Sem chave, a NVD permite cinco pedidos por 30 segundos (%1$d componentes por execução); com chave, 50 por 30 segundos e %2$d componentes por execução."
+      ],
+      "Übernehmen": [
+        "Aplicar"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Executar uma passagem agora"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "A verificação agendada está desativada; apenas corre o que iniciar manualmente aqui."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Próxima execução agendada: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "A verificação está ativa, mas não há agendamento criado. Guardar uma vez cria o agendamento."
+      ],
+      "nicht angegeben": [
+        "não indicado"
+      ],
+      "Aktiver Code": [
+        "Código ativo"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, plugins ativos (site e rede), plugins MU, o tema ativo e o tema ascendente com os dados dos respetivos cabeçalhos; mais as bibliotecas Composer e npm incluídas e o ambiente de execução subjacente (PHP, extensões com versão, servidor de base de dados). Os plugins inativos não são incluídos."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Incluir algoritmos criptográficos (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Lista os algoritmos de hash, cifras e versões TLS disponibilizados por este servidor — incluindo os obsoletos, pois é essa a finalidade de um inventário criptográfico. Num PHP 8.3 comum com OpenSSL 3.5 isto acrescenta cerca de 186 entradas, pelo que está desativado por predefinição."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Disponibilizar publicamente sem autenticação os endpoints REST (/sbom, /spdx, /vex, /csaf)"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Por predefinição, os endpoints estão protegidos (sessão de administrador ou Authorization: Bearer <Token>). No modo público aplicam-se cache temporária de 1 hora e limite de 60 pedidos por minuto."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Regenerar token Bearer"
+      ],
+      "Bearer-Token erzeugen": [
+        "Gerar token Bearer"
+      ],
+      "Bearer-Token widerrufen": [
+        "Revogar token Bearer"
+      ],
+      "Typ": [
+        "Tipo"
+      ],
+      "Paket-URL (purl)": [
+        "URL do pacote (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licença no cabeçalho"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Instantâneos guardados (10 mais recentes)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Ainda não existe nenhum instantâneo guardado."
+      ],
+      "Gespeichert (UTC)": [
+        "Guardado (UTC)"
+      ],
+      "Komponenten": [
+        "Componentes"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 do JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Dados para /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Contacto (obrigatório)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "Endereço de e-mail (servido como mailto:) ou URL https de um formulário de contacto."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Data de expiração (obrigatório)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Após este dia o ficheiro é considerado desatualizado. A RFC 9116 recomenda menos de um ano; datas mais distantes são recusadas."
+      ],
+      "Bevorzugte Sprachen": [
+        "Idiomas preferidos"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Códigos de idioma separados por vírgulas, p. ex. pt, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Política de divulgação"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "URL https de uma página que descreva como as comunicações são tratadas. Deixar vazio se não existir."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Chave pública"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "URL https de uma chave OpenPGP para comunicações cifradas. Deixar vazio se não existir."
+      ],
+      "security.txt speichern": [
+        "Guardar security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Retenção de dados na desinstalação"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Eliminar definitivamente todas as opções do plugin, bem como instantâneos SBOM, avisos CSAF, vulnerabilidades registadas e declarações VEX ao desinstalar o plugin"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Por predefinição, as opções, tabelas de registos e declarações VEX são preservadas na desinstalação do plugin."
+      ],
+      "Einstellung speichern": [
+        "Guardar definição"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Regulamento (UE) 2024/2847 relativo aos requisitos horizontais de cibersegurança para produtos com elementos digitais. Aplica-se a partir de 11 de dezembro de 2027 e os deveres de notificação do artigo 14.º a partir de 11 de setembro de 2026 (artigo 71.º). Este plugin não avalia se o regulamento abrange um site."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Registo formal dos componentes de um software e das respetivas relações na cadeia de abastecimento (artigo 3.º, n.º 39 do CRA). Nos termos do anexo I, parte II, os fabricantes devem elaborá-lo pelo menos para as dependências de nível superior, sem obrigação de publicação."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Formato legível por máquina para listas de materiais de software. A orientação técnica BSI TR-03183-2 descreve o mapeamento dos seus campos para CycloneDX e SPDX; segundo o BSI, não é vinculativa."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Ficheiro de texto em /.well-known/security.txt com contacto e validade para encaminhar comunicações de segurança ao destinatário certo."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): formato legível por máquina para avisos de segurança. Este plugin guarda avisos no perfil base e não publica provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Token Bearer inválido."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Acesso negado: início de sessão ou token Bearer necessário."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Demasiados pedidos. Tente novamente mais tarde."
+      ],
+      "CRA Beacon Status": [
+        "Estado do CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Estado calculado do ficheiro security.txt disponibilizado (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Avisos de segurança e comunicação de vulnerabilidades"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Comunique vulnerabilidades neste site para o endereço indicado abaixo. A lista de software utilizado e os avisos de segurança publicados estão disponíveis em JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Contacto para comunicações de segurança"
+      ],
+      "Nicht hinterlegt": [
+        "Não configurado"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Lista de software (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Avisos de segurança (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Avisos de segurança publicados"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "De momento não existem avisos de segurança publicados."
+      ],
+      "Schweregrad: %s": [
+        "Gravidade: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Sem nome de produto para a consulta."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "A versão deste componente é desconhecida; não foi possível comparar com intervalos de versões."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "O produto e a vulnerabilidade têm de ser indicados."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Estado VEX desconhecido."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "A justificação não pertence às cinco definidas no catálogo VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "«não afetado» exige uma justificação do catálogo ou uma explicação em texto simples."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "«afetado» exige indicar o que deve ser feito."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s não estava acessível."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s respondeu com HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "A resposta de %s não era JSON válido."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "A base de dados indicou mais resultados do que cabe numa página; foi analisada a primeira página."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT e avisos de segurança"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Mostra o contacto de segurança RFC 9116, ligações para o SBOM e índice CSAF e os avisos de segurança publicados."
+      ],
+      "Darstellung": [
+        "Apresentação"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Mostrar ligações JSON (SBOM e CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Mostrar avisos de segurança publicados"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT e avisos de segurança"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Mostra o contacto de segurança RFC 9116, ligações para o SBOM e índice CSAF e os avisos de segurança publicados."
+      ],
+      "block keyword\u0004security": [
+        "segurança"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

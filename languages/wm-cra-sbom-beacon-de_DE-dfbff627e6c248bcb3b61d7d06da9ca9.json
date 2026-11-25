@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "de_DE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "CycloneDX-1.6-Bestandsliste des von WordPress geladenen Codes, /.well-known/security.txt (RFC 9116) aus den Admin-Einstellungen sowie Sicherheitshinweise als CSAF-2.0-Basisdokumente. Prüft nicht, ob der Cyber Resilience Act gilt."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Gültig bis %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Läuft in %1$d Tagen ab (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Abgelaufen am %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Kontakt oder Ablaufdatum ungültig"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Kein Kontakt hinterlegt"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt und SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Kontakt noch nicht bestätigt: Einstellungen einmal speichern."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponenten (letzte Momentaufnahme)"
+      ],
+      "Sicherheitshinweise": [
+        "Sicherheitshinweise"
+      ],
+      "CRA Beacon öffnen": [
+        "CRA Beacon öffnen"
+      ],
+      "SBOM als JSON": [
+        "SBOM als JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Übersicht"
+      ],
+      "Software-Liste (SBOM)": [
+        "Software-Liste (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Schwachstellen"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Begriffe"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Teil der WM-Suite-Plugin-Familie"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Eigenständig"
+      ],
+      "Was dieses Plugin tut": [
+        "Was dieses Plugin tut"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Momentaufnahme der SBOM speichern"
+      ],
+      "security.txt öffnen": [
+        "security.txt öffnen"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Bearer-Token widerrufen."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Deinstallations-Einstellung gespeichert."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Nichts gespeichert. Bitte diese Felder prüfen:"
+      ],
+      "Bereiche": [
+        "Bereiche"
+      ],
+      "Kontakt": [
+        "Kontakt"
+      ],
+      "Ablaufdatum": [
+        "Ablaufdatum"
+      ],
+      "Sprachen": [
+        "Sprachen"
+      ],
+      "Richtlinie": [
+        "Richtlinie"
+      ],
+      "Schlüssel": [
+        "Schlüssel"
+      ],
+      "Komponenten jetzt": [
+        "Komponenten jetzt"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktive Plugins, Must-Use-Plugins, Themes"
+      ],
+      "Kontakt bestätigt": [
+        "Kontakt bestätigt"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kontakt nicht bestätigt"
+      ],
+      "Momentaufnahmen": [
+        "Momentaufnahmen"
+      ],
+      "gespeicherte SBOMs": [
+        "gespeicherte SBOMs"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "veröffentlicht mit wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal."
+      ],
+      "Ausgelieferte security.txt": [
+        "Ausgelieferte security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Genau dieser Inhalt wird unter %s ausgeliefert:"
+      ],
+      "geprüft": [
+        "geprüft"
+      ],
+      "noch nie geprüft": [
+        "noch nie geprüft"
+      ],
+      "Version unbekannt": [
+        "Version unbekannt"
+      ],
+      "Quelle nicht erreichbar": [
+        "Quelle nicht erreichbar"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Abgleich gegen Schwachstellen-Datenbanken"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Eine nicht geprüfte Komponente ist keine unauffällige Komponente."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Noch kein Abgleich gelaufen."
+      ],
+      "Komponente": [
+        "Komponente"
+      ],
+      "Version": [
+        "Version"
+      ],
+      "Stand": [
+        "Stand"
+      ],
+      "Quelle": [
+        "Quelle"
+      ],
+      "Geprüft (UTC)": [
+        "Geprüft (UTC)"
+      ],
+      "Treffer": [
+        "Treffer"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Einstellungen des Abgleichs"
+      ],
+      "Täglicher Abgleich": [
+        "Täglicher Abgleich"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Die Software-Liste täglich gegen OSV und die NVD abgleichen"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD-API-Schlüssel (optional)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "kein Schlüssel hinterlegt"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf."
+      ],
+      "Übernehmen": [
+        "Übernehmen"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Jetzt einen Durchgang ausführen"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Nächster geplanter Lauf: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an."
+      ],
+      "nicht angegeben": [
+        "nicht angegeben"
+      ],
+      "Aktiver Code": [
+        "Aktiver Code"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Kryptografische Verfahren mitaufnehmen (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Bearer-Token neu erzeugen"
+      ],
+      "Bearer-Token erzeugen": [
+        "Bearer-Token erzeugen"
+      ],
+      "Bearer-Token widerrufen": [
+        "Bearer-Token widerrufen"
+      ],
+      "Typ": [
+        "Typ"
+      ],
+      "Paket-URL (purl)": [
+        "Paket-URL (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Lizenz laut Dateikopf"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Gespeicherte Momentaufnahmen (neueste 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Noch keine Momentaufnahme gespeichert."
+      ],
+      "Gespeichert (UTC)": [
+        "Gespeichert (UTC)"
+      ],
+      "Komponenten": [
+        "Komponenten"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 des JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Angaben für /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kontakt (Pflichtfeld)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Ablaufdatum (Pflichtfeld)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt."
+      ],
+      "Bevorzugte Sprachen": [
+        "Bevorzugte Sprachen"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Sprachkürzel, durch Komma getrennt, z. B. de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Richtlinie für Meldungen"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Öffentlicher Schlüssel"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt."
+      ],
+      "security.txt speichern": [
+        "security.txt speichern"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Datenaufbewahrung bei Deinstallation"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten."
+      ],
+      "Einstellung speichern": [
+        "Einstellung speichern"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Ungültiges Bearer-Token."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Zu viele Anfragen. Bitte später erneut versuchen."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beacon Status"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Berechneter Status der ausgelieferten security.txt (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Sicherheitshinweise und Meldung von Schwachstellen"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kontakt für Sicherheitsmeldungen"
+      ],
+      "Nicht hinterlegt": [
+        "Nicht hinterlegt"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Software-Liste (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Sicherheitshinweise (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Veröffentlichte Sicherheitshinweise"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Derzeit sind keine Sicherheitshinweise veröffentlicht."
+      ],
+      "Schweregrad: %s": [
+        "Schweregrad: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Kein Produktname für die Abfrage."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Produkt und Schwachstelle müssen benannt sein."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Unbekannter VEX-Status."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Die Begründung ist keine der fünf im VEX-Katalog definierten."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s war nicht erreichbar."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s antwortete mit HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Die Antwort von %s war kein JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT & Sicherheitshinweise"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise."
+      ],
+      "Darstellung": [
+        "Darstellung"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "JSON-Verweise anzeigen (SBOM & CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Veröffentlichte Sicherheitshinweise anzeigen"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT & Sicherheitshinweise"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise."
+      ],
+      "block keyword\u0004security": [
+        "Sicherheit"
+      ],
+      "block keyword\u0004sbom": [
+        "SBOM"
+      ],
+      "block keyword\u0004csaf": [
+        "CSAF"
+      ],
+      "block keyword\u0004psirt": [
+        "PSIRT"
+      ],
+      "block keyword\u0004cra": [
+        "CRA"
+      ]
+    }
+  }
+}

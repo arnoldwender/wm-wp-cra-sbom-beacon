@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "sk_SK",
+        "plural-forms": "nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "Inventár CycloneDX 1.6 kódu načítavaného WordPressom, /.well-known/security.txt (RFC 9116) z nastavení administrácie a bezpečnostné upozornenia uložené ako základné dokumenty CSAF 2.0. Neposudzuje uplatniteľnosť aktu o kybernetickej odolnosti."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Platné do %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Vyprší o %1$d dní (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Vypršalo dňa %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Kontakt alebo dátum platnosti je neplatný"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Nedostupné: trvalé odkazy sú nastavené na „Jednoduché“ alebo pravidlo nie je uložené"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Nie je zadaný žiadny kontakt"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt a SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Kontakt ešte nie je potvrdený: uložte nastavenia aspoň raz."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponenty (posledná snímka)"
+      ],
+      "Sicherheitshinweise": [
+        "Bezpečnostné upozornenia"
+      ],
+      "CRA Beacon öffnen": [
+        "Otvoriť CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM ako JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Prehľad"
+      ],
+      "Software-Liste (SBOM)": [
+        "Zoznam softvéru (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Zraniteľnosti"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Pojmy"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, zoznam softvéru a bezpečnostné upozornenia"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (základný profil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Súčasť rodiny pluginov WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Samostatný"
+      ],
+      "Was dieses Plugin tut": [
+        "Čo tento plugin robí"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Vytvára zoznam kódu načítavaného WordPressom vo formáte CycloneDX 1.6, sprístupňuje súbor /.well-known/security.txt z údajov na tejto stránke a zobrazuje bezpečnostné upozornenia publikované cez WP-CLI. Neposudzuje, či sa akt o kybernetickej odolnosti (CRA) vzťahuje na tento web alebo jeho prevádzkovateľa, a nenahrádza hlásenie podľa článku 14 nariadenia."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Uložiť snímku SBOM"
+      ],
+      "security.txt öffnen": [
+        "Otvoriť security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "Súbor security.txt bol uložený. Vydávaný súbor už používa nové údaje."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Snímka bola uložená; nachádza sa v zozname pod „Zoznam softvéru (SBOM)“."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Snímku sa nepodarilo uložiť. Ak chýba tabuľka, plugin raz deaktivujte a znova aktivujte."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Vygenerovaný nový token Bearer (zobrazí sa iba raz):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Token Bearer bol odvolaný."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Nastavenie odinštalácie uložené."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Nič nebolo uložené. Skontrolujte tieto polia:"
+      ],
+      "Bereiche": [
+        "Sekcie"
+      ],
+      "Kontakt": [
+        "Kontakt"
+      ],
+      "Ablaufdatum": [
+        "Dátum platnosti"
+      ],
+      "Sprachen": [
+        "Jazyky"
+      ],
+      "Richtlinie": [
+        "Zásady"
+      ],
+      "Schlüssel": [
+        "Kľúč"
+      ],
+      "Komponenten jetzt": [
+        "Komponenty teraz"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktívne pluginy, must-use pluginy, témy"
+      ],
+      "Kontakt bestätigt": [
+        "Kontakt potvrdený"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kontakt nepotvrdený"
+      ],
+      "Momentaufnahmen": [
+        "Snímky"
+      ],
+      "gespeicherte SBOMs": [
+        "uložené SBOM"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "publikované cez wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Kontakt bol odhadnutý pri aktivácii (%s) a ešte nie je potvrdený. Skontrolujte adresu v časti „security.txt“ a raz uložte."
+      ],
+      "Ausgelieferte security.txt": [
+        "Vydávaný security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Presne tento obsah sa vydáva na adrese %s:"
+      ],
+      "geprüft": [
+        "skontrolované"
+      ],
+      "noch nie geprüft": [
+        "ešte neskontrolované"
+      ],
+      "Version unbekannt": [
+        "neznáma verzia"
+      ],
+      "Quelle nicht erreichbar": [
+        "zdroj nedostupný"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Porovnanie s databázami zraniteľností"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Balíky Composer a npm sa overujú v OSV, komponenty WordPressu v NVD. Každý zdroj je dopytovaný iba na údaje, ktoré vedie: NVD nepozná balíky Composer pod týmito názvami a OSV vracia pre pluginy WordPressu prázdnu odpoveď, ktorá by vyzerala ako čistý výsledok. Bez kľúča povoľuje NVD päť dopytov za 30 sekúnd, takže jeden beh preverí časť zoznamu a zapamätá si pozíciu."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Neskontrolovaný komponent nie je bezchybný komponent."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Zatiaľ neprebehla žiadna kontrola."
+      ],
+      "Komponente": [
+        "Komponent"
+      ],
+      "Version": [
+        "Verzia"
+      ],
+      "Stand": [
+        "Stav"
+      ],
+      "Quelle": [
+        "Zdroj"
+      ],
+      "Geprüft (UTC)": [
+        "Skontrolované (UTC)"
+      ],
+      "Treffer": [
+        "Nálezy"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Nastavenia kontroly"
+      ],
+      "Täglicher Abgleich": [
+        "Denná kontrola"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Denne porovnávať zoznam softvéru s databázami OSV a NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "API kľúč NVD (voliteľný)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "uložený — pre zmenu zadajte nový, pre vymazanie uložte prázdne pole"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "žiadny kľúč nie je uložený"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Bez kľúča povoľuje NVD päť dopytov za 30 sekúnd (%1$d komponentov na beh); s kľúčom 50 za 30 sekúnd a %2$d komponentov na beh."
+      ],
+      "Übernehmen": [
+        "Použiť"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Spustiť kontrolu teraz"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Plánovaná kontrola je vypnutá; prebehne len to, čo spustíte tu."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Najbližší plánovaný beh: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Kontrola je zapnutá, ale nie je naplánovaný žiadny beh. Jedným uložením vytvoríte plán."
+      ],
+      "nicht angegeben": [
+        "neuvedené"
+      ],
+      "Aktiver Code": [
+        "Aktívny kód"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktívne pluginy (web aj sieť), must-use pluginy, aktívna téma a jej nadradená téma s údajmi z hlavičiek súborov; okrem toho pribalené knižnice Composer a npm a behové prostredie pod nimi (PHP, verziované rozšírenia, databázový server). Neaktívne pluginy nie sú zahrnuté."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Zahrnúť kryptografické algoritmy (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Uvádza hašovacie funkcie, šifry a verzie TLS ponúkané týmto serverom — vrátane zastaraných, pretože presne na to kryptografický súpis slúži. Na bežnom PHP 8.3 s OpenSSL 3.5 to pridá približne 186 položiek, preto je voľba predvolene vypnutá."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Sprístupniť REST koncové body (/sbom, /spdx, /vex, /csaf) verejne bez prihlásenia"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Predvolene sú koncové body chránené (relácia administrátora alebo Authorization: Bearer <Token>). Pri verejnom sprístupnení platí hodinová vyrovnávacia pamäť a limit 60 požiadaviek za minútu."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Znova vygenerovať token Bearer"
+      ],
+      "Bearer-Token erzeugen": [
+        "Vygenerovať token Bearer"
+      ],
+      "Bearer-Token widerrufen": [
+        "Odvolať token Bearer"
+      ],
+      "Typ": [
+        "Typ"
+      ],
+      "Paket-URL (purl)": [
+        "URL balíka (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licencia podľa hlavičky"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Uložené snímky (10 najnovších)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Zatiaľ nie je uložená žiadna snímka."
+      ],
+      "Gespeichert (UTC)": [
+        "Uložené (UTC)"
+      ],
+      "Komponenten": [
+        "Komponenty"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 JSONu"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Údaje pre /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kontakt (povinné pole)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "E-mailová adresa (vydáva sa ako mailto:) alebo https adresa kontaktného formulára."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Dátum platnosti (povinné pole)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Po tomto dni sa súbor považuje za zastaraný. RFC 9116 odporúča menej ako jeden rok; vzdialenejšie dátumy sa odmietajú."
+      ],
+      "Bevorzugte Sprachen": [
+        "Uprednostňované jazyky"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Kódy jazykov oddelené čiarkou, napr. sk, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Zásady nahlasovania"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "Adresa https stránky opisujúcej spôsob spracovania hlásení. Ak neexistuje, nechajte prázdne."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Verejný kľúč"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "Adresa https kľúča OpenPGP pre šifrované hlásenia. Ak neexistuje, nechajte prázdne."
+      ],
+      "security.txt speichern": [
+        "Uložiť security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Uchovávanie údajov pri odinštalácii"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Pri odinštalovaní pluginu natrvalo odstrániť všetky voľby aj uložené snímky SBOM, bezpečnostné upozornenia CSAF, nálezy zraniteľností a vyjadrenia VEX"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Predvolene zostávajú voľby, evidenčné tabuľky a vyjadrenia VEX pri odinštalovaní pluginu zachované."
+      ],
+      "Einstellung speichern": [
+        "Uložiť nastavenie"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Nariadenie (EÚ) 2024/2847 o horizontálnych požiadavkách na kybernetickú bezpečnosť produktov s digitálnymi prvkami. Uplatňuje sa od 11. decembra 2027, oznamovacie povinnosti podľa článku 14 od 11. septembra 2026 (článok 71). Tento plugin neposudzuje, či sa nariadenie vzťahuje na konkrétny web."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Formálny záznam komponentov softvéru a ich vzťahov v dodávateľskom reťazci (čl. 3 bod 39 CRA). Podľa prílohy I časti II ho výrobcovia musia vypracovať aspoň pre závislosti najvyššej úrovne; zverejňovať ho nemusia."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Strojovo čitateľný formát pre zoznamy softvérových komponentov. Technické usmernenie BSI TR-03183-2 opisuje mapovanie dátových polí na CycloneDX a SPDX; podľa BSI nie je záväzné."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Textový súbor na adrese /.well-known/security.txt s kontaktom a dátumom platnosti, aby bezpečnostné hlásenia dorazili na správne miesto."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): strojovo čitateľný formát pre bezpečnostné upozornenia. Tento plugin ukladá upozornenia v základnom profile a nezverejňuje provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Neplatný token Bearer."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Prístup zamietnutý: vyžaduje sa prihlásenie alebo token Bearer."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Príliš veľa požiadaviek. Skúste to znova neskôr."
+      ],
+      "CRA Beacon Status": [
+        "Stav CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Vypočítaný stav vydávaného súboru security.txt (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Bezpečnostné upozornenia a nahlasovanie zraniteľností"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Zraniteľnosti tohto webu nahlasujte na nižšie uvedenú adresu. Zoznam použitého softvéru a zverejnené bezpečnostné upozornenia sú dostupné vo formáte JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kontakt pre bezpečnostné hlásenia"
+      ],
+      "Nicht hinterlegt": [
+        "Nie je nastavené"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Zoznam softvéru (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Bezpečnostné upozornenia (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Zverejnené bezpečnostné upozornenia"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Momentálne nie sú zverejnené žiadne bezpečnostné upozornenia."
+      ],
+      "Schweregrad: %s": [
+        "Závažnosť: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Chýba názov produktu pre dopyt."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Verzia tohto komponentu nie je známa; porovnanie s rozsahmi verzií nebolo možné."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Musí byť uvedený produkt aj zraniteľnosť."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Neznámy stav VEX."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Odôvodnenie nepatrí medzi päť hodnôt definovaných v katalógu VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Stav „nedotknuté“ vyžaduje odôvodnenie z katalógu alebo textové vysvetlenie."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Stav „dotknuté“ vyžaduje uvedenie opatrení, ktoré treba vykonať."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s nebol dostupný."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s odpovedal kódom HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Odpoveď od %s nebola platný JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Databáza oznámila viac záznamov, než vracia jedna stránka; skontrolovaná bola prvá stránka."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT a bezpečnostné upozornenia"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Zobrazuje bezpečnostný kontakt podľa RFC 9116, odkazy na SBOM a index CSAF a zverejnené bezpečnostné upozornenia."
+      ],
+      "Darstellung": [
+        "Zobrazenie"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Zobraziť odkazy JSON (SBOM a CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Zobraziť zverejnené bezpečnostné upozornenia"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT a bezpečnostné upozornenia"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Zobrazuje bezpečnostný kontakt podľa RFC 9116, odkazy na SBOM a index CSAF a zverejnené bezpečnostné upozornenia."
+      ],
+      "block keyword\u0004security": [
+        "bezpečnosť"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

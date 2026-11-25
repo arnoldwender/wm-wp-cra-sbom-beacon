@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "ga",
+        "plural-forms": "nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "Fardal CycloneDX 1.6 den chód a lódálann WordPress, /.well-known/security.txt (RFC 9116) ó shocruithe riaracháin, agus fógraí slándála stóráilte mar bhuncháipéisí CSAF 2.0. Ní dhéanann sé measúnú an bhfuil feidhm ag an Acht um Athléimneacht Chibeartha."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Bailí go dtí %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Rachaidh sé in éag i gceann %1$d lá (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Chuaigh sé in éag ar %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Teagmháil nó dáta éaga neamhbhailí"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Do-rochtana: tá naisc bhuana socraithe ar “Simplí” nó níor sábháladh an riail"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Níl aon teagmháil socraithe"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt agus SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Níl an teagmháil deimhnithe fós: sábháil na socruithe uair amháin."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Comhpháirteanna (an pictiúr is déanaí)"
+      ],
+      "Sicherheitshinweise": [
+        "Fógraí slándála"
+      ],
+      "CRA Beacon öffnen": [
+        "Oscail CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM mar JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Forbhreathnú"
+      ],
+      "Software-Liste (SBOM)": [
+        "Liosta Bogearraí (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Leochaileachtaí"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Téarmaí"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, liosta bogearraí agus fógraí slándála"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (bunphróifíl)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Cuid d’fhine breiseán WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Neamhspleách"
+      ],
+      "Was dieses Plugin tut": [
+        "Cad a dhéanann an breiseán seo"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Cruthaíonn sé liosta i bhformáid CycloneDX 1.6 den chód a lódálann WordPress, cuireann sé an comhad /.well-known/security.txt ar fáil ó na sonraí ar an leathanach seo agus taispeánann sé fógraí slándála a foilsíodh le WP-CLI. Ní sheiceálann sé an mbaineann an tAcht um Athléimneacht Chibeartha (CRA) leis an suíomh seo ná lena oibreoir, agus ní ghlacann sé áit fógra faoi Airteagal 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Sábháil pictiúr den SBOM"
+      ],
+      "security.txt öffnen": [
+        "Oscail security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "Sábháladh security.txt. Úsáideann an comhad seachadta na sonraí nua anois."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Sábháladh an pictiúr; tá sé sa liosta faoi “Liosta Bogearraí (SBOM)”."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Níorbh fhéidir an pictiúr a shábháil. Má tá an tábla ar iarraidh, díghníomhachtaigh agus athghníomhachtaigh an breiseán uair amháin."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Cruthaíodh comhartha Bearer nua (ní thaispeántar ach uair amháin é):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Cúlghaireadh an comhartha Bearer."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Sábháladh an socrú díshuiteála."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Níor sábháladh aon rud. Seiceáil na réimsí seo le do thoil:"
+      ],
+      "Bereiche": [
+        "Rannóga"
+      ],
+      "Kontakt": [
+        "Teagmháil"
+      ],
+      "Ablaufdatum": [
+        "Dáta éaga"
+      ],
+      "Sprachen": [
+        "Teangacha"
+      ],
+      "Richtlinie": [
+        "Polasaí"
+      ],
+      "Schlüssel": [
+        "Eochair"
+      ],
+      "Komponenten jetzt": [
+        "Comhpháirteanna anois"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, breiseáin ghníomhacha, breiseáin riachtanacha (MU), téamaí"
+      ],
+      "Kontakt bestätigt": [
+        "Teagmháil deimhnithe"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Teagmháil gan deimhniú"
+      ],
+      "Momentaufnahmen": [
+        "Pictiúir staid"
+      ],
+      "gespeicherte SBOMs": [
+        "SBOManna sábháilte"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "foilsithe le wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Measadh an teagmháil le linn gníomhachtaithe (%s) agus níl sí deimhnithe fós. Seiceáil an seoladh faoi “security.txt” agus sábháil uair amháin."
+      ],
+      "Ausgelieferte security.txt": [
+        "security.txt seachadta"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Seachadtar an t-ábhar cruinn seo ag %s:"
+      ],
+      "geprüft": [
+        "seiceáilte"
+      ],
+      "noch nie geprüft": [
+        "gan seiceáil riamh"
+      ],
+      "Version unbekannt": [
+        "leagan anaithnid"
+      ],
+      "Quelle nicht erreichbar": [
+        "foinse do-rochtana"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Seiceáil in aghaidh bunachair leochaileachtaí"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Cuirtear pacáistí Composer agus npm chuig OSV, agus comhpháirteanna WordPress chuig an NVD. Ní fhiafraítear de gach foinse ach faoin méid a choinníonn sí: níl pacáistí Composer faoi na hainmneacha sin san NVD, agus tugann OSV freagra folamh ar gach breiseán WordPress, rud a bheadh cosúil le toradh glan. Gan eochair ceadaíonn an NVD cúig iarratas gach 30 soicind, mar sin seiceálann gach rith cuid den liosta agus cuimhníonn sé ar an áit ar stad sé."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Ní hionann comhpháirt gan seiceáil agus comhpháirt shlán."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Níor ritheadh aon seiceáil fós."
+      ],
+      "Komponente": [
+        "Comhpháirt"
+      ],
+      "Version": [
+        "Leagan"
+      ],
+      "Stand": [
+        "Stádas"
+      ],
+      "Quelle": [
+        "Foinse"
+      ],
+      "Geprüft (UTC)": [
+        "Seiceáilte (UTC)"
+      ],
+      "Treffer": [
+        "Aimsithe"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Socruithe na seiceála"
+      ],
+      "Täglicher Abgleich": [
+        "Seiceáil laethúil"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Cuir an liosta bogearraí i gcomparáid gach lá le OSV agus leis an NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "Eochair API NVD (roghnach)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "stóráilte — cuir isteach ceann nua chun í a athrú, nó sábháil folamh chun í a scriosadh"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "níl aon eochair stóráilte"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Gan eochair ceadaíonn an NVD cúig iarratas in aghaidh 30 soicind (%1$d comhpháirt in aghaidh an rite); le heochair 50 in aghaidh 30 soicind agus %2$d comhpháirt in aghaidh an rite."
+      ],
+      "Übernehmen": [
+        "Cuir i bhfeidhm"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Rith pas amháin anois"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Tá an tseiceáil sceidealaithe múchta; ní ritheann ach an méid a thosaíonn tú anseo."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "An chéad rith sceidealaithe eile: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Tá an tseiceáil casta air, ach níl aon rith sceidealaithe. Sábháil uair amháin chun an sceideal a chruthú."
+      ],
+      "nicht angegeben": [
+        "gan sonrú"
+      ],
+      "Aktiver Code": [
+        "Cód Gníomhach"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, breiseáin ghníomhacha (suíomh agus líonra), breiseáin MU, an téama gníomhach agus a mhathairthéama lena sonraí ceanntáisc; mar aon leis na leabharlanna Composer agus npm atá cuimsithe agus an timpeallacht rite fúthu (PHP, síntí le leaganacha, freastalaí bunachar sonraí). Níl breiseáin neamhghníomhacha san áireamh."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Cuir próisis chripteagrafacha san áireamh (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Liostaíonn sé na feidhmeanna hais, na sifir agus na leaganacha TLS a thairgeann an freastalaí seo — na cinn atá imithe i léig san áireamh, mar is chuige sin atá liosta cripteagrafach. Ar ghnáthchóras PHP 8.3 le OpenSSL 3.5 cuireann sé seo thart ar 186 iontráil leis, agus mar sin tá sé múchta de réir réamhshocraithe."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Oscail críochphointí REST (/sbom, /spdx, /vex, /csaf) go poiblí gan logáil isteach"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "De réir réamhshocraithe tá na críochphointí cosanta (seisiún riarthóra nó Authorization: Bearer <Token>). Le rochtain phoiblí tá taisce shealadach uair an chloig agus teorainn 60 iarratas sa nóiméad i bhfeidhm."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Athghin comhartha Bearer"
+      ],
+      "Bearer-Token erzeugen": [
+        "Gin comhartha Bearer"
+      ],
+      "Bearer-Token widerrufen": [
+        "Cúlghair comhartha Bearer"
+      ],
+      "Typ": [
+        "Cineál"
+      ],
+      "Paket-URL (purl)": [
+        "URL an phacáiste (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Ceadúnas de réir ceanntáisc"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Pictiúir shábháilte (10 cinn is déanaí)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Níl aon phictiúr sábháilte fós."
+      ],
+      "Gespeichert (UTC)": [
+        "Sábháilte (UTC)"
+      ],
+      "Komponenten": [
+        "Comhpháirteanna"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 an JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Sonraí do /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Teagmháil (réimse riachtanach)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "Seoladh ríomhphoist (seachadta mar mailto:) nó seoladh https d’fhoirm theagmhála."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Dáta éaga (réimse riachtanach)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Tar éis an lae seo meastar go bhfuil an comhad as dáta. Molann RFC 9116 níos lú ná bliain amháin; diúltaítear do dhátaí níos faide amach."
+      ],
+      "Bevorzugte Sprachen": [
+        "Teangacha tosaíochta"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Cóid teanga scartha le camóg, m.sh. ga, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Polasaí tuairiscithe"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "Seoladh https leathanaigh a mhíníonn conas a láimhseáiltear tuairiscí. Fág folamh mura bhfuil ceann ann."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Eochair phoiblí"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "Seoladh https eochrach OpenPGP le haghaidh tuairiscí criptithe. Fág folamh mura bhfuil ceann ann."
+      ],
+      "security.txt speichern": [
+        "Sábháil security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Coinneáil sonraí le linn díshuiteála"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Nuair a dhíshuiteáiltear an breiseán, scrios go buan gach rogha mar aon le pictiúir SBOM shábháilte, fógraí CSAF, torthaí leochaileachta agus ráitis VEX"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "De réir réamhshocraithe coinnítear roghanna, táblaí fianaise agus ráitis VEX nuair a dhíshuiteáiltear an breiseán."
+      ],
+      "Einstellung speichern": [
+        "Sábháil an socrú"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Rialachán (AE) 2024/2847 maidir le ceanglais chothrománacha cibearshlándála do tháirgí le heilimintí digiteacha. Beidh feidhm aige ó 11 Nollaig 2027, agus oibleagáidí tuairiscithe Airteagal 14 ó 11 Meán Fómhair 2026 (Airteagal 71). Ní mheasann an breiseán seo an mbaineann sé le suíomh gréasáin."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Taifead foirmiúil ar chomhpháirteanna bogearraí agus a gcaidrimh sa slabhra soláthair (Airteagal 3 pointe 39 CRA). Faoi Iarscríbhinn I Cuid II ní mór do mhonaróirí é a ullmhú do na spleáchais barrleibhéil ar a laghad; ní gá dóibh é a fhoilsiú."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Formáid inléite ag meaisín do liostaí ábhar bogearraí. Déanann treoir theicniúil BSI TR-03183-2 cur síos ar mhapáil a réimsí sonraí go CycloneDX agus SPDX; de réir BSI níl sí ceangailteach."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Comhad téacs ag /.well-known/security.txt ina bhfuil teagmháil agus dáta éaga ionas go sroicheann tuairiscí slándála an áit cheart."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): formáid inléite ag meaisín d’fhógraí slándála. Stórálann an breiseán seo fógraí sa bhunphróifíl agus ní fhoilsíonn sé provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Comhartha Bearer neamhbhailí."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Rochtain diúltaithe: tá logáil isteach nó comhartha Bearer ag teastáil."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "An iomarca iarratas. Bain triail eile as ar ball."
+      ],
+      "CRA Beacon Status": [
+        "Stádas CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Stádas ríofa an chomhaid security.txt seachadta (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Fógraí Slándála agus Tuairisciú Leochaileachtaí"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Tuairiscigh leochaileachtaí ar an suíomh seo chuig an seoladh thíos. Tá liosta na mbogearraí in úsáid agus na fógraí slándála foilsithe ar fáil mar JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Teagmháil le haghaidh tuairiscí slándála"
+      ],
+      "Nicht hinterlegt": [
+        "Gan socrú"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Liosta Bogearraí (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Fógraí Slándála (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Fógraí Slándála Foilsithe"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Níl aon fhógraí slándála foilsithe faoi láthair."
+      ],
+      "Schweregrad: %s": [
+        "Déine: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Níl aon ainm táirge ann don iarratas."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Níl leagan na comhpháirte seo ar eolas; níorbh fhéidir í a chur i gcomparáid le raonta leaganacha."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Ní mór an táirge agus an leochaileacht araon a ainmniú."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Stádas VEX anaithnid."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Níl an cúis ar cheann de na cúig cinn atá sainithe i gcatalóg VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Éilíonn “gan tionchar” cúis ón gcatalóg nó míniú i ngnáth-théacs."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Éilíonn “faoi thionchar” ráiteas faoi cad is gá a dhéanamh."
+      ],
+      "%s war nicht erreichbar.": [
+        "Níorbh fhéidir %s a shroicheadh."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "D’fhreagair %1$s le HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Níor JSON bailí é an freagra ó %s."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Thuairiscigh an bunachar sonraí níos mó torthaí ná mar a thugann leathanach amháin; seiceáladh an chéad leathanach."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT & Fógraí Slándála"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Taispeánann sé an teagmháil slándála RFC 9116, naisc chuig an SBOM agus innéacs CSAF mar aon le fógraí slándála foilsithe."
+      ],
+      "Darstellung": [
+        "Taispeáint"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Taispeáin naisc JSON (SBOM & CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Taispeáin fógraí slándála foilsithe"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT & Fógraí Slándála"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Taispeánann sé an teagmháil slándála RFC 9116, naisc chuig an SBOM agus innéacs CSAF mar aon le fógraí slándála foilsithe."
+      ],
+      "block keyword\u0004security": [
+        "slándáil"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# WM CRA SBOM & Vulnerability Beacon
+
+> WordPress plugin that lists the code a site runs as a CycloneDX 1.6 JSON inventory and SPDX 3.0.1 JSON-LD document, serves `/.well-known/security.txt` (RFC 9116) from admin settings, checks bundled lockfile packages against OSV and WordPress components against NVD, publishes OpenVEX v0.2.0 statements, and stores security advisories as CSAF 2.0 base documents.
+
+## Overview
+
+`wm-cra-sbom-beacon` is a WordPress plugin developed with an agentic workflow (AI coding agents). It inventories WordPress core, active plugins, must-use plugins, themes, `composer.lock` / `package-lock.json` dependencies, runtime versions and optional cryptographic assets across three tables (`wm_cra_sbom_snapshots`, `wm_cra_advisories`, `wm_cra_vulnerabilities`). It makes no legal assessment under the EU Cyber Resilience Act (Regulation (EU) 2024/2847), performs no Article 14 reporting, and does not act as a CSAF provider-metadata or ROLIE feed.
+
+- REST: `wm-cra/v1` — `GET /sbom`, `GET /spdx`, `GET /vex`, `GET /csaf` (requiring `manage_options` or Bearer token by default, with optional opt-in public mode rate-limited to 60 requests/min)
+- WP-CLI: `wp cra security-txt`, `wp cra sbom-generate`, `wp cra spdx-generate`, `wp cra vuln-scan`, `wp cra vex`, `wp cra csaf-publish`
+- Shortcodes & Block: `[wm_cra_psirt]`, `[wm_security_disclosure]`, Gutenberg block `wm/cra-psirt`
+- Block Bindings & GenerateBlocks: `wm-cra-beacon/status` (WP 6.5+) and `{{wm_cra_beacon_status}}` (GenerateBlocks 2.x)
+- Uninstall: preserves options and the three tables by default unless `wm_cra_beacon_delete_data_on_uninstall` is enabled
+- Version 1.2.2.
+
+## Standards
+
+- PHP 8.2+ with strict types; WordPress 6.4+
+- Zero-CDN (all scripts and stylesheets ship locally with the plugin)
+- Prepared SQL statements, late output escaping, timing-safe Bearer token checks (`hash_equals`)
+- Standalone SQLite/mock test suite with mutation testing, PHPUnit suite, and POT freshness check
+
+## Official Links
+
+- Plugin Page: https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/
+- GitHub Repository: https://github.com/arnoldwender/wm-wp-cra-sbom-beacon
+- Support & Liability: Zero support — reproducible bugs on https://github.com/arnoldwender/wm-wp-cra-sbom-beacon/issues only · no private support · AS IS / no liability (SUPPORT.md)

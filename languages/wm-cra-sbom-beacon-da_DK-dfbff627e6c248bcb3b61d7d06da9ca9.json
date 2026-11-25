@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "da_DK",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "CycloneDX 1.6-inventar over den kode WordPress indlæser, /.well-known/security.txt (RFC 9116) fra admin-indstillingerne samt sikkerhedsmeddelelser gemt som CSAF 2.0-basisdokumenter. Vurderer ikke om Cyber Resilience Act finder anvendelse."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Gyldig indtil %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Udløber om %1$d dage (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Udløbet den %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Kontakt eller udløbsdato er ugyldig"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Ikke tilgængelig: Permalinks står på »Almindelig«, eller reglen er ikke gemt"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Ingen kontakt angivet"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt og SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Kontakt endnu ikke bekræftet: gem indstillingerne én gang."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponenter (seneste øjebliksbillede)"
+      ],
+      "Sicherheitshinweise": [
+        "Sikkerhedsmeddelelser"
+      ],
+      "CRA Beacon öffnen": [
+        "Åbn CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM som JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Oversigt"
+      ],
+      "Software-Liste (SBOM)": [
+        "Softwareliste (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Sårbarheder"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Begreber"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, softwareliste og sikkerhedsmeddelelser"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (basisprofil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Del af WM Suite-pluginfamilien"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Selvstændig"
+      ],
+      "Was dieses Plugin tut": [
+        "Hvad dette plugin gør"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Det opretter en CycloneDX 1.6-liste over den kode, WordPress indlæser, leverer filen /.well-known/security.txt ud fra oplysningerne på denne side og viser sikkerhedsmeddelelser udgivet med WP-CLI. Det vurderer ikke, om Cyber Resilience Act gælder for dette websted eller dets operatør, og erstatter ikke indberetning efter artikel 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Gem øjebliksbillede af SBOM"
+      ],
+      "security.txt öffnen": [
+        "Åbn security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt gemt. Den leverede fil bruger nu de nye oplysninger."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Øjebliksbillede gemt; det findes i listen under »Softwareliste (SBOM)«."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Øjebliksbilledet kunne ikke gemmes. Hvis tabellen mangler, skal du deaktivere og aktivere pluginet én gang."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Nyt Bearer-token oprettet (vises kun én gang):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Bearer-token tilbagekaldt."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Afinstallationsindstilling gemt."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Intet blev gemt. Kontroller disse felter:"
+      ],
+      "Bereiche": [
+        "Sektioner"
+      ],
+      "Kontakt": [
+        "Kontakt"
+      ],
+      "Ablaufdatum": [
+        "Udløbsdato"
+      ],
+      "Sprachen": [
+        "Sprog"
+      ],
+      "Richtlinie": [
+        "Politik"
+      ],
+      "Schlüssel": [
+        "Nøgle"
+      ],
+      "Komponenten jetzt": [
+        "Komponenter nu"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktive plugins, must-use-plugins, temaer"
+      ],
+      "Kontakt bestätigt": [
+        "Kontakt bekræftet"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kontakt ikke bekræftet"
+      ],
+      "Momentaufnahmen": [
+        "Øjebliksbilleder"
+      ],
+      "gespeicherte SBOMs": [
+        "gemte SBOM’er"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "udgivet med wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Kontakten blev gættet ved aktivering (%s) og er endnu ikke bekræftet. Kontroller adressen under »security.txt« og gem én gang."
+      ],
+      "Ausgelieferte security.txt": [
+        "Leveret security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Præcis dette indhold leveres på %s:"
+      ],
+      "geprüft": [
+        "kontrolleret"
+      ],
+      "noch nie geprüft": [
+        "endnu aldrig kontrolleret"
+      ],
+      "Version unbekannt": [
+        "version ukendt"
+      ],
+      "Quelle nicht erreichbar": [
+        "kilde ikke tilgængelig"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Opslag mod sårbarhedsdatabaser"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Composer- og npm-pakker slås op i OSV, mens WordPress-komponenter slås op i NVD. Hver kilde spørges kun om det, den fører: NVD kender ikke Composer-pakker under disse navne, og OSV returnerer et tomt svar for ethvert WordPress-plugin, hvilket ville ligne et rent resultat. Uden nøgle tillader NVD fem forespørgsler pr. 30 sekunder, så hver kørsel tjekker et udsnit af listen og husker, hvor den nåede til."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "En ikke-kontrolleret komponent er ikke en fejlfri komponent."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Ingen sårbarhedskontrol er kørt endnu."
+      ],
+      "Komponente": [
+        "Komponent"
+      ],
+      "Version": [
+        "Version"
+      ],
+      "Stand": [
+        "Status"
+      ],
+      "Quelle": [
+        "Kilde"
+      ],
+      "Geprüft (UTC)": [
+        "Kontrolleret (UTC)"
+      ],
+      "Treffer": [
+        "Fund"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Indstillinger for opslag"
+      ],
+      "Täglicher Abgleich": [
+        "Dagligt opslag"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Sammenhold softwarelisten dagligt med OSV og NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API-nøgle (valgfri)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "gemt — indtast en ny for at ændre, eller gem tomt for at slette"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "ingen nøgle gemt"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Uden nøgle tillader NVD fem forespørgsler pr. 30 sekunder (%1$d komponenter pr. kørsel); med nøgle 50 pr. 30 sekunder og %2$d komponenter pr. kørsel."
+      ],
+      "Übernehmen": [
+        "Anvend"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Kør en gennemgang nu"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Det planlagte opslag er slået fra; kun manuelle kørsler herfra udføres."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Næste planlagte kørsel: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Opslaget er slået til, men ingen kørsel er planlagt. Gem én gang for at oprette tidspunktet."
+      ],
+      "nicht angegeben": [
+        "ikke angivet"
+      ],
+      "Aktiver Code": [
+        "Aktiv kode"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktive plugins (websted og netværk), must-use-plugins, det aktive tema og dets forældretema ud fra deres filhoveder; dertil Composer- og npm-biblioteker fra lock-filer samt kørselsmiljøet nedenunder (PHP, versionerede udvidelser, databaseserver). Inaktive plugins medtages ikke."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Medtag kryptografiske algoritmer (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Oplister de hash-funktioner, chifre og TLS-versioner, denne server tilbyder — også de forældede, for netop det er formålet med en kryptoliste. På en almindelig PHP 8.3 med OpenSSL 3.5 tilføjer det omkring 186 poster, så det er som standard slået fra."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Gør REST-endepunkter (/sbom, /spdx, /vex, /csaf) offentligt tilgængelige uden login"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Som standard er endepunkterne beskyttet (administratorsession eller Authorization: Bearer <Token>). Ved offentlig adgang gælder 1 times transient-cache og en grænse på 60 forespørgsler i minuttet."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Generer nyt Bearer-token"
+      ],
+      "Bearer-Token erzeugen": [
+        "Generer Bearer-token"
+      ],
+      "Bearer-Token widerrufen": [
+        "Tilbagekald Bearer-token"
+      ],
+      "Typ": [
+        "Type"
+      ],
+      "Paket-URL (purl)": [
+        "Pakke-URL (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licens ifølge filhoved"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Gemte øjebliksbilleder (nyeste 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Endnu intet øjebliksbillede gemt."
+      ],
+      "Gespeichert (UTC)": [
+        "Gemt (UTC)"
+      ],
+      "Komponenten": [
+        "Komponenter"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 af JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Oplysninger til /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kontakt (påkrævet)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "E-mailadresse (leveres som mailto:) eller en https-adresse til en kontaktformular."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Udløbsdato (påkrævet)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Efter denne dato betragtes filen som forældet. RFC 9116 anbefaler under ét år frem; datoer længere ude i fremtiden afvises."
+      ],
+      "Bevorzugte Sprachen": [
+        "Foretrukne sprog"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Sprogkoder adskilt med komma, f.eks. da, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Politik for indberetning"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "https-adresse til en side, der beskriver, hvordan henvendelser behandles. Lad feltet stå tomt, hvis der ingen findes."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Offentlig nøgle"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "https-adresse til en OpenPGP-nøgle til krypterede henvendelser. Lad feltet stå tomt, hvis der ingen findes."
+      ],
+      "security.txt speichern": [
+        "Gem security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Dataopbevaring ved afinstallation"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Slet alle plugin-indstillinger samt gemte SBOM-øjebliksbilleder, CSAF-sikkerhedsmeddelelser, sårbarhedsfund og VEX-erklæringer permanent ved afinstallation af pluginet"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Som standard bevares indstillinger, dokumentationstabeller og VEX-erklæringer ved afinstallation af pluginet."
+      ],
+      "Einstellung speichern": [
+        "Gem indstilling"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Forordning (EU) 2024/2847 om horisontale cybersikkerhedskrav til produkter med digitale elementer. Den gælder fra 11. december 2027, og indberetningspligten efter artikel 14 fra 11. september 2026 (artikel 71). Dette plugin vurderer ikke, om den gælder for et websted."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "En formel fortegnelse over komponenterne i en software og deres relationer i leverandørkæden (artikel 3, nr. 39 i CRA). Ifølge bilag I, del II skal fabrikanter mindst udarbejde den for topniveau-afhængigheder; offentliggørelse kræves ikke."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Maskinlæsbart format til software-styklister. Den tekniske retningslinje BSI TR-03183-2 beskriver afbildningen af datafelter til CycloneDX og SPDX og er ifølge BSI ikke bindende."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Tekstfil under /.well-known/security.txt med kontakt og udløbsdato, så sikkerhedshenvendelser når frem til rette sted."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): maskinlæsbart format til sikkerhedsmeddelelser. Dette plugin gemmer meddelelser i basisprofilen og udgiver ingen provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Ugyldigt Bearer-token."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Adgang nægtet: login eller Bearer-token påkrævet."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "For mange forespørgsler. Prøv igen senere."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beacon-status"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Beregnet status for den leverede security.txt-fil (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Sikkerhedsmeddelelser og indberetning af sårbarheder"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Indberet sårbarheder på dette websted til adressen nedenfor. Listen over anvendt software og offentliggjorte sikkerhedsmeddelelser findes som JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kontakt for sikkerhedshenvendelser"
+      ],
+      "Nicht hinterlegt": [
+        "Ikke angivet"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Softwareliste (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Sikkerhedsmeddelelser (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Offentliggjorte sikkerhedsmeddelelser"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Der er i øjeblikket ingen offentliggjorte sikkerhedsmeddelelser."
+      ],
+      "Schweregrad: %s": [
+        "Alvorsgrad: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Intet produktnavn til forespørgslen."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Versionen af denne komponent er ukendt; sammenligning med versionsintervaller var ikke mulig."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Både produkt og sårbarhed skal angives."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Ukendt VEX-status."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Begrundelsen er ikke en af de fem i VEX-kataloget."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "»ikke berørt« kræver en katalogbegrundelse eller en forklaring i klartekst."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "»berørt« kræver en angivelse af, hvad der skal gøres."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s kunne ikke nås."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s svarede med HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Svaret fra %s var ikke gyldig JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Databasen meldte flere træffere, end én side returnerer; første side blev gennemgået."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT og sikkerhedsmeddelelser"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Viser sikkerhedskontakten efter RFC 9116, links til SBOM og CSAF-indeks samt offentliggjorte sikkerhedsmeddelelser."
+      ],
+      "Darstellung": [
+        "Visning"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Vis JSON-henvisninger (SBOM og CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Vis offentliggjorte sikkerhedsmeddelelser"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT og sikkerhedsmeddelelser"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Viser sikkerhedskontakten efter RFC 9116, links til SBOM og CSAF-indeks samt offentliggjorte sikkerhedsmeddelelser."
+      ],
+      "block keyword\u0004security": [
+        "sikkerhed"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

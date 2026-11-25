@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "sv_SE",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "CycloneDX 1.6-förteckning över koden som WordPress laddar, /.well-known/security.txt (RFC 9116) från admininställningarna samt säkerhetsmeddelanden sparade som CSAF 2.0-basdokument. Bedömer inte om Cyber Resilience Act är tillämplig."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Giltig till %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Löper ut om %1$d dagar (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Utgången %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Kontakt eller utgångsdatum är ogiltigt"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Kan inte nås: Permalänkar är inställda på ”Enkla” eller regeln är inte sparad"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Ingen kontakt angiven"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt och SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Kontakten är ännu inte bekräftad: spara inställningarna en gång."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponenter (senaste ögonblicksbild)"
+      ],
+      "Sicherheitshinweise": [
+        "Säkerhetsmeddelanden"
+      ],
+      "CRA Beacon öffnen": [
+        "Öppna CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM som JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Översikt"
+      ],
+      "Software-Liste (SBOM)": [
+        "Programvarulista (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Sårbarheter"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Begrepp"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, programvarulista och säkerhetsmeddelanden"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (basprofil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Del av WM Suites tilläggsfamilj"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Fristående"
+      ],
+      "Was dieses Plugin tut": [
+        "Vad detta tillägg gör"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Det skapar en CycloneDX 1.6-förteckning över koden som WordPress laddar, levererar filen /.well-known/security.txt utifrån uppgifterna på denna sida och listar säkerhetsmeddelanden som publicerats med WP-CLI. Det prövar inte om Cyber Resilience Act gäller för denna webbplats eller dess operatör och ersätter ingen rapportering enligt artikel 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Spara ögonblicksbild av SBOM"
+      ],
+      "security.txt öffnen": [
+        "Öppna security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt sparades. Den levererade filen använder nu de nya uppgifterna."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Ögonblicksbilden sparades och visas under ”Programvarulista (SBOM)”."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Ögonblicksbilden kunde inte sparas. Om tabellen saknas, inaktivera och aktivera tillägget en gång."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Ny Bearer-token skapad (visas endast en gång):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Bearer-token återkallad."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Avinstallationsinställning sparad."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Ingenting sparades. Kontrollera följande fält:"
+      ],
+      "Bereiche": [
+        "Avsnitt"
+      ],
+      "Kontakt": [
+        "Kontakt"
+      ],
+      "Ablaufdatum": [
+        "Utgångsdatum"
+      ],
+      "Sprachen": [
+        "Språk"
+      ],
+      "Richtlinie": [
+        "Policy"
+      ],
+      "Schlüssel": [
+        "Nyckel"
+      ],
+      "Komponenten jetzt": [
+        "Komponenter nu"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktiva tillägg, must-use-tillägg, teman"
+      ],
+      "Kontakt bestätigt": [
+        "Kontakt bekräftad"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kontakt inte bekräftad"
+      ],
+      "Momentaufnahmen": [
+        "Ögonblicksbilder"
+      ],
+      "gespeicherte SBOMs": [
+        "sparade SBOM:er"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "publicerade med wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Kontakten gissades vid aktivering (%s) och är ännu inte bekräftad. Granska adressen under ”security.txt” och spara en gång."
+      ],
+      "Ausgelieferte security.txt": [
+        "Levererad security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Exakt detta innehåll levereras på %s:"
+      ],
+      "geprüft": [
+        "kontrollerad"
+      ],
+      "noch nie geprüft": [
+        "aldrig kontrollerad"
+      ],
+      "Version unbekannt": [
+        "version okänd"
+      ],
+      "Quelle nicht erreichbar": [
+        "källa ej nåbar"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Kontroll mot sårbarhetsdatabaser"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Composer- och npm-paket kontrolleras mot OSV, medan WordPress-komponenter kontrolleras mot NVD. Varje källa tillfrågas bara om det den innehåller: NVD saknar Composer-paket under dessa namn och OSV ger ett tomt svar för alla WordPress-tillägg, vilket annars skulle se ut som ett godkänt resultat. Utan nyckel tillåter NVD fem anrop per 30 sekunder, så varje körning granskar en del av listan och sparar sin position."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "En okontrollerad komponent är inte en felfri komponent."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Ingen sårbarhetskontroll har körts ännu."
+      ],
+      "Komponente": [
+        "Komponent"
+      ],
+      "Version": [
+        "Version"
+      ],
+      "Stand": [
+        "Status"
+      ],
+      "Quelle": [
+        "Källa"
+      ],
+      "Geprüft (UTC)": [
+        "Kontrollerad (UTC)"
+      ],
+      "Treffer": [
+        "Träffar"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Kontrollinställningar"
+      ],
+      "Täglicher Abgleich": [
+        "Daglig kontroll"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Jämför programvarulistan dagligen mot OSV och NVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API-nyckel (valfri)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "sparad — ange ny för att ändra eller spara tomt för att ta bort"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "ingen nyckel sparad"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Utan nyckel tillåter NVD fem anrop per 30 sekunder (%1$d komponenter per körning); med nyckel 50 per 30 sekunder och %2$d komponenter per körning."
+      ],
+      "Übernehmen": [
+        "Verkställ"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Kör en omgång nu"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Den schemalagda kontrollen är avstängd; endast körningar som startas här utförs."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Nästa schemalagda körning: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Kontrollen är aktiverad men ingen körning är schemalagd. Spara en gång för att lägga upp schemat."
+      ],
+      "nicht angegeben": [
+        "ej angivet"
+      ],
+      "Aktiver Code": [
+        "Aktiv kod"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktiva tillägg (webbplats och nätverk), must-use-tillägg, det aktiva temat och dess föräldratema enligt deras filhuvuden; därtill medföljande Composer- och npm-bibliotek samt körtidsmiljön under (PHP, versionssatta tillägg, databasserver). Inaktiva tillägg ingår inte."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Ta med kryptografiska algoritmer (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Listar de hashfunktioner, chiffer och TLS-versioner som servern erbjuder — även föråldrade sådana, eftersom det är syftet med en kryptoförteckning. På en vanlig PHP 8.3 med OpenSSL 3.5 innebär det cirka 186 extra poster och är därför avstängt som standard."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Gör REST-ändpunkter (/sbom, /spdx, /vex, /csaf) publikt tillgängliga utan inloggning"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Som standard är ändpunkterna skyddade (administratörssession eller Authorization: Bearer <Token>). Vid publik åtkomst gäller 1 timmes transient-cache och en gräns på 60 anrop per minut."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Skapa ny Bearer-token"
+      ],
+      "Bearer-Token erzeugen": [
+        "Skapa Bearer-token"
+      ],
+      "Bearer-Token widerrufen": [
+        "Återkalla Bearer-token"
+      ],
+      "Typ": [
+        "Typ"
+      ],
+      "Paket-URL (purl)": [
+        "Paket-URL (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licens enligt filhuvud"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Sparade ögonblicksbilder (10 senaste)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Ingen ögonblicksbild sparad ännu."
+      ],
+      "Gespeichert (UTC)": [
+        "Sparad (UTC)"
+      ],
+      "Komponenten": [
+        "Komponenter"
+      ],
+      "SHA-256 des JSON": [
+        "SHA-256 för JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Uppgifter för /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kontakt (obligatoriskt)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "E-postadress (levereras som mailto:) eller en https-adress till ett kontaktformulär."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Utgångsdatum (obligatoriskt)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Efter detta datum räknas filen som föråldrad. RFC 9116 rekommenderar mindre än ett år framåt; datum längre fram avvisas."
+      ],
+      "Bevorzugte Sprachen": [
+        "Föredragna språk"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Språkkoder separerade med kommatecken, t.ex. sv, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Riktlinje för rapportering"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "https-adress till en sida som beskriver hur rapporter hanteras. Lämna tomt om ingen finns."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Öppen nyckel"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "https-adress till en OpenPGP-nyckel för krypterade rapporter. Lämna tomt om ingen finns."
+      ],
+      "security.txt speichern": [
+        "Spara security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Datalagring vid avinstallation"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Radera permanent alla tilläggsinställningar samt sparade SBOM-ögonblicksbilder, CSAF-säkerhetsmeddelanden, sårbarhetsfynd och VEX-utlåtanden vid avinstallation av tillägget"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Som standard bevaras inställningar, bevistabeller och VEX-utlåtanden när tillägget avinstalleras."
+      ],
+      "Einstellung speichern": [
+        "Spara inställning"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Förordning (EU) 2024/2847 om övergripande cybersäkerhetskrav för produkter med digitala element. Den tillämpas från den 11 december 2027 och rapporteringskraven enligt artikel 14 från den 11 september 2026 (artikel 71). Detta tillägg bedömer inte om den gäller för en webbplats."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "En formell förteckning över komponenterna i en programvara och deras relationer i leveranskedjan (artikel 3.39 i CRA). Enligt bilaga I del II ska tillverkare upprätta den åtminstone för beroenden på högsta nivå; offentliggörande krävs inte."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Maskinläsbart format för programvaruförteckningar. Den tekniska riktlinjen BSI TR-03183-2 beskriver kopplingen av datafält till CycloneDX och SPDX och är enligt BSI inte bindande."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Textfil under /.well-known/security.txt med kontakt och utgångsdatum så att säkerhetsrapporter når rätt mottagare."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): maskinläsbart format för säkerhetsmeddelanden. Detta tillägg lagrar meddelanden enligt basprofilen och publicerar ingen provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Ogiltig Bearer-token."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Åtkomst nekad: inloggning eller Bearer-token krävs."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "För många anrop. Försök igen senare."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beacon-status"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Beräknad status för den levererade security.txt-filen (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Säkerhetsmeddelanden och rapportering av sårbarheter"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Rapportera sårbarheter på denna webbplats till adressen nedan. Förteckningen över använd programvara och publicerade säkerhetsmeddelanden finns som JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kontakt för säkerhetsrapporter"
+      ],
+      "Nicht hinterlegt": [
+        "Ej angiven"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Programvarulista (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Säkerhetsmeddelanden (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Publicerade säkerhetsmeddelanden"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "För närvarande finns inga publicerade säkerhetsmeddelanden."
+      ],
+      "Schweregrad: %s": [
+        "Allvarlighetsgrad: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Inget produktnamn för frågan."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Versionen för denna komponent är okänd; jämförelse mot versionsintervall kunde inte göras."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Både produkt och sårbarhet måste anges."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Okänd VEX-status."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Motiveringen är inte en av de fem som definieras i VEX-katalogen."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "”ej berörd” kräver en katalogmotivering eller en förklaring i klartext."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "”berörd” kräver uppgift om vilka åtgärder som ska vidtas."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s kunde inte nås."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s svarade med HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Svaret från %s var inte giltig JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Databasen rapporterade fler träffar än en sida rymmer; den första sidan kontrollerades."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT och säkerhetsmeddelanden"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Visar säkerhetskontakten enligt RFC 9116, länkar till SBOM och CSAF-index samt publicerade säkerhetsmeddelanden."
+      ],
+      "Darstellung": [
+        "Visning"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Visa JSON-länkar (SBOM och CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Visa publicerade säkerhetsmeddelanden"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT och säkerhetsmeddelanden"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Visar säkerhetskontakten enligt RFC 9116, länkar till SBOM och CSAF-index samt publicerade säkerhetsmeddelanden."
+      ],
+      "block keyword\u0004security": [
+        "säkerhet"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

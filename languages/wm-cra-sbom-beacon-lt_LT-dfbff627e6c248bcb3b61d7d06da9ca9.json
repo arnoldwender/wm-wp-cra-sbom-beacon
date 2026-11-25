@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "lt_LT",
+        "plural-forms": "nplurals=3; plural=(n%10==1 && (n%100<11 || n%100>19) ? 0 : n%10>=2 && n%10<=9 && (n%100<11 || n%100>19) ? 1 : 2);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "„WordPress“ įkeliamo kodo „CycloneDX 1.6“ aprašas, /.well-known/security.txt (RFC 9116) iš administravimo nuostatų ir saugumo pranešimai, saugomi kaip CSAF 2.0 baziniai dokumentai. Nevertina Kibernetinio atsparumo akto taikymo."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Galioja iki %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Baigia galioti po %1$d d. (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Baigė galioti %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Netinkamas kontaktas arba galiojimo data"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Nepasiekiama: nuolatinės nuorodos nustatytos į „Paprastos“ arba taisyklė neišsaugota"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Kontaktas nenurodytas"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt ir SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Kontaktas dar nepatvirtintas: vieną kartą išsaugokite nuostatas."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponentai (paskutinė kopija)"
+      ],
+      "Sicherheitshinweise": [
+        "Saugumo pranešimai"
+      ],
+      "CRA Beacon öffnen": [
+        "Atidaryti CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM kaip JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Apžvalga"
+      ],
+      "Software-Liste (SBOM)": [
+        "Programinės įrangos sąrašas (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Pažeidžiamumai"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Sąvokos"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, programinės įrangos sąrašas ir saugumo pranešimai"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (bazinis profilis)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "„WM Suite“ įskiepių šeimos dalis"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Savarankiškas"
+      ],
+      "Was dieses Plugin tut": [
+        "Ką daro šis įskiepis"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Sudaro „WordPress“ įkeliamo kodo „CycloneDX 1.6“ sąrašą, pateikia failą /.well-known/security.txt pagal šiame puslapyje įvestus duomenis ir rodo per WP-CLI paskelbtus saugumo pranešimus. Jis nevertina, ar Kibernetinio atsparumo aktas (CRA) taikomas šiai svetainei ar jos valdytojui, ir nepakeičia pranešimo pagal 14 straipsnį."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Išsaugoti SBOM momentinę kopiją"
+      ],
+      "security.txt öffnen": [
+        "Atidaryti security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt išsaugotas. Pateikiamas failas jau naudoja naujus duomenis."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Momentinė kopija išsaugota; ji pateikiama skiltyje „Programinės įrangos sąrašas (SBOM)“."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Momentinės kopijos išsaugoti nepavyko. Jei trūksta lentelės, kartą išjunkite ir vėl įjunkite įskiepį."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Sukurtas naujas „Bearer“ žetonas (rodomas tik vieną kartą):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "„Bearer“ žetonas atšauktas."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Pašalinimo nuostata išsaugota."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Nieko neišsaugota. Patikrinkite šiuos laukus:"
+      ],
+      "Bereiche": [
+        "Sritys"
+      ],
+      "Kontakt": [
+        "Kontaktas"
+      ],
+      "Ablaufdatum": [
+        "Galiojimo data"
+      ],
+      "Sprachen": [
+        "Kalbos"
+      ],
+      "Richtlinie": [
+        "Taisyklės"
+      ],
+      "Schlüssel": [
+        "Raktas"
+      ],
+      "Komponenten jetzt": [
+        "Komponentai dabar"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktyvūs įskiepiai, privalomi (MU) įskiepiai, temos"
+      ],
+      "Kontakt bestätigt": [
+        "Kontaktas patvirtintas"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kontaktas nepatvirtintas"
+      ],
+      "Momentaufnahmen": [
+        "Momentinės kopijos"
+      ],
+      "gespeicherte SBOMs": [
+        "išsaugoti SBOM"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "paskelbta su wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Kontaktas buvo parinktas aktyvinant (%s) ir dar nepatvirtintas. Patikrinkite adresą skiltyje „security.txt“ ir vieną kartą išsaugokite."
+      ],
+      "Ausgelieferte security.txt": [
+        "Pateikiamas security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Tiksliai šis turinys pateikiamas adresu %s:"
+      ],
+      "geprüft": [
+        "patikrinta"
+      ],
+      "noch nie geprüft": [
+        "dar nepatikrinta"
+      ],
+      "Version unbekannt": [
+        "versija nežinoma"
+      ],
+      "Quelle nicht erreichbar": [
+        "šaltinis nepasiekiamas"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Patikra pažeidžiamumų duomenų bazėse"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "„Composer“ ir „npm“ paketai tikrinami OSV, o „WordPress“ komponentai — NVD bazėje. Kiekvieno šaltinio klausiama tik apie tai, ką jis kaupia: NVD neturi šių „Composer“ paketų tokiais pavadinimais, o OSV į kiekvieną „WordPress“ įskiepio užklausą atsako tuščiu atsakymu, kuris atrodytų kaip švarus rezultatas. Be rakto NVD leidžia penkias užklausas per 30 sekundžių, todėl vienas paleidimas patikrina sąrašo dalį ir įsimena vietą."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Nepatikrintas komponentas nereiškia saugaus komponento."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Patikra dar nebuvo vykdyta."
+      ],
+      "Komponente": [
+        "Komponentas"
+      ],
+      "Version": [
+        "Versija"
+      ],
+      "Stand": [
+        "Būsena"
+      ],
+      "Quelle": [
+        "Šaltinis"
+      ],
+      "Geprüft (UTC)": [
+        "Patikrinta (UTC)"
+      ],
+      "Treffer": [
+        "Atitikmenys"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Patikros nuostatos"
+      ],
+      "Täglicher Abgleich": [
+        "Kasdienė patikra"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Kasdien tikrinti programinės įrangos sąrašą OSV ir NVD bazėse"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API raktas (neprivalomas)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "išsaugotas — norėdami pakeisti įveskite naują, norėdami ištrinti išsaugokite tuščią"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "raktas neišsaugotas"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Be rakto NVD leidžia penkias užklausas per 30 sekundžių (%1$d komponentų per kartą); su raktu — 50 per 30 sekundžių ir %2$d komponentų per kartą."
+      ],
+      "Übernehmen": [
+        "Taikyti"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Vykdyti patikrą dabar"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Suplanuota patikra išjungta; vykdoma tik tai, ką paleidžiate čia."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Kitas suplanuotas vykdymas: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Patikra įjungta, tačiau vykdymas nesuplanuotas. Vieną kartą išsaugojus bus sukurtas grafikas."
+      ],
+      "nicht angegeben": [
+        "nenurodyta"
+      ],
+      "Aktiver Code": [
+        "Aktyvus kodas"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktyvūs įskiepiai (svetainės ir tinklo), MU įskiepiai, aktyvi tema ir jos tėvinė tema su failų antraščių duomenimis; taip pat pridėtos „Composer“ ir „npm“ bibliotekos bei vykdymo aplinka (PHP, versijuojami plėtiniai, duomenų bazės serveris). Neaktyvūs įskiepiai neįtraukiami."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Įtraukti kriptografinius algoritmus (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Išvardija maišos funkcijas, šifrus ir TLS versijas, kurias teikia šis serveris — įskaitant pasenusius, nes būtent tam skirtas kriptografinis aprašas. Įprastoje PHP 8.3 aplinkoje su OpenSSL 3.5 tai prideda apie 186 įrašus, todėl pagal numatytuosius nustatymus išjungta."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Viešai atverti REST galinius taškus (/sbom, /spdx, /vex, /csaf) be prisijungimo"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Pagal numatytuosius nustatymus galiniai taškai apsaugoti (administratoriaus sesija arba Authorization: Bearer <Token>). Įjungus viešą prieigą taikomas 1 val. podėlis ir 60 užklausų per minutę riba."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Sukurti naują „Bearer“ žetoną"
+      ],
+      "Bearer-Token erzeugen": [
+        "Sukurti „Bearer“ žetoną"
+      ],
+      "Bearer-Token widerrufen": [
+        "Atšaukti „Bearer“ žetoną"
+      ],
+      "Typ": [
+        "Tipas"
+      ],
+      "Paket-URL (purl)": [
+        "Paketo URL (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licencija pagal failo antraštę"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Išsaugotos momentinės kopijos (10 naujausių)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Momentinių kopijų dar neišsaugota."
+      ],
+      "Gespeichert (UTC)": [
+        "Išsaugota (UTC)"
+      ],
+      "Komponenten": [
+        "Komponentai"
+      ],
+      "SHA-256 des JSON": [
+        "JSON SHA-256"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Duomenys failui /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kontaktas (privalomas laukas)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "El. pašto adresas (pateikiamas kaip mailto:) arba kontaktų formos https adresas."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Galiojimo data (privalomas laukas)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Po šios dienos failas laikomas pasenusiu. RFC 9116 rekomenduoja mažiau nei vienus metus; tolimesnės datos atmetamos."
+      ],
+      "Bevorzugte Sprachen": [
+        "Pageidaujamos kalbos"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Kalbų kodai, atskirti kableliais, pvz., lt, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Pranešimų politika"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "Puslapio, aprašančio pranešimų nagrinėjimą, https adresas. Jei tokio nėra, palikite tuščią."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Viešasis raktas"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "OpenPGP rakto šifruotiems pranešimams https adresas. Jei tokio nėra, palikite tuščią."
+      ],
+      "security.txt speichern": [
+        "Išsaugoti security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Duomenų saugojimas šalinant"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Šalinant įskiepį visam laikui ištrinti visas parinktis bei išsaugotas SBOM kopijas, CSAF pranešimus, pažeidžiamumų įrašus ir VEX pareiškimus"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Pagal numatytuosius nustatymus pašalinus įskiepį parinktys, įrodymų lentelės ir VEX pareiškimai išsaugomi."
+      ],
+      "Einstellung speichern": [
+        "Išsaugoti nuostatą"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Reglamentas (ES) 2024/2847 dėl horizontaliųjų kibernetinio saugumo reikalavimų produktams su skaitmeniniais elementais. Taikomas nuo 2027 m. gruodžio 11 d., o 14 straipsnio pranešimo pareigos — nuo 2026 m. rugsėjo 11 d. (71 straipsnis). Šis įskiepis nevertina, ar reglamentas taikomas svetainei."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Oficialus programinės įrangos komponentų ir jų tiekimo grandinės ryšių įrašas (CRA 3 straipsnio 39 punktas). Pagal I priedo II dalį gamintojai privalo jį sudaryti bent aukščiausio lygio priklausomybėms; skelbti viešai neprivaloma."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Mašininiu būdu skaitomas programinės įrangos sudėties aprašų formatas. Techninė gairė BSI TR-03183-2 aprašo laukų susiejimą su „CycloneDX“ ir SPDX; BSI teigimu, ji nėra privaloma."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Tekstinis failas adresu /.well-known/security.txt su kontaktu ir galiojimo laiku, kad saugumo pranešimai pasiektų tinkamą adresatą."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): mašininiu būdu skaitomas saugumo pranešimų formatas. Šis įskiepis saugo pranešimus baziniame profilyje ir neskelbia provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Netinkamas „Bearer“ žetonas."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Prieiga uždrausta: būtina prisijungti arba pateikti „Bearer“ žetoną."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Per daug užklausų. Bandykite vėliau."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beacon būsena"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Apskaičiuota pateikiamo failo security.txt būsena (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Saugumo pranešimai ir pažeidžiamumų pranešimas"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Apie šios svetainės pažeidžiamumus praneškite žemiau nurodytu adresu. Naudojamos programinės įrangos sąrašas ir paskelbti saugumo pranešimai pasiekiami JSON formatu."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kontaktas saugumo pranešimams"
+      ],
+      "Nicht hinterlegt": [
+        "Nenurodyta"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Programinės įrangos sąrašas (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Saugumo pranešimai (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Paskelbti saugumo pranešimai"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Šiuo metu paskelbtų saugumo pranešimų nėra."
+      ],
+      "Schweregrad: %s": [
+        "Svarba: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Užklausai trūksta produkto pavadinimo."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Šio komponento versija nežinoma; palyginimas su versijų rėžiais nebuvo įmanomas."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Būtina nurodyti ir produktą, ir pažeidžiamumą."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Nežinoma VEX būsena."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Pagrindimas nepriklauso penkioms VEX kataloge apibrėžtoms reikšmėms."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Būsena „nepaveikta“ reikalauja katalogo pagrindimo arba paaiškinimo laisvu tekstu."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Būsena „paveikta“ reikalauja nurodyti, kokius veiksmus reikia atlikti."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s buvo nepasiekiamas."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s atsakė su HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Šaltinio %s atsakymas nebuvo tinkamas JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Duomenų bazė pranešė apie daugiau atitikmenų nei telpa viename puslapyje; patikrintas pirmasis puslapis."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT ir saugumo pranešimai"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Rodo RFC 9116 saugumo kontaktą, nuorodas į SBOM ir CSAF rodyklę bei paskelbtus saugumo pranešimus."
+      ],
+      "Darstellung": [
+        "Atvaizdavimas"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Rodyti JSON nuorodas (SBOM ir CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Rodyti paskelbtus saugumo pranešimus"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT ir saugumo pranešimai"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Rodo RFC 9116 saugumo kontaktą, nuorodas į SBOM ir CSAF rodyklę bei paskelbtus saugumo pranešimus."
+      ],
+      "block keyword\u0004security": [
+        "saugumas"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

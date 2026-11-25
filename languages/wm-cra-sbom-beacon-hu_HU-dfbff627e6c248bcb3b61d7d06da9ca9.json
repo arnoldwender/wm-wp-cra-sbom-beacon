@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "hu_HU",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "CycloneDX 1.6 leltár a WordPress által betöltött kódról, adminisztrációs beállításokból kiszolgált /.well-known/security.txt (RFC 9116) és CSAF 2.0 alapdokumentumként tárolt biztonsági közlemények. Nem vizsgálja a kiberrezilienciáról szóló rendelet alkalmazhatóságát."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Érvényes eddig: %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Lejár %1$d nap múlva (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Lejárt ekkor: %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Érvénytelen kapcsolattartó vagy lejárati dátum"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Nem érhető el: a közvetlen hivatkozások „Egyszerű” módban vannak, vagy a szabály nincs mentve"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Nincs megadva kapcsolattartó"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt és SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "A kapcsolattartó még nincs megerősítve: mentse el egyszer a beállításokat."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Összetevők (legutóbbi pillanatkép)"
+      ],
+      "Sicherheitshinweise": [
+        "Biztonsági közlemények"
+      ],
+      "CRA Beacon öffnen": [
+        "CRA Beacon megnyitása"
+      ],
+      "SBOM als JSON": [
+        "SBOM JSON formátumban"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Áttekintés"
+      ],
+      "Software-Liste (SBOM)": [
+        "Szoftverlista (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Sérülékenységek"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Fogalmak"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, szoftverlista és biztonsági közlemények"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (alapprofil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "A WM Suite bővítménycsalád tagja"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Önálló"
+      ],
+      "Was dieses Plugin tut": [
+        "Mit csinál ez a bővítmény"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "CycloneDX 1.6 formátumú listát készít a WordPress által betöltött kódról, kiszolgálja a /.well-known/security.txt fájlt az ezen az oldalon megadott adatok alapján, és megjeleníti a WP-CLI-vel közzétett biztonsági közleményeket. Nem vizsgálja, hogy a kiberrezilienciáról szóló rendelet (CRA) vonatkozik-e erre a webhelyre vagy üzemeltetőjére, és nem helyettesíti a 14. cikk szerinti bejelentést."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "SBOM-pillanatkép mentése"
+      ],
+      "security.txt öffnen": [
+        "security.txt megnyitása"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "A security.txt mentve. A kiszolgált fájl már az új adatokat használja."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Pillanatkép mentve; a „Szoftverlista (SBOM)” alatt található."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "A pillanatkép nem menthető. Ha hiányzik a tábla, kapcsolja ki majd vissza egyszer a bővítményt."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Új Bearer token készült (csak egyszer jelenik meg):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "A Bearer token visszavonva."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Az eltávolítási beállítás mentve."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Semmi sem lett mentve. Kérjük, ellenőrizze ezeket a mezőket:"
+      ],
+      "Bereiche": [
+        "Szakaszok"
+      ],
+      "Kontakt": [
+        "Kapcsolattartó"
+      ],
+      "Ablaufdatum": [
+        "Lejárati dátum"
+      ],
+      "Sprachen": [
+        "Nyelvek"
+      ],
+      "Richtlinie": [
+        "Irányelv"
+      ],
+      "Schlüssel": [
+        "Kulcs"
+      ],
+      "Komponenten jetzt": [
+        "Jelenlegi összetevők"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktív bővítmények, kötelező (MU) bővítmények, sablonok"
+      ],
+      "Kontakt bestätigt": [
+        "Kapcsolattartó megerősítve"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kapcsolattartó nincs megerősítve"
+      ],
+      "Momentaufnahmen": [
+        "Pillanatképek"
+      ],
+      "gespeicherte SBOMs": [
+        "mentett SBOM-ok"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "közzétéve a wp cra csaf-publish paranccsal"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "A kapcsolattartót az aktiváláskor becsülte a rendszer (%s), és még nincs megerősítve. Ellenőrizze a címet a „security.txt” fülön, és mentse egyszer."
+      ],
+      "Ausgelieferte security.txt": [
+        "Kiszolgált security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Pontosan ez a tartalom jelenik meg a(z) %s címen:"
+      ],
+      "geprüft": [
+        "ellenőrizve"
+      ],
+      "noch nie geprüft": [
+        "még soha nem ellenőrizve"
+      ],
+      "Version unbekannt": [
+        "ismeretlen verzió"
+      ],
+      "Quelle nicht erreichbar": [
+        "a forrás nem érhető el"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Összevetés sérülékenységi adatbázisokkal"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "A Composer- és npm-csomagokat az OSV, a WordPress-összetevőket az NVD ellenőrzi. Minden forrást csak arról kérdez a bővítmény, amit nyilvántart: az NVD nem ismeri ezeket a Composer-csomagokat ezen a néven, az OSV pedig minden WordPress-bővítményre üres választ ad, ami hibátlan eredménynek tűnne. Kulcs nélkül az NVD 30 másodpercenként öt lekérdezést enged, ezért egy futás a lista egy részét ellenőrzi, és megjegyzi, hol tartott."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Az ellenőrizetlen összetevő nem jelent hibátlan összetevőt."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Még nem futott ellenőrzés."
+      ],
+      "Komponente": [
+        "Összetevő"
+      ],
+      "Version": [
+        "Verzió"
+      ],
+      "Stand": [
+        "Állapot"
+      ],
+      "Quelle": [
+        "Forrás"
+      ],
+      "Geprüft (UTC)": [
+        "Ellenőrizve (UTC)"
+      ],
+      "Treffer": [
+        "Találatok"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Az összevetés beállításai"
+      ],
+      "Täglicher Abgleich": [
+        "Napi összevetés"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "A szoftverlista napi összevetése az OSV és az NVD adatbázissal"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API-kulcs (opcionális)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "elmentve — módosításhoz adjon meg újat, törléshez mentse üresen"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "nincs kulcs elmentve"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Kulcs nélkül az NVD 30 másodpercenként öt lekérdezést enged (%1$d összetevő futásonként); kulccsal 30 másodpercenként 50-et és futásonként %2$d összetevőt."
+      ],
+      "Übernehmen": [
+        "Alkalmaz"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Egy ellenőrző kör futtatása most"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Az ütemezett ellenőrzés ki van kapcsolva; csak az itt elindított futás hajtódik végre."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Következő ütemezett futás: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Az ellenőrzés be van kapcsolva, de nincs ütemezett futás. Egy mentés létrehozza az időpontot."
+      ],
+      "nicht angegeben": [
+        "nincs megadva"
+      ],
+      "Aktiver Code": [
+        "Aktív kód"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktív bővítmények (webhely és hálózat), MU-bővítmények, az aktív sablon és szülősablonja a fájlfejlécek adataival; továbbá a mellékelt Composer- és npm-könyvtárak, valamint az alattuk futó környezet (PHP, verziózott kiterjesztések, adatbázis-kiszolgáló). Az inaktív bővítmények nem szerepelnek."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Kriptográfiai eljárások felvétele (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Felsorolja a kiszolgáló által kínált hash-eljárásokat, titkosítókat és TLS-verziókat — az elavultakat is, mivel éppen ez a kriptográfiai leltár célja. Egy szokásos PHP 8.3 / OpenSSL 3.5 környezetben ez mintegy 186 további tételt jelent, ezért alapértelmezetten ki van kapcsolva."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "REST végpontok (/sbom, /spdx, /vex, /csaf) nyilvános megnyitása bejelentkezés nélkül"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Alapértelmezés szerint a végpontok védettek (adminisztrátori munkamenet vagy Authorization: Bearer <Token>). Nyilvános hozzáférés esetén 1 órás átmeneti gyorsítótár és percenként 60 kéréses korlát érvényes."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Bearer token újragenerálása"
+      ],
+      "Bearer-Token erzeugen": [
+        "Bearer token generálása"
+      ],
+      "Bearer-Token widerrufen": [
+        "Bearer token visszavonása"
+      ],
+      "Typ": [
+        "Típus"
+      ],
+      "Paket-URL (purl)": [
+        "Csomag-URL (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Licenc a fájlfejléc szerint"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Mentett pillanatképek (legújabb 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Még nincs mentett pillanatkép."
+      ],
+      "Gespeichert (UTC)": [
+        "Mentve (UTC)"
+      ],
+      "Komponenten": [
+        "Összetevők"
+      ],
+      "SHA-256 des JSON": [
+        "A JSON SHA-256 lenyomata"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Adatok a /.well-known/security.txt fájlhoz"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kapcsolattartó (kötelező mező)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "E-mail-cím (mailto: formában kerül kiszolgálásra) vagy kapcsolatfelvételi űrlap https-címe."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Lejárati dátum (kötelező mező)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "E nap után a fájl elavultnak számít. Az RFC 9116 egy évnél rövidebb időt javasol; a távolabbi dátumokat a rendszer elutasítja."
+      ],
+      "Bevorzugte Sprachen": [
+        "Előnyben részesített nyelvek"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Vesszővel elválasztott nyelvkódok, pl. hu, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Bejelentési irányelv"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "A bejelentések kezelését ismertető oldal https-címe. Hagyja üresen, ha nincs ilyen."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Nyilvános kulcs"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "Titkosított bejelentésekhez használt OpenPGP-kulcs https-címe. Hagyja üresen, ha nincs ilyen."
+      ],
+      "security.txt speichern": [
+        "security.txt mentése"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Adatmegőrzés eltávolításkor"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "A bővítmény eltávolításakor véglegesen törölje az összes beállítást, valamint a mentett SBOM-pillanatképeket, CSAF biztonsági közleményeket, sérülékenységi találatokat és VEX-nyilatkozatokat"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Alapértelmezés szerint a bővítmény eltávolításakor a beállítások, a bizonyítéktáblák és a VEX-nyilatkozatok megmaradnak."
+      ],
+      "Einstellung speichern": [
+        "Beállítás mentése"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Az (EU) 2024/2847 rendelet a digitális elemeket tartalmazó termékekre vonatkozó horizontális kiberbiztonsági követelményekről. 2027. december 11-től alkalmazandó, a 14. cikk szerinti jelentési kötelezettségek pedig 2026. szeptember 11-től (71. cikk). Ez a bővítmény nem vizsgálja, hogy a rendelet vonatkozik-e egy adott webhelyre."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Egy szoftver összetevőinek és ellátási láncbeli kapcsolatainak hivatalos nyilvántartása (CRA 3. cikk 39. pont). Az I. melléklet II. része szerint a gyártóknak legalább a legfelső szintű függőségekre el kell készíteniük; nyilvánosságra hozniuk nem kötelező."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Géppel olvasható formátum szoftver-összetevőlistákhoz. A BSI TR-03183-2 műszaki irányelv írja le az adatmezők leképezését CycloneDX és SPDX formátumba; a BSI szerint nem kötelező érvényű."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Szövegfájl a /.well-known/security.txt címen kapcsolattartóval és lejárati idővel, hogy a biztonsági bejelentések a megfelelő helyre érkezzenek."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): géppel olvasható formátum biztonsági közleményekhez. Ez a bővítmény az alapprofil szerint tárolja a közleményeket, és nem tesz közzé provider-metadata.json fájlt."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Érvénytelen Bearer token."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Hozzáférés megtagadva: bejelentkezés vagy Bearer token szükséges."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Túl sok kérés. Kérjük, próbálja újra később."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beacon állapot"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "A kiszolgált security.txt fájl számított állapota (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Biztonsági közlemények és sérülékenységek bejelentése"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "A webhelyen észlelt sérülékenységeket az alábbi címen jelentheti be. Az alkalmazott szoftverek listája és a közzétett biztonsági közlemények JSON formátumban érhetők el."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Kapcsolat biztonsági bejelentésekhez"
+      ],
+      "Nicht hinterlegt": [
+        "Nincs megadva"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Szoftverlista (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Biztonsági közlemények (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Közzétett biztonsági közlemények"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Jelenleg nincsenek közzétett biztonsági közlemények."
+      ],
+      "Schweregrad: %s": [
+        "Súlyosság: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Nincs terméknév a lekérdezéshez."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Ennek az összetevőnek a verziója ismeretlen; verziótartományokkal nem lehetett összevetni."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Mind a terméket, mind a sérülékenységet meg kell adni."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Ismeretlen VEX-állapot."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Az indoklás nem szerepel a VEX-katalógusban meghatározott öt érték között."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "A „nem érintett” állapothoz katalógusbeli indoklás vagy szabadszöveges magyarázat szükséges."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Az „érintett” állapothoz meg kell adni a szükséges intézkedést."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s nem volt elérhető."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s HTTP %2$d válasszal tért vissza."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "A(z) %s válasza nem érvényes JSON volt."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Az adatbázis több találatot jelzett, mint amennyi egy oldalra fér; az első oldal lett ellenőrizve."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT és biztonsági közlemények"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Megjeleníti az RFC 9116 szerinti biztonsági kapcsolatot, az SBOM és a CSAF-index hivatkozásait, valamint a közzétett biztonsági közleményeket."
+      ],
+      "Darstellung": [
+        "Megjelenítés"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "JSON-hivatkozások megjelenítése (SBOM és CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Közzétett biztonsági közlemények megjelenítése"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT és biztonsági közlemények"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Megjeleníti az RFC 9116 szerinti biztonsági kapcsolatot, az SBOM és a CSAF-index hivatkozásait, valamint a közzétett biztonsági közleményeket."
+      ],
+      "block keyword\u0004security": [
+        "biztonság"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

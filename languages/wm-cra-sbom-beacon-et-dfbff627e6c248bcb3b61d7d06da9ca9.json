@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "et",
+        "plural-forms": "nplurals=2; plural=(n != 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "WordPressi laaditava koodi CycloneDX 1.6 inventuur, haldussätetest serveeritav /.well-known/security.txt (RFC 9116) ja CSAF 2.0 baasdokumentidena talletatud turvateated. Ei hinda küberkerksuse määruse kohaldumist."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "Kehtib kuni %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "Aegub %1$d päeva pärast (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "Aegus %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "Kontakt või aegumiskuupäev on vigane"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Pole kättesaadav: püsiviited on valikul „Lihtne” või reeglit pole salvestatud"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "Kontakti pole määratud"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt ja SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "Kontakt pole veel kinnitatud: salvestage sätted üks kord."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Komponendid (viimane hetktõmmis)"
+      ],
+      "Sicherheitshinweise": [
+        "Turvateated"
+      ],
+      "CRA Beacon öffnen": [
+        "Ava CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM JSON-vormingus"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Ülevaade"
+      ],
+      "Software-Liste (SBOM)": [
+        "Tarkvaraloend (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Haavatavused"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Mõisted"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, tarkvaraloend ja turvateated"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (baasprofiil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "Osa WM Suite pistikprogrammide perekonnast"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Iseseisev"
+      ],
+      "Was dieses Plugin tut": [
+        "Mida see pistikprogramm teeb"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "Koostab CycloneDX 1.6 vormingus loendi koodist, mille WordPress laadib, serveerib selle lehe andmete põhjal faili /.well-known/security.txt ja kuvab WP-CLI kaudu avaldatud turvateated. See ei hinda, kas küberkerksuse määrus (CRA) kehtib sellele veebisaidile või selle haldajale, ega asenda artikli 14 kohast teavitust."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "Salvesta SBOM-i hetktõmmis"
+      ],
+      "security.txt öffnen": [
+        "Ava security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt salvestatud. Serveeritav fail kasutab nüüd uusi andmeid."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Hetktõmmis salvestatud; see asub jaotises „Tarkvaraloend (SBOM)”."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Hetktõmmist ei õnnestunud salvestada. Kui tabel puudub, lülitage pistikprogramm korraks välja ja uuesti sisse."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Loodi uus Bearer-luba (kuvatakse ainult üks kord):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Bearer-luba tühistati."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Eemaldamise säte salvestatud."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Midagi ei salvestatud. Kontrollige neid välju:"
+      ],
+      "Bereiche": [
+        "Jaotised"
+      ],
+      "Kontakt": [
+        "Kontakt"
+      ],
+      "Ablaufdatum": [
+        "Aegumiskuupäev"
+      ],
+      "Sprachen": [
+        "Keeled"
+      ],
+      "Richtlinie": [
+        "Eeskiri"
+      ],
+      "Schlüssel": [
+        "Võti"
+      ],
+      "Komponenten jetzt": [
+        "Komponendid praegu"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, aktiivsed pistikprogrammid, kohustuslikud (MU) pistikprogrammid, teemad"
+      ],
+      "Kontakt bestätigt": [
+        "Kontakt kinnitatud"
+      ],
+      "Kontakt nicht bestätigt": [
+        "Kontakt kinnitamata"
+      ],
+      "Momentaufnahmen": [
+        "Hetktõmmised"
+      ],
+      "gespeicherte SBOMs": [
+        "salvestatud SBOM-id"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "avaldatud käsuga wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "Kontakt tuletati aktiveerimisel (%s) ega ole veel kinnitatud. Kontrollige aadressi vahekaardil „security.txt” ja salvestage üks kord."
+      ],
+      "Ausgelieferte security.txt": [
+        "Serveeritav security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "Täpselt see sisu serveeritakse aadressil %s:"
+      ],
+      "geprüft": [
+        "kontrollitud"
+      ],
+      "noch nie geprüft": [
+        "pole kunagi kontrollitud"
+      ],
+      "Version unbekannt": [
+        "versioon teadmata"
+      ],
+      "Quelle nicht erreichbar": [
+        "allikas pole kättesaadav"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Kontroll haavatavuste andmebaaside vastu"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Composeri ja npm-i paketid saadetakse OSV-sse, WordPressi komponendid NVD-sse. Igalt allikalt küsitakse ainult seda, mida see haldab: NVD ei tunne neid Composeri pakette nende nimede järgi ja OSV tagastab iga WordPressi pistikprogrammi kohta tühja vastuse, mis paistaks puhta leiuna. Ilma võtmeta lubab NVD viis päringut 30 sekundi jooksul, mistõttu iga käivitus kontrollib osa loendist ja jätab järje meelde."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Kontrollimata komponent ei tähenda turvalist komponenti."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Ühtegi kontrolli pole veel käivitatud."
+      ],
+      "Komponente": [
+        "Komponent"
+      ],
+      "Version": [
+        "Versioon"
+      ],
+      "Stand": [
+        "Olek"
+      ],
+      "Quelle": [
+        "Allikas"
+      ],
+      "Geprüft (UTC)": [
+        "Kontrollitud (UTC)"
+      ],
+      "Treffer": [
+        "Tabamused"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Kontrolli sätted"
+      ],
+      "Täglicher Abgleich": [
+        "Igapäevane kontroll"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Võrdle tarkvaraloendit iga päev OSV ja NVD andmebaasidega"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API-võti (valikuline)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "salvestatud — muutmiseks sisestage uus, kustutamiseks salvestage tühjana"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "võtit pole salvestatud"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Ilma võtmeta lubab NVD viis päringut 30 sekundi kohta (%1$d komponenti käivituse kohta); võtmega 50 päringut 30 sekundi kohta ja %2$d komponenti käivituse kohta."
+      ],
+      "Übernehmen": [
+        "Rakenda"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Käivita üks kontroll kohe"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Ajastatud kontroll on väljas; töötab ainult siit käsitsi käivitatu."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Järgmine ajastatud käivitus: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Kontroll on sisse lülitatud, kuid ajastust pole loodud. Ühekordne salvestamine lisab ajakava."
+      ],
+      "nicht angegeben": [
+        "pole märgitud"
+      ],
+      "Aktiver Code": [
+        "Aktiivne kood"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, aktiivsed pistikprogrammid (sait ja võrk), MU-pistikprogrammid, aktiivne teema ja selle vanemteema failipäiste andmetega; lisaks kaasatud Composeri ja npm-i teegid ning alumine käituskeskkond (PHP, versiooniga laiendused, andmebaasiserver). Mitteaktiivsed pistikprogrammid ei kuulu siia."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Kaasa krüptograafilised algoritmid (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Loetleb räsimisfunktsioonid, šifrid ja TLS-versioonid, mida see server pakub — sealhulgas vananenud, sest just selleks krüptoloend mõeldud ongi. Tavalises PHP 8.3 ja OpenSSL 3.5 keskkonnas lisab see umbes 186 kirjet, mistõttu on see vaikimisi väljas."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "Tee REST-lõpp-punktid (/sbom, /spdx, /vex, /csaf) ilma sisselogimiseta avalikuks"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Vaikimisi on lõpp-punktid kaitstud (halduri seanss või Authorization: Bearer <Token>). Avaliku ligipääsu korral rakenduvad 1-tunnine vahemälu ja piirang 60 päringut minutis."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Genereeri Bearer-luba uuesti"
+      ],
+      "Bearer-Token erzeugen": [
+        "Genereeri Bearer-luba"
+      ],
+      "Bearer-Token widerrufen": [
+        "Tühista Bearer-luba"
+      ],
+      "Typ": [
+        "Tüüp"
+      ],
+      "Paket-URL (purl)": [
+        "Paketi URL (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Litsents failipäise järgi"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Salvestatud hetktõmmised (10 uusimat)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Ühtegi hetktõmmist pole veel salvestatud."
+      ],
+      "Gespeichert (UTC)": [
+        "Salvestatud (UTC)"
+      ],
+      "Komponenten": [
+        "Komponendid"
+      ],
+      "SHA-256 des JSON": [
+        "JSON-i SHA-256"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "Andmed faili /.well-known/security.txt jaoks"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "Kontakt (kohustuslik väli)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "E-posti aadress (serveeritakse kujul mailto:) või kontaktivormi https-aadress."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Aegumiskuupäev (kohustuslik väli)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Pärast seda kuupäeva loetakse fail aegunuks. RFC 9116 soovitab alla ühe aasta; kaugemad kuupäevad lükatakse tagasi."
+      ],
+      "Bevorzugte Sprachen": [
+        "Eelistatud keeled"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Komadega eraldatud keelekoodid, nt et, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Teavitamise eeskiri"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "https-aadress lehele, mis kirjeldab teadete käsitlemist. Jätke tühjaks, kui seda pole."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Avalik võti"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "OpenPGP-võtme https-aadress krüpteeritud teadete jaoks. Jätke tühjaks, kui seda pole."
+      ],
+      "security.txt speichern": [
+        "Salvesta security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Andmete säilitamine eemaldamisel"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Kustuta pistikprogrammi eemaldamisel jäädavalt kõik valikud ning salvestatud SBOM-i hetktõmmised, CSAF-i turvateated, haavatavuste leiud ja VEX-seisukohad"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Vaikimisi säilitatakse valikud, tõendustabelid ja VEX-seisukohad pistikprogrammi eemaldamisel."
+      ],
+      "Einstellung speichern": [
+        "Salvesta säte"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Määrus (EL) 2024/2847 digielementidega toodete horisontaalsete küberturvalisuse nõuete kohta. Kohaldatakse alates 11. detsembrist 2027 ja artikli 14 teavitamiskohustusi alates 11. septembrist 2026 (artikkel 71). See pistikprogramm ei hinda, kas määrus kehtib konkreetsele veebisaidile."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Tarkvara komponentide ja nende tarneahela seoste ametlik loend (CRA artikkel 3 punkt 39). I lisa II osa kohaselt peavad tootjad selle koostama vähemalt ülemise taseme sõltuvuste kohta; avaldamine pole kohustuslik."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Masinloetav vorming tarkvara koostisosade loenditele. Tehniline suunis BSI TR-03183-2 kirjeldab andmeväljade vastavust CycloneDX-ile ja SPDX-ile ning ei ole BSI kinnitusel siduv."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Tekstifail asukohas /.well-known/security.txt koos kontakti ja aegumisajaga, et turvateated jõuaksid õigesse kohta."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): masinloetav vorming turvateadetele. See pistikprogramm talletab teated baasprofiilina ega avalda faili provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Vigane Bearer-luba."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Juurdepääs keelatud: vajalik on sisselogimine või Bearer-luba."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Liiga palju päringuid. Proovige hiljem uuesti."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beaconi olek"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Serveeritava faili security.txt arvutatud olek (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Turvateated ja haavatavustest teavitamine"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Teatage selle veebisaidi haavatavustest alltoodud aadressil. Kasutatava tarkvara loend ja avaldatud turvateated on saadaval JSON-vormingus."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Turvateadete kontakt"
+      ],
+      "Nicht hinterlegt": [
+        "Pole määratud"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Tarkvaraloend (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Turvateated (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Avaldatud turvateated"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Praegu pole ühtegi turvateadet avaldatud."
+      ],
+      "Schweregrad: %s": [
+        "Tõsidus: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Päringu jaoks puudub toote nimi."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Selle komponendi versioon on teadmata; võrdlus versioonivahemikega polnud võimalik."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Nimetada tuleb nii toode kui ka haavatavus."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Tundmatu VEX-olek."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Põhjendus ei kuulu viie VEX-kataloogis määratletud väärtuse hulka."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "Olek „ei ole mõjutatud” nõuab kataloogi põhjendust või selgitust vabas tekstis."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "Olek „mõjutatud” nõuab tegevusjuhise märkimist."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s ei olnud kättesaadav."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s vastas koodiga HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "Allika %s vastus ei olnud kehtiv JSON."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Andmebaas teatas rohkematest vastetest, kui üks lehekülg tagastab; kontrolliti esimest lehekülge."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT ja turvateated"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Kuvab RFC 9116 turvakontakti, viited SBOM-ile ja CSAF-indeksile ning avaldatud turvateated."
+      ],
+      "Darstellung": [
+        "Kuvamine"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "Kuva JSON-viited (SBOM ja CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Kuva avaldatud turvateated"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT ja turvateated"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "Kuvab RFC 9116 turvakontakti, viited SBOM-ile ja CSAF-indeksile ning avaldatud turvateated."
+      ],
+      "block keyword\u0004security": [
+        "turvalisus"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

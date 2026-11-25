@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "tr_TR",
+        "plural-forms": "nplurals=2; plural=(n > 1);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "WordPress’in yüklediği kodun CycloneDX 1.6 envanteri, yönetim ayarlarından sunulan /.well-known/security.txt (RFC 9116) ve CSAF 2.0 temel belgeleri olarak saklanan güvenlik duyuruları. Siber Dayanıklılık Yasası’nın geçerli olup olmadığını değerlendirmez."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "%s tarihine kadar geçerli"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "%1$d gün içinde sona eriyor (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "%s tarihinde sona erdi"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "İletişim adresi veya son kullanma tarihi geçersiz"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "Erişilemiyor: Kalıcı bağlantılar “Düz” olarak ayarlı veya kural kaydedilmemiş"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "İletişim bilgisi tanımlanmamış"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: security.txt ve SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "İletişim adresi henüz doğrulanmadı: ayarları bir kez kaydedin."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "Bileşenler (son anlık görüntü)"
+      ],
+      "Sicherheitshinweise": [
+        "Güvenlik duyuruları"
+      ],
+      "CRA Beacon öffnen": [
+        "CRA Beacon’ı aç"
+      ],
+      "SBOM als JSON": [
+        "JSON olarak SBOM"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "Genel Bakış"
+      ],
+      "Software-Liste (SBOM)": [
+        "Yazılım Listesi (SBOM)"
+      ],
+      "Schwachstellen": [
+        "Güvenlik Açıkları"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "Terimler"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: security.txt, yazılım listesi ve güvenlik duyuruları"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (temel profil)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "WM Suite eklenti ailesinin bir parçası"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "Bağımsız"
+      ],
+      "Was dieses Plugin tut": [
+        "Bu eklenti ne yapar"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "WordPress’in yüklediği kodun CycloneDX 1.6 biçiminde bir listesini oluşturur, bu sayfadaki bilgilerden /.well-known/security.txt dosyasını sunar ve WP-CLI ile yayımlanan güvenlik duyurularını listeler. Siber Dayanıklılık Yasası’nın (CRA) bu site veya işletmecisi için geçerli olup olmadığını denetlemez ve 14. madde kapsamındaki bildirimlerin yerini tutmaz."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "SBOM anlık görüntüsünü kaydet"
+      ],
+      "security.txt öffnen": [
+        "security.txt dosyasını aç"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "security.txt kaydedildi. Sunulan dosya artık yeni bilgileri kullanıyor."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "Anlık görüntü kaydedildi; “Yazılım Listesi (SBOM)” altındaki listede yer alıyor."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "Anlık görüntü kaydedilemedi. Tablo eksikse eklentiyi bir kez devre dışı bırakıp yeniden etkinleştirin."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "Yeni Bearer belirteci oluşturuldu (yalnızca bir kez gösterilir):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "Bearer belirteci iptal edildi."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "Kaldırma ayarı kaydedildi."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "Hiçbir şey kaydedilmedi. Lütfen şu alanları kontrol edin:"
+      ],
+      "Bereiche": [
+        "Bölümler"
+      ],
+      "Kontakt": [
+        "İletişim"
+      ],
+      "Ablaufdatum": [
+        "Son kullanma tarihi"
+      ],
+      "Sprachen": [
+        "Diller"
+      ],
+      "Richtlinie": [
+        "Politika"
+      ],
+      "Schlüssel": [
+        "Anahtar"
+      ],
+      "Komponenten jetzt": [
+        "Mevcut bileşenler"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "WordPress, etkin eklentiler, zorunlu (MU) eklentiler, temalar"
+      ],
+      "Kontakt bestätigt": [
+        "İletişim doğrulandı"
+      ],
+      "Kontakt nicht bestätigt": [
+        "İletişim doğrulanmadı"
+      ],
+      "Momentaufnahmen": [
+        "Anlık görüntüler"
+      ],
+      "gespeicherte SBOMs": [
+        "kaydedilen SBOM’lar"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "wp cra csaf-publish ile yayımlandı"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "İletişim adresi etkinleştirme sırasında tahmin edildi (%s) ve henüz doğrulanmadı. “security.txt” sekmesindeki adresi kontrol edip bir kez kaydedin."
+      ],
+      "Ausgelieferte security.txt": [
+        "Sunulan security.txt"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "%s adresinde tam olarak bu içerik sunulmaktadır:"
+      ],
+      "geprüft": [
+        "kontrol edildi"
+      ],
+      "noch nie geprüft": [
+        "hiç kontrol edilmedi"
+      ],
+      "Version unbekannt": [
+        "sürüm bilinmiyor"
+      ],
+      "Quelle nicht erreichbar": [
+        "kaynağa ulaşılamıyor"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "Güvenlik açığı veritabanlarıyla karşılaştırma"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "Composer ve npm paketleri OSV’ye, WordPress bileşenleri ise NVD’ye sorulur. Her kaynağa yalnızca tuttuğu veriler sorulur: NVD bu adlarla Composer paketlerini tanımaz; OSV ise her WordPress eklentisi için boş yanıt döndürür ve bu da yanıltıcı biçimde temiz görünür. Anahtar olmadan NVD 30 saniyede beş isteğe izin verdiğinden her çalışma listenin bir bölümünü denetler ve kaldığı yeri hatırlar."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "Kontrol edilmemiş bir bileşen, sorunsuz bir bileşen demek değildir."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "Henüz hiçbir karşılaştırma çalıştırılmadı."
+      ],
+      "Komponente": [
+        "Bileşen"
+      ],
+      "Version": [
+        "Sürüm"
+      ],
+      "Stand": [
+        "Durum"
+      ],
+      "Quelle": [
+        "Kaynak"
+      ],
+      "Geprüft (UTC)": [
+        "Kontrol (UTC)"
+      ],
+      "Treffer": [
+        "Bulgular"
+      ],
+      "Einstellungen des Abgleichs": [
+        "Karşılaştırma ayarları"
+      ],
+      "Täglicher Abgleich": [
+        "Günlük karşılaştırma"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "Yazılım listesini her gün OSV ve NVD ile karşılaştır"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "NVD API anahtarı (isteğe bağlı)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "kayıtlı — değiştirmek için yenisini girin, silmek için boş kaydedin"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "kayıtlı anahtar yok"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "Anahtar olmadan NVD 30 saniyede beş isteğe izin verir (çalışma başına %1$d bileşen); anahtarla 30 saniyede 50 istek ve çalışma başına %2$d bileşen."
+      ],
+      "Übernehmen": [
+        "Uygula"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "Şimdi bir tarama çalıştır"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "Zamanlanmış karşılaştırma kapalı; yalnızca buradan başlattığınız tarama çalışır."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "Sonraki planlanan çalışma: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "Karşılaştırma açık ancak planlanmış görev yok. Bir kez kaydetmek zamanlamayı oluşturur."
+      ],
+      "nicht angegeben": [
+        "belirtilmemiş"
+      ],
+      "Aktiver Code": [
+        "Etkin Kod"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "WordPress, etkin eklentiler (site ve ağ), MU eklentileri, etkin tema ve üst teması dosya başlığı bilgileriyle birlikte; ayrıca paketlenmiş Composer ve npm kütüphaneleri ile alttaki çalışma ortamı (PHP, sürümlü eklentiler, veritabanı sunucusu). Etkin olmayan eklentiler dahil edilmez."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "Kriptografik yöntemleri dahil et (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "Bu sunucunun sunduğu özet fonksiyonlarını, şifreleri ve TLS sürümlerini — eski olanlar dahil — listeler; kriptografik envanterin amacı tam olarak budur. OpenSSL 3.5 kullanan tipik bir PHP 8.3 sunucusunda yaklaşık 186 ek kayıt ürettiğinden varsayılan olarak kapalıdır."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "REST uç noktalarını (/sbom, /spdx, /vex, /csaf) oturum açmadan herkese aç"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "Varsayılan olarak uç noktalar korumalıdır (yönetici oturumu veya Authorization: Bearer <Token>). Herkese açıldığında 1 saatlik geçici önbellek ve dakikada 60 istek sınırı uygulanır."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "Bearer belirtecini yenile"
+      ],
+      "Bearer-Token erzeugen": [
+        "Bearer belirteci oluştur"
+      ],
+      "Bearer-Token widerrufen": [
+        "Bearer belirtecini iptal et"
+      ],
+      "Typ": [
+        "Tür"
+      ],
+      "Paket-URL (purl)": [
+        "Paket URL’si (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "Dosya başlığındaki lisans"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "Kaydedilen anlık görüntüler (en yeni 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "Henüz kaydedilmiş anlık görüntü yok."
+      ],
+      "Gespeichert (UTC)": [
+        "Kaydedildi (UTC)"
+      ],
+      "Komponenten": [
+        "Bileşenler"
+      ],
+      "SHA-256 des JSON": [
+        "JSON SHA-256 değeri"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "/.well-known/security.txt için bilgiler"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "İletişim (zorunlu alan)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "E-posta adresi (mailto: olarak sunulur) veya bir iletişim formunun https adresi."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "Son kullanma tarihi (zorunlu alan)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "Bu tarihten sonra dosya geçerliliğini yitirmiş sayılır. RFC 9116 bir yıldan kısa süreyi önerir; daha ileri tarihler reddedilir."
+      ],
+      "Bevorzugte Sprachen": [
+        "Tercih edilen diller"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "Virgülle ayrılmış dil kodları, örn. tr, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "Bildirim politikası"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "Bildirimlerin nasıl ele alındığını açıklayan sayfanın https adresi. Yoksa boş bırakın."
+      ],
+      "Öffentlicher Schlüssel": [
+        "Açık anahtar"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "Şifreli bildirimler için OpenPGP anahtarının https adresi. Yoksa boş bırakın."
+      ],
+      "security.txt speichern": [
+        "security.txt dosyasını kaydet"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "Kaldırma sırasında veri saklama"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "Eklenti kaldırılırken tüm seçenekleri ve kaydedilmiş SBOM anlık görüntülerini, CSAF güvenlik duyurularını, güvenlik açığı bulgularını ve VEX beyanlarını kalıcı olarak sil"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "Varsayılan olarak eklenti kaldırıldığında seçenekler, kanıt tabloları ve VEX beyanları korunur."
+      ],
+      "Einstellung speichern": [
+        "Ayarı kaydet"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "Dijital unsurlar içeren ürünlere yönelik yatay siber güvenlik gerekliliklerine ilişkin (AB) 2024/2847 sayılı Tüzük. 11 Aralık 2027’den itibaren, 14. maddedeki bildirim yükümlülükleri ise 11 Eylül 2026’dan itibaren uygulanır (71. madde). Bu eklenti tüzüğün bir web sitesi için geçerli olup olmadığını değerlendirmez."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "Bir yazılımın bileşenlerinin ve tedarik zinciri ilişkilerinin resmi kaydı (CRA madde 3 bent 39). Ek I Kısım II uyarınca üreticiler en azından üst düzey bağımlılıklar için oluşturmalıdır; yayımlama zorunluluğu yoktur."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "Yazılım malzeme listeleri için makinece okunabilir biçim. BSI TR-03183-2 teknik kılavuzu veri alanlarının CycloneDX ve SPDX eşlemesini açıklar; BSI’ye göre bağlayıcı değildir."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "Güvenlik bildirimlerinin doğru birime ulaşması için iletişim ve geçerlilik tarihi içeren /.well-known/security.txt metin dosyası."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): güvenlik duyuruları için makinece okunabilir biçim. Bu eklenti duyuruları temel profilde saklar ve provider-metadata.json yayımlamaz."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "Geçersiz Bearer belirteci."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "Erişim reddedildi: oturum açma veya Bearer belirteci gerekli."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "Çok fazla istek. Lütfen daha sonra tekrar deneyin."
+      ],
+      "CRA Beacon Status": [
+        "CRA Beacon Durumu"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "Sunulan security.txt dosyasının hesaplanan durumu (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "Güvenlik Duyuruları ve Güvenlik Açığı Bildirimi"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "Bu web sitesindeki güvenlik açıklarını aşağıdaki adrese bildirin. Kullanılan yazılımların listesi ve yayımlanan güvenlik duyuruları JSON olarak sunulmaktadır."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "Güvenlik bildirimleri için iletişim"
+      ],
+      "Nicht hinterlegt": [
+        "Tanımlanmamış"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "Yazılım Listesi (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "Güvenlik Duyuruları (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "Yayımlanan Güvenlik Duyuruları"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "Şu anda yayımlanmış güvenlik duyurusu bulunmamaktadır."
+      ],
+      "Schweregrad: %s": [
+        "Önem derecesi: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "Sorgu için ürün adı yok."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "Bu bileşenin sürümü bilinmiyor; sürüm aralıklarıyla karşılaştırma yapılamadı."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "Hem ürün hem de güvenlik açığı belirtilmelidir."
+      ],
+      "Unbekannter VEX-Status.": [
+        "Bilinmeyen VEX durumu."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "Gerekçe, VEX kataloğunda tanımlanan beş değerden biri değil."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "“etkilenmedi” durumu katalogdan bir gerekçe veya düz metin açıklama gerektirir."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "“etkilendi” durumu ne yapılması gerektiğinin belirtilmesini gerektirir."
+      ],
+      "%s war nicht erreichbar.": [
+        "%s erişilebilir değildi."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "%1$s HTTP %2$d ile yanıt verdi."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "%s yanıtı geçerli JSON değildi."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "Veritabanı tek sayfanın döndürdüğünden daha fazla eşleşme bildirdi; ilk sayfa incelendi."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT ve Güvenlik Duyuruları"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "RFC 9116 güvenlik iletişim bilgisini, SBOM ve CSAF dizini bağlantılarını ve yayımlanan güvenlik duyurularını gösterir."
+      ],
+      "Darstellung": [
+        "Görünüm"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "JSON bağlantılarını göster (SBOM ve CSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "Yayımlanan güvenlik duyurularını göster"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: PSIRT ve Güvenlik Duyuruları"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "RFC 9116 güvenlik iletişim bilgisini, SBOM ve CSAF dizini bağlantılarını ve yayımlanan güvenlik duyurularını gösterir."
+      ],
+      "block keyword\u0004security": [
+        "güvenlik"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}

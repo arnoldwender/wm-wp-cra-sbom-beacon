@@ -1,0 +1,510 @@
+{
+  "translation-revision-date": "2026-11-21T13:58:27+01:00",
+  "generator": "WM Suite i18n Compiler 2026",
+  "source": "build/index.js",
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "wm-cra-sbom-beacon",
+        "lang": "ar",
+        "plural-forms": "nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);"
+      },
+      "WM CRA SBOM & Vulnerability Beacon": [
+        "WM CRA SBOM & Vulnerability Beacon"
+      ],
+      "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/": [
+        "https://arnoldwender.com/wordpress-plugins/wm-cra-sbom-beacon/"
+      ],
+      "CycloneDX 1.6 inventory of the code WordPress loads, /.well-known/security.txt (RFC 9116) from admin settings, and advisories stored as CSAF 2.0 base documents. It does not assess whether the Cyber Resilience Act applies.": [
+        "جرد CycloneDX 1.6 للشيفرة البرمجية التي يحمّلها ووردبريس، وملف /.well-known/security.txt ‏(RFC 9116) من إعدادات الإدارة، وإشعارات الأمان المحفوظة كمستندات أساسية بصيغة CSAF 2.0. لا يقيّم مدى انطباق قانون المرونة السيبرانية."
+      ],
+      "Arnold Wender": [
+        "Arnold Wender"
+      ],
+      "https://arnoldwender.com": [
+        "https://arnoldwender.com"
+      ],
+      "Gültig bis %s": [
+        "صالح حتى %s"
+      ],
+      "Läuft in %1$d Tagen ab (%2$s)": [
+        "تنتهي صلاحيته خلال %1$d يومًا (%2$s)"
+      ],
+      "Abgelaufen am %s": [
+        "انتهت صلاحيته في %s"
+      ],
+      "Kontakt oder Ablaufdatum ungültig": [
+        "جهة الاتصال أو تاريخ الانتهاء غير صالح"
+      ],
+      "Nicht erreichbar: Permalinks stehen auf „Einfach“ oder die Regel ist nicht gespeichert": [
+        "غير قابل للوصول: الروابط الدائمة مضبوطة على «عادي» أو لم يتم حفظ القاعدة"
+      ],
+      "Kein Kontakt hinterlegt": [
+        "لم يتم تعيين جهة اتصال"
+      ],
+      "CRA Beacon: security.txt und SBOM": [
+        "CRA Beacon: ملف security.txt وقائمة SBOM"
+      ],
+      "security.txt: %s": [
+        "security.txt: %s"
+      ],
+      "Kontakt noch nicht bestätigt: Einstellungen einmal speichern.": [
+        "لم يتم تأكيد جهة الاتصال بعد: احفظ الإعدادات مرة واحدة."
+      ],
+      "Komponenten (letzte Momentaufnahme)": [
+        "المكوّنات (آخر لقطة محفوظة)"
+      ],
+      "Sicherheitshinweise": [
+        "إشعارات الأمان"
+      ],
+      "CRA Beacon öffnen": [
+        "فتح CRA Beacon"
+      ],
+      "SBOM als JSON": [
+        "SBOM بصيغة JSON"
+      ],
+      "CRA Beacon": [
+        "CRA Beacon"
+      ],
+      "CRA Beacon (SBOM)": [
+        "CRA Beacon (SBOM)"
+      ],
+      "Übersicht": [
+        "نظرة عامة"
+      ],
+      "Software-Liste (SBOM)": [
+        "قائمة البرمجيات (SBOM)"
+      ],
+      "Schwachstellen": [
+        "الثغرات الأمنية"
+      ],
+      "security.txt": [
+        "security.txt"
+      ],
+      "Begriffe": [
+        "المصطلحات"
+      ],
+      "CRA Beacon: security.txt, Software-Liste und Sicherheitshinweise": [
+        "CRA Beacon: ملف security.txt وقائمة البرمجيات وإشعارات الأمان"
+      ],
+      "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (Basisprofil)": [
+        "CycloneDX 1.6 · security.txt (RFC 9116) · CSAF 2.0 (الملف الأساسي)"
+      ],
+      "Part of the WM Suite plugin family": [
+        "جزء من عائلة إضافات WM Suite"
+      ],
+      "WM Suite": [
+        "WM Suite"
+      ],
+      "Hub": [
+        "Hub"
+      ],
+      "Standalone": [
+        "مستقل"
+      ],
+      "Was dieses Plugin tut": [
+        "ما الذي تفعله هذه الإضافة"
+      ],
+      "Es erzeugt eine Liste des Codes, den WordPress lädt, im Format CycloneDX 1.6, stellt die Datei /.well-known/security.txt aus den Angaben auf dieser Seite bereit und listet Sicherheitshinweise, die mit WP-CLI veröffentlicht wurden. Es prüft nicht, ob der Cyber Resilience Act für diese Website oder ihre Betreiber gilt, und es ersetzt keine Meldung nach Artikel 14 der Verordnung.": [
+        "تنشئ هذه الإضافة قائمة بصيغة CycloneDX 1.6 للشيفرة التي يحمّلها ووردبريس، وتقدّم ملف /.well-known/security.txt بناءً على البيانات المدخلة في هذه الصفحة، وتعرض إشعارات الأمان المنشورة عبر WP-CLI. وهي لا تفحص ما إذا كان قانون المرونة السيبرانية (CRA) ينطبق على هذا الموقع أو مشغّله، ولا تغني عن الإبلاغ المنصوص عليه في المادة 14."
+      ],
+      "Momentaufnahme der SBOM speichern": [
+        "حفظ لقطة SBOM"
+      ],
+      "security.txt öffnen": [
+        "فتح security.txt"
+      ],
+      "security.txt gespeichert. Die ausgelieferte Datei nutzt die neuen Angaben.": [
+        "تم حفظ security.txt. يستخدم الملف المنشور الآن البيانات الجديدة."
+      ],
+      "Momentaufnahme gespeichert; sie steht in der Liste unter „Software-Liste (SBOM)“.": [
+        "تم حفظ اللقطة؛ وهي مدرجة ضمن «قائمة البرمجيات (SBOM)»."
+      ],
+      "Die Momentaufnahme konnte nicht gespeichert werden. Fehlt die Tabelle, das Plugin einmal deaktivieren und wieder aktivieren.": [
+        "تعذّر حفظ اللقطة. إذا كان الجدول مفقودًا، عطّل الإضافة ثم أعد تفعيلها مرة واحدة."
+      ],
+      "Neues Bearer-Token erzeugt (wird nur einmal angezeigt):": [
+        "تم إنشاء رمز Bearer جديد (يُعرض مرة واحدة فقط):"
+      ],
+      "Bearer-Token widerrufen.": [
+        "تم إلغاء رمز Bearer."
+      ],
+      "Deinstallations-Einstellung gespeichert.": [
+        "تم حفظ إعداد إلغاء التثبيت."
+      ],
+      "Nichts gespeichert. Bitte diese Felder prüfen:": [
+        "لم يتم حفظ أي شيء. يرجى التحقق من الحقول التالية:"
+      ],
+      "Bereiche": [
+        "الأقسام"
+      ],
+      "Kontakt": [
+        "جهة الاتصال"
+      ],
+      "Ablaufdatum": [
+        "تاريخ الانتهاء"
+      ],
+      "Sprachen": [
+        "اللغات"
+      ],
+      "Richtlinie": [
+        "السياسة"
+      ],
+      "Schlüssel": [
+        "المفتاح"
+      ],
+      "Komponenten jetzt": [
+        "المكوّنات الحالية"
+      ],
+      "WordPress, aktive Plugins, Must-Use-Plugins, Themes": [
+        "ووردبريس، الإضافات النشطة، إضافات MU الإلزامية، القوالب"
+      ],
+      "Kontakt bestätigt": [
+        "جهة الاتصال مؤكدة"
+      ],
+      "Kontakt nicht bestätigt": [
+        "جهة الاتصال غير مؤكدة"
+      ],
+      "Momentaufnahmen": [
+        "اللقطات المحفوظة"
+      ],
+      "gespeicherte SBOMs": [
+        "ملفات SBOM المحفوظة"
+      ],
+      "veröffentlicht mit wp cra csaf-publish": [
+        "منشورة عبر wp cra csaf-publish"
+      ],
+      "Der Kontakt wurde bei der Aktivierung geraten (%s) und ist noch nicht bestätigt. Prüfen Sie die Adresse unter „security.txt“ und speichern Sie einmal.": [
+        "تم تخمين عنوان الاتصال عند التفعيل (%s) ولم يُؤكَّد بعد. راجع العنوان في تبويب «security.txt» واحفظ مرة واحدة."
+      ],
+      "Ausgelieferte security.txt": [
+        "ملف security.txt المنشور"
+      ],
+      "Genau dieser Inhalt wird unter %s ausgeliefert:": [
+        "يُقدَّم هذا المحتوى بالضبط على العنوان %s:"
+      ],
+      "geprüft": [
+        "تم الفحص"
+      ],
+      "noch nie geprüft": [
+        "لم يُفحص بعد"
+      ],
+      "Version unbekannt": [
+        "الإصدار غير معروف"
+      ],
+      "Quelle nicht erreichbar": [
+        "تعذّر الوصول إلى المصدر"
+      ],
+      "Abgleich gegen Schwachstellen-Datenbanken": [
+        "المطابقة مع قواعد بيانات الثغرات"
+      ],
+      "Composer- und npm-Pakete gehen an OSV, WordPress-Komponenten an die NVD. Jede Quelle wird nur nach dem gefragt, was sie führt: die NVD kennt keine Composer-Pakete unter diesen Namen, und OSV liefert für WordPress-Plugins auf jede Anfrage eine leere Antwort — die sich wie ein unauffälliger Befund liest. Die NVD begrenzt ohne Schlüssel auf fünf Anfragen je 30 Sekunden, deshalb prüft ein Lauf nur einen Teil der Liste und merkt sich, wo er stehen geblieben ist.": [
+        "تُرسَل حزم Composer وnpm إلى OSV، بينما تُرسَل مكوّنات ووردبريس إلى NVD. لا يُسأل كل مصدر إلا عما يحتفظ به: فقاعدة NVD لا تفهرس حزم Composer بهذه الأسماء، ويعيد OSV استجابة فارغة لكل إضافة ووردبريس مما قد يبدو خطأً كنتيجة سليمة. من دون مفتاح تسمح NVD بخمسة طلبات كل 30 ثانية، لذا تفحص كل جولة جزءًا من القائمة وتتذكر موضع التوقف."
+      ],
+      "Eine nicht geprüfte Komponente ist keine unauffällige Komponente.": [
+        "المكوّن غير المفحوص لا يعني أنه مكوّن خالٍ من الثغرات."
+      ],
+      "Noch kein Abgleich gelaufen.": [
+        "لم تُجرَ أي عملية فحص بعد."
+      ],
+      "Komponente": [
+        "المكوّن"
+      ],
+      "Version": [
+        "الإصدار"
+      ],
+      "Stand": [
+        "الحالة"
+      ],
+      "Quelle": [
+        "المصدر"
+      ],
+      "Geprüft (UTC)": [
+        "تاريخ الفحص (UTC)"
+      ],
+      "Treffer": [
+        "النتائج"
+      ],
+      "Einstellungen des Abgleichs": [
+        "إعدادات الفحص"
+      ],
+      "Täglicher Abgleich": [
+        "فحص يومي"
+      ],
+      "Die Software-Liste täglich gegen OSV und die NVD abgleichen": [
+        "مطابقة قائمة البرمجيات يوميًا مع قاعدتي OSV وNVD"
+      ],
+      "NVD-API-Schlüssel (optional)": [
+        "مفتاح واجهة NVD API (اختياري)"
+      ],
+      "hinterlegt — zum Ändern neu eingeben, zum Löschen leer speichern": [
+        "محفوظ — أدخل مفتاحًا جديدًا للتغيير أو احفظ الحقل فارغًا للحذف"
+      ],
+      "kein Schlüssel hinterlegt": [
+        "لا يوجد مفتاح محفوظ"
+      ],
+      "Ohne Schlüssel erlaubt die NVD fünf Anfragen je 30 Sekunden, also %1$d Komponenten pro Lauf; mit Schlüssel 50 je 30 Sekunden und %2$d Komponenten pro Lauf.": [
+        "من دون مفتاح تسمح NVD بخمسة طلبات كل 30 ثانية (%1$d مكوّنات لكل جولة)؛ ومع المفتاح 50 طلبًا كل 30 ثانية و%2$d مكوّنًا لكل جولة."
+      ],
+      "Übernehmen": [
+        "تطبيق"
+      ],
+      "Jetzt einen Durchgang ausführen": [
+        "تشغيل جولة فحص الآن"
+      ],
+      "Der geplante Abgleich ist aus; es läuft nur, was Sie hier starten.": [
+        "الفحص المجدول متوقف؛ لا يعمل إلا ما تبدؤه يدويًا من هنا."
+      ],
+      "Nächster geplanter Lauf: %s UTC.": [
+        "التشغيل المجدول التالي: %s UTC."
+      ],
+      "Der Abgleich ist eingeschaltet, aber es ist kein Lauf geplant. Einmal speichern legt den Termin an.": [
+        "الفحص مفعّل ولكن لا توجد مهمة مجدولة. الحفظ مرة واحدة ينشئ الموعد."
+      ],
+      "nicht angegeben": [
+        "غير محدّد"
+      ],
+      "Aktiver Code": [
+        "الشيفرة النشطة"
+      ],
+      "WordPress, aktive Plugins (Website und Netzwerk), Must-Use-Plugins, das aktive Theme und sein Eltern-Theme mit den Angaben aus ihren Dateiköpfen; dazu die Composer- und npm-Bibliotheken, die diese Plugins und Themes mitliefern, und die Laufzeit darunter (PHP, versionierte Erweiterungen, Datenbankserver). Inaktive Plugins sind nicht enthalten.": [
+        "نواة ووردبريس، الإضافات النشطة (الموقع والشبكة)، إضافات MU، القالب النشط وقالب الأب وفق ترويسات ملفاتها؛ إضافةً إلى مكتبات Composer وnpm المضمّنة وبيئة التشغيل التحتية (PHP، الامتدادات ذات الإصدارات، خادم قاعدة البيانات). لا تُدرج الإضافات غير النشطة."
+      ],
+      "Kryptografische Verfahren mitaufnehmen (CBOM)": [
+        "تضمين الخوارزميات التشفيرية (CBOM)"
+      ],
+      "Listet die Hash-Verfahren, Chiffren und TLS-Versionen auf, die dieser Server anbietet — auch die veralteten, denn genau dafür ist eine Krypto-Liste da. Auf einem üblichen PHP 8.3 mit OpenSSL 3.5 sind das rund 186 zusätzliche Einträge, deshalb ist die Aufnahme standardmäßig aus.": [
+        "يسرد دوال التجزئة وخوارزميات التشفير وإصدارات TLS التي يوفّرها هذا الخادم — بما فيها القديمة، لأن هذا هو الغرض من جرد التشفير. على خادم PHP 8.3 معتاد مع OpenSSL 3.5 يضيف ذلك نحو 186 عنصرًا، لذا فهو متوقف افتراضيًا."
+      ],
+      "REST-Endpunkte (/sbom, /spdx, /vex, /csaf) ohne Anmeldung öffentlich freigeben": [
+        "إتاحة نقاط نهاية REST ‏(/sbom و/spdx و/vex و/csaf) علنًا من دون تسجيل دخول"
+      ],
+      "Standardmäßig sind die Endpunkte geschützt (Administrator-Sitzung oder Authorization: Bearer <Token>). Bei öffentlicher Freigabe greifen 1 Stunde Transient-Cache und ein Ratenlimit von 60 Anfragen pro Minute.": [
+        "افتراضيًا تكون نقاط النهاية محمية (جلسة مدير أو ترويسة Authorization: Bearer <Token>). وعند الإتاحة العلنية يُطبَّق تخزين مؤقت لمدة ساعة وحدّ 60 طلبًا في الدقيقة."
+      ],
+      "Bearer-Token neu erzeugen": [
+        "إعادة إنشاء رمز Bearer"
+      ],
+      "Bearer-Token erzeugen": [
+        "إنشاء رمز Bearer"
+      ],
+      "Bearer-Token widerrufen": [
+        "إلغاء رمز Bearer"
+      ],
+      "Typ": [
+        "النوع"
+      ],
+      "Paket-URL (purl)": [
+        "رابط الحزمة (purl)"
+      ],
+      "Lizenz laut Dateikopf": [
+        "الترخيص حسب ترويسة الملف"
+      ],
+      "Gespeicherte Momentaufnahmen (neueste 10)": [
+        "اللقطات المحفوظة (أحدث 10)"
+      ],
+      "Noch keine Momentaufnahme gespeichert.": [
+        "لم يتم حفظ أي لقطة بعد."
+      ],
+      "Gespeichert (UTC)": [
+        "تاريخ الحفظ (UTC)"
+      ],
+      "Komponenten": [
+        "المكوّنات"
+      ],
+      "SHA-256 des JSON": [
+        "بصمة SHA-256 لملف JSON"
+      ],
+      "Angaben für /.well-known/security.txt": [
+        "بيانات ملف /.well-known/security.txt"
+      ],
+      "Kontakt (Pflichtfeld)": [
+        "جهة الاتصال (حقل إلزامي)"
+      ],
+      "E-Mail-Adresse (wird als mailto: ausgeliefert) oder eine https-Adresse eines Kontaktformulars.": [
+        "عنوان بريد إلكتروني (يُقدَّم بصيغة mailto:) أو رابط https لنموذج تواصل."
+      ],
+      "Ablaufdatum (Pflichtfeld)": [
+        "تاريخ الانتهاء (حقل إلزامي)"
+      ],
+      "Nach diesem Tag gilt die Datei als veraltet. RFC 9116 empfiehlt weniger als ein Jahr; weiter in der Zukunft liegende Daten werden abgelehnt.": [
+        "بعد هذا التاريخ يُعدّ الملف متقادمًا. توصي RFC 9116 بأقل من عام واحد؛ وتُرفض التواريخ الأبعد."
+      ],
+      "Bevorzugte Sprachen": [
+        "اللغات المفضّلة"
+      ],
+      "Sprachkürzel, durch Komma getrennt, z. B. de, en.": [
+        "رموز اللغات مفصولة بفواصل، مثل ar, de, en."
+      ],
+      "Richtlinie für Meldungen": [
+        "سياسة الإبلاغ"
+      ],
+      "https-Adresse einer Seite, die beschreibt, wie Meldungen behandelt werden. Leer lassen, wenn es keine gibt.": [
+        "رابط https لصفحة تشرح كيفية التعامل مع البلاغات. اتركه فارغًا إن لم يوجد."
+      ],
+      "Öffentlicher Schlüssel": [
+        "المفتاح العام"
+      ],
+      "https-Adresse eines OpenPGP-Schlüssels für verschlüsselte Meldungen. Leer lassen, wenn es keinen gibt.": [
+        "رابط https لمفتاح OpenPGP للبلاغات المشفّرة. اتركه فارغًا إن لم يوجد."
+      ],
+      "security.txt speichern": [
+        "حفظ security.txt"
+      ],
+      "Datenaufbewahrung bei Deinstallation": [
+        "الاحتفاظ بالبيانات عند إلغاء التثبيت"
+      ],
+      "Bei der Deinstallation des Plugins alle Optionen sowie gespeicherte SBOM-Momentaufnahmen, CSAF-Sicherheitshinweise, Schwachstellen-Befunde und VEX-Stellungnahmen endgültig löschen": [
+        "عند إلغاء تثبيت الإضافة، احذف نهائيًا جميع الخيارات وكذلك لقطات SBOM المحفوظة وإشعارات CSAF ونتائج الثغرات وبيانات VEX"
+      ],
+      "Standardmäßig bleiben Optionen, Nachweis-Tabellen und VEX-Stellungnahmen bei einer Plugin-Deinstallation erhalten.": [
+        "افتراضيًا يتم الاحتفاظ بالخيارات وجداول الإثبات وبيانات VEX عند إلغاء تثبيت الإضافة."
+      ],
+      "Einstellung speichern": [
+        "حفظ الإعداد"
+      ],
+      "Cyber Resilience Act (CRA)": [
+        "Cyber Resilience Act (CRA)"
+      ],
+      "Verordnung (EU) 2024/2847 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen. Sie gilt ab dem 11. Dezember 2027, die Meldepflichten nach Artikel 14 ab dem 11. September 2026 (Artikel 71). Dieses Plugin prüft nicht, ob sie für eine Website gilt.": [
+        "اللائحة (الاتحاد الأوروبي) 2024/2847 بشأن متطلبات الأمن السيبراني الأفقية للمنتجات ذات العناصر الرقمية. تُطبَّق اعتبارًا من 11 ديسمبر 2027، والتزامات الإبلاغ في المادة 14 اعتبارًا من 11 سبتمبر 2026 (المادة 71). لا تقيّم هذه الإضافة مدى انطباق اللائحة على موقع معيّن."
+      ],
+      "SBOM (Software Bill of Materials)": [
+        "SBOM (Software Bill of Materials)"
+      ],
+      "Eine formale Aufzeichnung der Komponenten einer Software und ihrer Beziehungen in der Lieferkette (Artikel 3 Nummer 39 CRA). Hersteller müssen sie laut Anhang I Teil II mindestens für die Abhängigkeiten der obersten Ebene erstellen; veröffentlichen müssen sie sie nicht.": [
+        "سجل رسمي لمكوّنات البرمجيات وعلاقاتها في سلسلة التوريد (المادة 3 البند 39 من CRA). وفق المرفق الأول الجزء الثاني يجب على المصنّعين إعداده على الأقل للتبعيات العليا؛ ولا يُشترط نشره علنًا."
+      ],
+      "CycloneDX": [
+        "CycloneDX"
+      ],
+      "Maschinenlesbares Format für Software-Stücklisten. Die Technische Richtlinie BSI TR-03183-2 beschreibt die Abbildung ihrer Datenfelder auf CycloneDX und SPDX; sie ist nach Angabe des BSI nicht verbindlich.": [
+        "تنسيق مقروء آليًا لقوائم مكوّنات البرمجيات. يصف الدليل التقني BSI TR-03183-2 ربط حقول البيانات مع CycloneDX وSPDX، وهو غير ملزم وفق المكتب الاتحادي BSI."
+      ],
+      "security.txt (RFC 9116)": [
+        "security.txt (RFC 9116)"
+      ],
+      "Textdatei unter /.well-known/security.txt mit Kontakt und Ablaufdatum, damit Sicherheitsmeldungen die richtige Stelle erreichen.": [
+        "ملف نصي في المسار /.well-known/security.txt يتضمن جهة الاتصال وتاريخ الانتهاء لوصول البلاغات الأمنية إلى الجهة الصحيحة."
+      ],
+      "CSAF 2.0": [
+        "CSAF 2.0"
+      ],
+      "Common Security Advisory Framework (OASIS): maschinenlesbares Format für Sicherheitshinweise. Dieses Plugin speichert Hinweise als Dokumente des Basisprofils und veröffentlicht keine provider-metadata.json.": [
+        "Common Security Advisory Framework (OASIS): تنسيق مقروء آليًا لإشعارات الأمان. تخزّن هذه الإضافة الإشعارات وفق الملف الأساسي ولا تنشر provider-metadata.json."
+      ],
+      "Ungültiges Bearer-Token.": [
+        "رمز Bearer غير صالح."
+      ],
+      "Zugriff verweigert: Anmeldung oder Bearer-Token erforderlich.": [
+        "تم رفض الوصول: يلزم تسجيل الدخول أو تقديم رمز Bearer."
+      ],
+      "Zu viele Anfragen. Bitte später erneut versuchen.": [
+        "طلبات كثيرة جدًا. يرجى المحاولة لاحقًا."
+      ],
+      "CRA Beacon Status": [
+        "حالة CRA Beacon"
+      ],
+      "Berechneter Status der ausgelieferten security.txt (RFC 9116).": [
+        "الحالة المحسوبة لملف security.txt المنشور (RFC 9116)."
+      ],
+      "Sicherheitshinweise und Meldung von Schwachstellen": [
+        "إشعارات الأمان والإبلاغ عن الثغرات"
+      ],
+      "Schwachstellen in dieser Website melden Sie an die unten genannte Adresse. Die Liste der eingesetzten Software und die veröffentlichten Sicherheitshinweise stehen als JSON bereit.": [
+        "أبلغ عن أي ثغرات أمنية في هذا الموقع عبر العنوان الموضح أدناه. تتوفر قائمة البرمجيات المستخدمة وإشعارات الأمان المنشورة بصيغة JSON."
+      ],
+      "Kontakt für Sicherheitsmeldungen": [
+        "جهة الاتصال للبلاغات الأمنية"
+      ],
+      "Nicht hinterlegt": [
+        "غير محدّد"
+      ],
+      "Software-Liste (CycloneDX 1.6)": [
+        "قائمة البرمجيات (CycloneDX 1.6)"
+      ],
+      "Sicherheitshinweise (JSON)": [
+        "إشعارات الأمان (JSON)"
+      ],
+      "Veröffentlichte Sicherheitshinweise": [
+        "إشعارات الأمان المنشورة"
+      ],
+      "Derzeit sind keine Sicherheitshinweise veröffentlicht.": [
+        "لا توجد حاليًا إشعارات أمان منشورة."
+      ],
+      "Schweregrad: %s": [
+        "الخطورة: %s"
+      ],
+      "Kein Produktname für die Abfrage.": [
+        "لا يوجد اسم منتج للاستعلام."
+      ],
+      "Die Version dieser Komponente ist unbekannt; ein Abgleich gegen Versionsbereiche war nicht möglich.": [
+        "إصدار هذا المكوّن غير معروف؛ تعذّرت المقارنة مع نطاقات الإصدارات."
+      ],
+      "Produkt und Schwachstelle müssen benannt sein.": [
+        "يجب تحديد المنتج والثغرة معًا."
+      ],
+      "Unbekannter VEX-Status.": [
+        "حالة VEX غير معروفة."
+      ],
+      "Die Begründung ist keine der fünf im VEX-Katalog definierten.": [
+        "التبرير ليس من بين التبريرات الخمسة المعرّفة في دليل VEX."
+      ],
+      "„nicht betroffen“ verlangt eine Begründung aus dem Katalog oder eine Erklärung im Klartext.": [
+        "تتطلب الحالة «غير متأثر» تبريرًا من الدليل أو توضيحًا نصيًا صريحًا."
+      ],
+      "„betroffen“ verlangt eine Angabe, was dagegen zu tun ist.": [
+        "تتطلب الحالة «متأثر» بيان الإجراء المطلوب اتخاذه."
+      ],
+      "%s war nicht erreichbar.": [
+        "تعذّر الوصول إلى %s."
+      ],
+      "%1$s antwortete mit HTTP %2$d.": [
+        "استجاب %1$s برمز HTTP %2$d."
+      ],
+      "Die Antwort von %s war kein JSON.": [
+        "لم تكن استجابة %s بتنسيق JSON صالح."
+      ],
+      "Die Datenbank meldete mehr Treffer, als eine Seite zurückgibt; geprüft wurde die erste Seite.": [
+        "أفادت قاعدة البيانات بوجود نتائج أكثر مما تعرضه صفحة واحدة؛ تم فحص الصفحة الأولى."
+      ],
+      "CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: فريق PSIRT وإشعارات الأمان"
+      ],
+      "Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "يعرض جهة اتصال الأمان وفق RFC 9116 وروابط SBOM وفهرس CSAF وإشعارات الأمان المنشورة."
+      ],
+      "Darstellung": [
+        "العرض"
+      ],
+      "JSON-Verweise anzeigen (SBOM & CSAF)": [
+        "إظهار روابط JSON ‏(SBOM وCSAF)"
+      ],
+      "Veröffentlichte Sicherheitshinweise anzeigen": [
+        "إظهار إشعارات الأمان المنشورة"
+      ],
+      "block title\u0004CRA Beacon: PSIRT & Sicherheitshinweise": [
+        "CRA Beacon: فريق PSIRT وإشعارات الأمان"
+      ],
+      "block description\u0004Zeigt den Sicherheitskontakt nach RFC 9116, Links zu SBOM und CSAF-Index sowie veröffentlichte Sicherheitshinweise.": [
+        "يعرض جهة اتصال الأمان وفق RFC 9116 وروابط SBOM وفهرس CSAF وإشعارات الأمان المنشورة."
+      ],
+      "block keyword\u0004security": [
+        "أمان"
+      ],
+      "block keyword\u0004sbom": [
+        "sbom"
+      ],
+      "block keyword\u0004csaf": [
+        "csaf"
+      ],
+      "block keyword\u0004psirt": [
+        "psirt"
+      ],
+      "block keyword\u0004cra": [
+        "cra"
+      ]
+    }
+  }
+}
